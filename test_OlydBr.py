@@ -37,8 +37,8 @@ class ToxicityPredictor:
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         logger.info(f"Usando dispositivo: {self.device}")
      
-        self.model = AutoModelForSequenceClassification.from_pretrained("GargulaCapixava/ModeloOLYD-BR")
-        self.tokenizer = AutoTokenizer.from_pretrained("GargulaCapixava/ModeloOLYD-BR")
+        self.model = AutoModelForSequenceClassification.from_pretrained("")
+        self.tokenizer = AutoTokenizer.from_pretrained("")
 
         self.model.to(self.device)
         self.model.eval()

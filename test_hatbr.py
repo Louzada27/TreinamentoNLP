@@ -151,7 +151,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Substitua pelo nome correto do seu modelo no Hugging Face
-MODEL_NAME = "GargulaCapixava/ModeloHateBR"
+MODEL_NAME = ""
 
 def load_model(model_name: str):
     model = AutoModelForSequenceClassification.from_pretrained(model_name)

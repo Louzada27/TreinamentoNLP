@@ -30,8 +30,8 @@ class SentimentAnalyzer:
         logger.info(f"Carregando modelo de {model_path}...")
         
         # Carrega o modelo e o tokenizer
-        self.model = AutoModelForSequenceClassification.from_pretrained("GargulaCapixava/ModeloLexiconPT")
-        self.tokenizer = AutoTokenizer.from_pretrained("GargulaCapixava/ModeloLexiconPT")
+        self.model = AutoModelForSequenceClassification.from_pretrained("")
+        self.tokenizer = AutoTokenizer.from_pretrained("")
         
         # Mapeamento de índices para sentimentos
         self.sentiment_map = {
