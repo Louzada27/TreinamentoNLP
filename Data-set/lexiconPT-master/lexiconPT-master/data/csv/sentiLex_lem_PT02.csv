@@ -1,0 +1,7015 @@
+term,grammar_category,polarity,polarity_target,polarity_classification
+a-vontade,N,1.0,N0,MAN
+abafado,Adj,-1.0,N0,JALC
+abafante,Adj,-1.0,N0,MAN
+abaixado,Adj,-1.0,N0,JALC
+abalado,Adj,-1.0,N0,JALC
+abalizado,Adj,1.0,N0,JALC
+abalroado,Adj,-1.0,N0,MAN
+abalroar,V,1.0,N0:N1,MAN
+abanar,V,1.0,N0:N1,MAN
+abandalhado,Adj,-1.0,N0,MAN
+abandalhamento,N,-1.0,N0,MAN
+abandonado,Adj,-1.0,N0,JALC
+abandonar,V,-1.0,N0:N1,MAN
+abarcante,Adj,0.0,N0,MAN
+abarrotado,Adj,-1.0,N0,JALC
+abastado,Adj,1.0,N0,MAN
+abastecido,Adj,0.0,N0,JALC
+abater,V,1.0,N0:N1,MAN
+abatido,Adj,-1.0,N0,MAN
+abelhudo,Adj,-1.0,N0,MAN
+abencoado,Adj,1.0,N0,JALC
+aberracao,N,-1.0,N0,MAN
+aberrante,Adj,-1.0,N0,MAN
+aberrativo,Adj,-1.0,N0,MAN
+aberto,Adj,1.0,N0,JALC
+abespinhado,Adj,-1.0,N0,JALC
+abestalhado,Adj,-1.0,N0,JALC
+abilolado,Adj,-1.0,N0,JALC
+abjecao,N,-1.0,N0,MAN
+abjeccao,N,-1.0,N0,MAN
+abjecto,Adj,-1.0,N0,MAN
+abjeto,Adj,-1.0,N0,JALC
+abnegado,Adj,1.0,N0,MAN
+abobado,Adj,-1.0,N0,JALC
+abobalhado,Adj,-1.0,N0,JALC
+abolicionista,Adj,0.0,N0,MAN
+abolido,Adj,-1.0,N0,JALC
+abominador,Adj,-1.0,N0,MAN
+abominando,Adj,-1.0,N0,JALC
+abominar,V,0.0,N0:N1,MAN
+abominavel,Adj,-1.0,N0,JALC
+abonado,Adj,1.0,N0,MAN
+abonatorio,Adj,1.0,N0,MAN
+abonecado,Adj,0.0,N0,MAN
+aborrecer-se,V,-1.0,N0,MAN
+aborrecer,V,1.0,N0:N1,MAN
+aborrecido,Adj,-1.0,N0,JALC
+abortado,Adj,-1.0,N0,JALC
+abracado,Adj,1.0,N0,JALC
+abrasileirado,Adj,0.0,N0,MAN
+abrigado,Adj,0.0,N0,JALC
+abrilhantado,Adj,1.0,N0,JALC
+abrir a alma,IDIOM,1.0,N0,MAN
+abrir o coracao,IDIOM,1.0,N0,MAN
+abrir os olhos,IDIOM,1.0,N0,MAN
+abrupto,Adj,-1.0,N0,MAN
+abrutalhado,Adj,-1.0,N0,MAN
+absentista,Adj,-1.0,N0,MAN
+absolutista,Adj,0.0,N0,MAN
+absoluto,Adj,0.0,N0,JALC
+absolvido,Adj,0.0,N0,JALC
+absorvente,Adj,1.0,N0,JALC
+abstemico,Adj,1.0,N0,JALC
+abstemio,Adj,1.0,N0,MAN
+abstencionista,Adj,0.0,N0,MAN
+abstinente,Adj,0.0,N0,MAN
+abstracto,Adj,-1.0,N0,JALC
+abstraido,Adj,-1.0,N0,JALC
+abstrato,Adj,-1.0,N0,JALC
+abstrusidade,N,-1.0,N0,MAN
+abstruso,Adj,-1.0,N0,MAN
+absurdo,Adj,-1.0,N0,MAN
+abulia,N,-1.0,N0,MAN
+abulico,Adj,-1.0,N0,MAN
+aburguesado,Adj,0.0,N0,MAN
+abusado,Adj,-1.0,N0,JALC
+abusador,Adj,-1.0,N0,MAN
+abusar,V,-1.0,N0:N1,MAN
+abusivo,Adj,-1.0,N0,MAN
+acabado,Adj,-1.0,N0,MAN
+acabadote,Adj,-1.0,N0,MAN
+acabrunhado,Adj,-1.0,N0,MAN
+acaciano,Adj,-1.0,N0,MAN
+academico,Adj,0.0,N0,JALC
+acalorado,Adj,0.0,N0,MAN
+acambarcador,Adj,-1.0,N0,JALC
+acanhado,Adj,-1.0,N0,MAN
+acanhamento,N,-1.0,N0,MAN
+acanhar-se,V,-1.0,N0,MAN
+acatado,Adj,1.0,N0,JALC
+acatador,Adj,0.0,N0,JALC
+acautelado,Adj,0.0,N0,JALC
+acefalo,Adj,-1.0,N0,MAN
+aceitavel,Adj,1.0,N0,JALC
+aceite,Adj,0.0,N0,JALC
+aceito,Adj,0.0,N0,JALC
+acelerado,Adj,0.0,N0,MAN
+acentuado,Adj,0.0,N0,JALC
+acerado,Adj,-1.0,N0,MAN
+acerbidade,N,-1.0,N0,MAN
+acerbo,Adj,-1.0,N0,MAN
+acerrimo,Adj,-1.0,N0,MAN
+acertado,Adj,1.0,N0,JALC
+acertar na mosca,IDIOM,1.0,N0,MAN
+acertar na mouche,IDIOM,1.0,N0,MAN
+aceso,Adj,0.0,N0,JALC
+acessivel,Adj,1.0,N0,MAN
+achacado,Adj,-1.0,N0,JALC
+achado,Adj,0.0,N0,JALC
+achar piada a,IDIOM,0.0,N0:N1,MAN
+achatado,Adj,-1.0,N0,JALC
+achegado,Adj,1.0,N0,JALC
+achincalhar,V,-1.0,N0:N1,MAN
+achinesado,Adj,0.0,N0,MAN
+acidentado,Adj,-1.0,N0,JALC
+aciganado,Adj,-1.0,N0,MAN
+acintoso,Adj,-1.0,N0,JALC
+acirrado,Adj,-1.0,N0,JALC
+aclamado,Adj,0.0,N0,JALC
+aclamar,V,0.0,N0:N1,MAN
+acobardado,Adj,-1.0,N0,JALC
+acobardar-se,V,-1.0,N0,MAN
+acobertado,Adj,-1.0,N0,JALC
+acobreado,Adj,0.0,N0,JALC
+acocado,Adj,-1.0,N0,JALC
+acoitado,Adj,-1.0,N0,JALC
+acolhedor,Adj,1.0,N0,MAN
+acolhido,Adj,0.0,N0,JALC
+acomodadico,Adj,-1.0,N0,MAN
+acomodar-se,V,-1.0,N0,MAN
+acomodaticio,Adj,0.0,N0,MAN
+acompanhado,Adj,0.0,N0,JALC
+acompanhador,Adj,0.0,N0,JALC
+acompanhante,Adj,0.0,N0,JALC
+aconchegado,Adj,1.0,N0,MAN
+acordado,Adj,0.0,N0,MAN
+acordar com o rabo para o ar,IDIOM,-1.0,N0,MAN
+acordar com os pes de fora,IDIOM,-1.0,N0,MAN
+acorrentado,Adj,-1.0,N0,JALC
+acorrentar-se,V,-1.0,N0,MAN
+acorrentar,V,1.0,N0:N1,MAN
+acossado,Adj,-1.0,N0,JALC
+acossar,V,1.0,N0:N1,MAN
+acostumado,Adj,0.0,N0,JALC
+acotovelar,V,0.0,N0:N1,MAN
+acougueiro,Adj,-1.0,N0,JALC
+acre,Adj,-1.0,N0,MAN
+acreditado,Adj,1.0,N0,JALC
+acreditar,V,0.0,N0:N1,MAN
+acriancado,Adj,-1.0,N0,MAN
+acrisolado,Adj,0.0,N0,JALC
+acritico,Adj,-1.0,N0,MAN
+activo,Adj,1.0,N0,MAN
+actualista,Adj,0.0,N0,MAN
+acudir,V,1.0,N0:N1,MAN
+aculturado,Adj,-1.0,N0,MAN
+acurado,Adj,1.0,N0,JALC
+acusado,Adj,-1.0,N0,JALC
+acusar,V,0.0,N0:N1,MAN
+acutilante,Adj,-1.0,N0,MAN
+adamico,Adj,-1.0,N0,JALC
+adaptado,Adj,0.0,N0,JALC
+adepto,Adj,1.0,N0,MAN
+adequado,Adj,1.0,N0,JALC
+adestrado,Adj,1.0,N0,MAN
+adicional,Adj,0.0,N0,JALC
+adiposo,Adj,-1.0,N0,MAN
+adjacente,Adj,0.0,N0,JALC
+administrado,Adj,0.0,N0,JALC
+admirar,V,0.0,N0:N1,MAN
+admiravel,Adj,1.0,N0,MAN
+admitido,Adj,0.0,N0,JALC
+admoestador,Adj,-1.0,N0,MAN
+adoentado,Adj,-1.0,N0,MAN
+adorado,Adj,1.0,N0,JALC
+adorando,Adj,1.0,N0,JALC
+adorar,V,0.0,N0:N1,MAN
+adoravel,Adj,1.0,N0,JALC
+adormecido,Adj,-1.0,N0,MAN
+adulador,Adj,-1.0,N0,MAN
+adulterador,Adj,-1.0,N0,MAN
+adulterino,Adj,-1.0,N0,MAN
+adulterio,N,-1.0,N0,MAN
+adultero,Adj,-1.0,N0,MAN
+adulto,Adj,0.0,N0,MAN
+adventista,Adj,0.0,N0,MAN
+adverso,Adj,-1.0,N0,MAN
+aereo,Adj,-1.0,N0,MAN
+afabilidade,N,1.0,N0,MAN
+afamado,Adj,1.0,N0,MAN
+afanado,Adj,-1.0,N0,MAN
+afasia,N,-1.0,N0,MAN
+afasico,Adj,-1.0,N0,MAN
+afastar,V,0.0,N0:N1,MAN
+afavel,Adj,1.0,N0,MAN
+afectado,Adj,-1.0,N0,JALC
+afectar,V,0.0,N0:N1,MAN
+afectividade,N,1.0,N0,MAN
+afectivo,Adj,1.0,N0,MAN
+afecto,N,1.0,N0,MAN
+afectuoso,Adj,1.0,N0,MAN
+afeicoado,Adj,1.0,N0,JALC
+afeito,Adj,0.0,N0,JALC
+afeminado,Adj,-1.0,N0,JALC
+aferido,Adj,0.0,N0,JALC
+aferrado,Adj,0.0,N0,JALC
+afetado,Adj,-1.0,N0,JALC
+afetividade,N,1.0,N0,MAN
+afetivo,Adj,1.0,N0,MAN
+afeto,N,1.0,N0,MAN
+afetuoso,Adj,1.0,N0,JALC
+afiado,Adj,-1.0,N0,JALC
+afidalgado,Adj,0.0,N0,MAN
+afilado,Adj,0.0,N0,JALC
+afilhado,Adj,0.0,N0,JALC
+afinado,Adj,1.0,N0,JALC
+afincado,Adj,0.0,N0,JALC
+afirmativo,Adj,1.0,N0,JALC
+aflicao,N,-1.0,N0,MAN
+afligido,Adj,-1.0,N0,JALC
+afligir-se,V,-1.0,N0,MAN
+afligir,V,0.0,N0:N1,MAN
+aflitivo,Adj,-1.0,N0,MAN
+aflito,Adj,-1.0,N0,MAN
+afobado,Adj,-1.0,N0,JALC
+afogado,Adj,-1.0,N0,JALC
+afogar as magoas,IDIOM,-1.0,N0,MAN
+afogar-se em pouca agua,IDIOM,-1.0,N0,MAN
+afogar-se,V,-1.0,N0,MAN
+afogueado,Adj,0.0,N0,JALC
+afoiteza,N,1.0,N0,MAN
+afoito,Adj,1.0,N0,MAN
+afortunado,Adj,1.0,N0,MAN
+afrancesado,Adj,0.0,N0,MAN
+afrontado,Adj,-1.0,N0,JALC
+afrontar,V,1.0,N0:N1,MAN
+afrontoso,Adj,-1.0,N0,JALC
+afugentar,V,1.0,N0:N1,MAN
+afundado,Adj,-1.0,N0,JALC
+afundanco,N,-1.0,N0,MAN
+afundar-se,V,-1.0,N0,MAN
+afundar,V,1.0,N0:N1,MAN
+agachado,Adj,-1.0,N0,JALC
+agarotado,Adj,-1.0,N0,MAN
+agarrado,Adj,-1.0,N0,MAN
+agarrar a oportunidade com unhas e dentes,IDIOM,1.0,N0,MAN
+agarrar a oportunidade,IDIOM,1.0,N0,MAN
+agarrar o touro pelos cornos,IDIOM,1.0,N0,MAN
+agarrar-se ao poder,IDIOM,-1.0,N0,MAN
+agasalhado,Adj,0.0,N0,MAN
+agastadico,Adj,-1.0,N0,JALC
+agastado,Adj,-1.0,N0,JALC
+agastar-se,V,-1.0,N0,MAN
+agil,Adj,1.0,N0,MAN
+agilidade,N,1.0,N0,MAN
+agiota,Adj,-1.0,N0,JALC
+agir de boa-fe,IDIOM,1.0,N0,MAN
+agir de ma-fe,IDIOM,-1.0,N0,MAN
+aglomerado,Adj,0.0,N0,JALC
+agnostico,Adj,0.0,N0,MAN
+agoirento,Adj,-1.0,N0,MAN
+agonia,N,-1.0,N0,MAN
+agoniado,Adj,-1.0,N0,JALC
+agoniante,Adj,-1.0,N0,MAN
+agoniar,V,-1.0,N0:N1,MAN
+agonizante,Adj,-1.0,N0,MAN
+agoureiro,Adj,-1.0,N0,MAN
+agourento,Adj,-1.0,N0,MAN
+agradado,Adj,1.0,N0,JALC
+agradar,V,1.0,N0:N1,MAN
+agradavel,Adj,1.0,N0,MAN
+agradecer,V,0.0,N0:N1,MAN
+agrado,N,1.0,N0,MAN
+agravado,Adj,-1.0,N0,JALC
+agravar,V,-1.0,N0:N1,MAN
+agre,Adj,-1.0,N0,JALC
+agredir,V,-1.0,N0:N1,MAN
+agregado,Adj,0.0,N0,JALC
+agressividade ,N,-1.0,N0,MAN
+agressivo,Adj,-1.0,N0,MAN
+agressor,Adj,-1.0,N0,MAN
+agreste,Adj,-1.0,N0,MAN
+agrilhoado,Adj,-1.0,N0,JALC
+agrosseirado,Adj,-1.0,N0,MAN
+aguado,Adj,-1.0,N0,JALC
+aguardado,Adj,0.0,N0,JALC
+agucado,Adj,-1.0,N0,JALC
+agudo,Adj,0.0,N0,JALC
+aguentar-se bem,IDIOM,1.0,N0,MAN
+aguentar-se,V,1.0,N0,MAN
+aguerrido,Adj,0.0,N0,MAN
+airoso,Adj,1.0,N0,MAN
+ajanotado,Adj,0.0,N0,MAN
+ajudado,Adj,1.0,N0,JALC
+ajuizado,Adj,1.0,N0,MAN
+alapado,Adj,-1.0,N0,JALC
+alarmante,Adj,-1.0,N0,MAN
+alarmismo,N,-1.0,N0,MAN
+alarmista,Adj,-1.0,N0,MAN
+alarve,Adj,-1.0,N0,MAN
+alarvice,N,-1.0,N0,MAN
+albigense,Adj,0.0,N0,MAN
+albino,Adj,-1.0,N0,JALC
+alcandorado,Adj,0.0,N0,JALC
+alcoolatra,Adj,-1.0,N0,JALC
+alcoolico,Adj,-1.0,N0,MAN
+alcoolismo,N,-1.0,N0,MAN
+alcoolizado,Adj,-1.0,N0,MAN
+alcunhado,Adj,0.0,N0,JALC
+aldrabao,Adj,-1.0,N0,MAN
+alegado,Adj,-1.0,N0,MAN
+alegrar-se,V,1.0,N0,MAN
+alegre,Adj,1.0,N0,MAN
+alegrete,Adj,0.0,N0,MAN
+alegria,N,1.0,N0,MAN
+alegrote,Adj,0.0,N0,MAN
+aleijado,Adj,-1.0,N0,MAN
+aleivoso,Adj,-1.0,N0,MAN
+alentado,Adj,1.0,N0,MAN
+alentador,Adj,1.0,N0,MAN
+alento,N,1.0,N0,MAN
+alergico,Adj,0.0,N0,MAN
+alfabetizado,Adj,0.0,N0,MAN
+algemado,Adj,-1.0,N0,JALC
+alheado,Adj,-1.0,N0,JALC
+alhear-se,V,-1.0,N0:N1,MAN
+alheio,Adj,-1.0,N0,MAN
+aliado,Adj,0.0,N0,JALC
+alicercado,Adj,1.0,N0,JALC
+aliciado,Adj,-1.0,N0,JALC
+aliciar,V,-1.0,N0:N1,MAN
+alienacao mental,N,-1.0,N0,MAN
+alienado,Adj,-1.0,N0,MAN
+alienigena,Adj,-1.0,N0,JALC
+aligeirado,Adj,0.0,N0,JALC
+alimentado,Adj,0.0,N0,JALC
+alinhado,Adj,1.0,N0,JALC
+aliviado,Adj,0.0,N0,JALC
+almo,Adj,1.0,N0,JALC
+almoada,Adj,0.0,N0,MAN
+almoravida,Adj,0.0,N0,MAN
+aloirado,Adj,0.0,N0,MAN
+alourado,Adj,0.0,N0,MAN
+alquebrado,Adj,-1.0,N0,MAN
+altamente,Adj,1.0,N0,JALC
+altaneiro,Adj,-1.0,N0,MAN
+alteroso,Adj,0.0,N0,JALC
+altivo,Adj,-1.0,N0,MAN
+alto,Adj,0.0,N0,MAN
+altruismo,N,1.0,N0,MAN
+altruista,Adj,1.0,N0,MAN
+altruistico,Adj,1.0,N0,MAN
+aluado,Adj,-1.0,N0,MAN
+alucinacao,N,-1.0,N0,MAN
+alucinado,Adj,-1.0,N0,MAN
+alucinar,V,-1.0,N0,MAN
+alumbrado,Adj,-1.0,N0,JALC
+alumiado,Adj,1.0,N0,MAN
+alvejado,Adj,0.0,N0,JALC
+alvissareiro,Adj,0.0,N0,MAN
+alvoracado,Adj,-1.0,N0,MAN
+amabilidade,N,1.0,N0,MAN
+amachucado,Adj,-1.0,N0,JALC
+amachucar,V,1.0,N0:N1,MAN
+amado,Adj,1.0,N0,JALC
+amador,Adj,0.0,N0,JALC
+amadorismo,N,-1.0,N0,MAN
+amadurecer,V,1.0,N0,MAN
+amadurecido,Adj,1.0,N0,JALC
+amaldicoado,Adj,-1.0,N0,JALC
+amalucado,Adj,-1.0,N0,JALC
+amamentado,Adj,0.0,N0,JALC
+amaneirado,Adj,-1.0,N0,MAN
+amar,V,0.0,N0:N1,MAN
+amarelado,Adj,-1.0,N0,JALC
+amarelo,Adj,-1.0,N0,JALC
+amargado,Adj,-1.0,N0,JALC
+amargo,Adj,-1.0,N0,MAN
+amargura,N,-1.0,N0,MAN
+amargurado,Adj,-1.0,N0,MAN
+amaricado,Adj,-1.0,N0,JALC
+amarrado,Adj,-1.0,N0,JALC
+amassado,Adj,-1.0,N0,JALC
+amavel,Adj,1.0,N0,MAN
+ambicioso,Adj,0.0,N0,MAN
+ambidestro,Adj,0.0,N0,MAN
+ambidextro,Adj,0.0,N0,MAN
+ambiguidade,N,-1.0,N0,MAN
+ambiguo,Adj,-1.0,N0,MAN
+ambiopia,N,-1.0,N0,MAN
+ambliopia,N,-1.0,N0,MAN
+ambrosiano,Adj,0.0,N0,MAN
+ameaca,N,-1.0,N0,MAN
+ameacador,Adj,-1.0,N0,MAN
+ameacante,Adj,-1.0,N0,MAN
+amedrontado,Adj,-1.0,N0,JALC
+amedrontador,Adj,-1.0,N0,MAN
+amedrontar,V,1.0,N0:N1,MAN
+ameno,Adj,1.0,N0,JALC
+americanista,Adj,0.0,N0,MAN
+americanofilo,Adj,0.0,N0,MAN
+americanofobo,Adj,-1.0,N0,MAN
+amestrado,Adj,1.0,N0,JALC
+amigalhaco,Adj,1.0,N0,MAN
+amigalhao,Adj,1.0,N0,MAN
+amigavel,Adj,1.0,N0,MAN
+amigo da onca,Adj,-1.0,N0,MAN
+amigo da pinga,Adj,-1.0,N0,MAN
+amigo dos copos,Adj,-1.0,N0,MAN
+amigo,Adj,1.0,N0,MAN
+amistoso,Adj,1.0,N0,MAN
+amnesia,N,-1.0,N0,MAN
+amnesico,Adj,-1.0,N0,MAN
+amolecer,V,-1.0,N0,MAN
+amoral,Adj,-1.0,N0,MAN
+amoralidade,N,-1.0,N0,MAN
+amoralista,Adj,-1.0,N0,JALC
+amoravel,Adj,1.0,N0,MAN
+amorfia,N,-1.0,N0,MAN
+amorfo,Adj,-1.0,N0,MAN
+amorosidade,N,1.0,N0,MAN
+amoroso,Adj,1.0,N0,MAN
+amortecido,Adj,-1.0,N0,JALC
+amotinado,Adj,-1.0,N0,JALC
+amputado,Adj,-1.0,N0,JALC
+amuado,Adj,-1.0,N0,MAN
+amuamento,N,-1.0,N0,MAN
+amuar,V,-1.0,N0,MAN
+amuo,N,-1.0,N0,MAN
+anacronico,Adj,-1.0,N0,JALC
+anacronico,Adj,-1.0,N0,JALC
+anafado,Adj,-1.0,N0,MAN
+analfabeto,Adj,-1.0,N0,MAN
+analisador,Adj,0.0,N0,JALC
+analista,Adj,0.0,N0,JALC
+anao,Adj,-1.0,N0,MAN
+anarquico,Adj,-1.0,N0,JALC
+anarquista,Adj,-1.0,N0,MAN
+anciao,Adj,0.0,N0,MAN
+andante,Adj,-1.0,N0,JALC
+andar a apanhar bones,IDIOM,-1.0,N0,MAN
+andar a deriva,IDIOM,-1.0,N0,MAN
+andar a dormir a sombra da bananeira,IDIOM,-1.0,N0,MAN
+andar a dormir,IDIOM,-1.0,N0,MAN
+andar a falar sozinho,IDIOM,-1.0,N0,MAN
+andar a nora,IDIOM,-1.0,N0,MAN
+andar a pensar na morte da bezerra,IDIOM,-1.0,N0,MAN
+andar a reboque de,IDIOM,-1.0,N0:N1,MAN
+andar a sombra da bananeira,IDIOM,-1.0,N0,MAN
+andar ao deus dara,IDIOM,-1.0,N0,MAN
+andar aos bones,IDIOM,-1.0,N0,MAN
+andar aos caidos,IDIOM,-1.0,N0,MAN
+andar aos papeis,IDIOM,-1.0,N0,MAN
+andar armado em carapau de corrida,IDIOM,-1.0,N0,MAN
+andar as aranhas,IDIOM,-1.0,N0,MAN
+andar as cavalitas de,IDIOM,-1.0,N0:N1,MAN
+andar as cegas,IDIOM,-1.0,N0,MAN
+andar as turras com,IDIOM,-1.0,N0:N1,MAN
+andar com a cabeca na lua,IDIOM,-1.0,N0,MAN
+andar com cara de caso,IDIOM,-1.0,N0,MAN
+andar com dor de corno,IDIOM,-1.0,N0,MAN
+andar com dor de cotovelo,IDIOM,-1.0,N0,MAN
+andar com macacos na cabeca,IDIOM,-1.0,N0,MAN
+andar com macacos no sotao,IDIOM,-1.0,N0,MAN
+andar com macaquinhos na cabeca,IDIOM,-1.0,N0,MAN
+andar com macaquinhos no sotao,IDIOM,-1.0,N0,MAN
+andar com o coracao nas maos,IDIOM,-1.0,N0,MAN
+andar com os azeites,IDIOM,-1.0,N0,MAN
+andar de olhos vendados,IDIOM,-1.0,N0,MAN
+andar de trombas,IDIOM,-1.0,N0,MAN
+andar em pele e osso,IDIOM,-1.0,N0,MAN
+andar feito barata tonta,IDIOM,-1.0,N0,MAN
+andar feito com,IDIOM,-1.0,N0:N1,MAN
+andar na boa vida,IDIOM,-1.0,N0,MAN
+andar na lua,IDIOM,-1.0,N0,MAN
+andar na ma vida,IDIOM,-1.0,N0,MAN
+andar nas sete quintas,IDIOM,1.0,N0,MAN
+andar pelos cabelos,IDIOM,-1.0,N0,MAN
+andarilho,Adj,0.0,N0,JALC
+andrajoso,Adj,-1.0,N0,MAN
+anedotico,Adj,-1.0,N0,JALC
+anemico,Adj,-1.0,N0,JALC
+anemico,Adj,-1.0,N0,JALC
+anestesiado,Adj,-1.0,N0,JALC
+anestesiar,V,1.0,N0:N1,MAN
+anexado,Adj,0.0,N0,JALC
+anexionista,Adj,0.0,N0,MAN
+angelical,Adj,1.0,N0,MAN
+angelico,Adj,1.0,N0,MAN
+angelita,Adj,0.0,N0,MAN
+anglicano,Adj,0.0,N0,MAN
+anglofilo,Adj,0.0,N0,MAN
+anglofobo,Adj,-1.0,N0,MAN
+angustiado,Adj,-1.0,N0,JALC
+angustiante,Adj,-1.0,N0,JALC
+angustiar,V,0.0,N0:N1,MAN
+animacao,N,1.0,N0,MAN
+animado,Adj,1.0,N0,MAN
+animador,Adj,1.0,N0,MAN
+animal politico,N,1.0,N0,MAN
+animal,Adj,-1.0,N0,MAN
+animar,V,1.0,N0:N1,MAN
+animista,Adj,0.0,N0,MAN
+animosidade,N,-1.0,N0,MAN
+animoso,Adj,1.0,N0,MAN
+aniquilado,Adj,-1.0,N0,JALC
+aniquilar,V,1.0,N0:N1,MAN
+anjinho,Adj,-1.0,N0,MAN
+anomalo,Adj,-1.0,N0,JALC
+anorectico,Adj,-1.0,N0,MAN
+anoretico,Adj,-1.0,N0,MAN
+anorexia nervosa,N,-1.0,N0,MAN
+anorexia,N,-1.0,N0,MAN
+anormal,Adj,-1.0,N0,MAN
+anormalidade,N,-1.0,N0,MAN
+anotia,N,-1.0,N0,MAN
+ansioso,Adj,-1.0,N0,JALC
+antepassado,Adj,0.0,N0,JALC
+anti-republicano,Adj,-1.0,N0,MAN
+antidemocrata,Adj,-1.0,N0,MAN
+antidesportista,Adj,-1.0,N0,MAN
+antidesportivismo,N,-1.0,N0,MAN
+antidogmatico,Adj,1.0,N0,MAN
+antifascista,Adj,1.0,N0,MAN
+antifederalista,Adj,0.0,N0,MAN
+antigo,Adj,0.0,N0,MAN
+antiliberal,Adj,-1.0,N0,MAN
+antiliberalista,Adj,-1.0,N0,MAN
+antimilitarista,Adj,0.0,N0,MAN
+antinatural,Adj,-1.0,N0,MAN
+antinazista,Adj,1.0,N0,MAN
+antinomico,Adj,-1.0,N0,JALC
+antipapista,Adj,0.0,N0,MAN
+antipartidario,Adj,0.0,N0,MAN
+antipatia,N,-1.0,N0,MAN
+antipatico,Adj,-1.0,N0,MAN
+antipatriota,Adj,-1.0,N0,MAN
+antipatriotismo,N,-1.0,N0,MAN
+antipolitico,Adj,-1.0,N0,MAN
+antiquado,Adj,-1.0,N0,JALC
+antisocial,Adj,-1.0,N0,MAN
+antoniano,Adj,0.0,N0,MAN
+antonino,Adj,0.0,N0,MAN
+antropofago,Adj,-1.0,N0,MAN
+anular,V,1.0,N0:N1,MAN
+apadrinhado,Adj,0.0,N0,JALC
+apagado,Adj,-1.0,N0,MAN
+apagar-se,V,-1.0,N0,MAN
+apagar,V,1.0,N0:N1,MAN
+apaixonado,Adj,0.0,N0,JALC
+apaixonante,Adj,1.0,N0,MAN
+apaixonar-se,V,0.0,N0:N1,MAN
+apaixonar,V,1.0,N0:N1,MAN
+apalavrado,Adj,0.0,N0,JALC
+apalermado,Adj,-1.0,N0,MAN
+apalhacado,Adj,-1.0,N0,JALC
+apancado,Adj,-1.0,N0,JALC
+apanhado,Adj,-1.0,N0,JALC
+apanhar nas orelhas,IDIOM,-1.0,N0,MAN
+apanhar por tabela,IDIOM,-1.0,N0,MAN
+apaparicar,V,-1.0,N0:N1,MAN
+aparolado,Adj,-1.0,N0,MAN
+apartado,Adj,-1.0,N0,JALC
+aparvalhado,Adj,-1.0,N0,MAN
+apatetado,Adj,-1.0,N0,MAN
+apatia,N,-1.0,N0,MAN
+apatico,Adj,-1.0,N0,MAN
+apatriota,Adj,-1.0,N0,MAN
+apavorado,Adj,-1.0,N0,JALC
+apavorante,Adj,-1.0,N0,MAN
+apavorar-se,V,-1.0,N0,MAN
+apavorar,V,1.0,N0:N1,MAN
+apaziguador,Adj,1.0,N0,MAN
+apaziguar,V,1.0,N0:N1,MAN
+apeado,Adj,-1.0,N0,JALC
+apedantado,Adj,-1.0,N0,MAN
+apedrejado,Adj,-1.0,N0,JALC
+apedrejar,V,-1.0,N0:N1,MAN
+apelativo,Adj,1.0,N0,MAN
+apele,Adj,0.0,N0,JALC
+apelidado,Adj,0.0,N0,JALC
+aperaltado,Adj,-1.0,N0,MAN
+aperreado,Adj,-1.0,N0,JALC
+apessoado,Adj,1.0,N0,MAN
+apetitoso,Adj,0.0,N0,JALC
+aplaudir,V,0.0,N0:N1,MAN
+aplicado,Adj,1.0,N0,MAN
+aplicar golpes baixos a,IDIOM,-1.0,N0:N1,MAN
+apocrifo,Adj,-1.0,N0,JALC
+apoiar,V,0.0,N0:N1,MAN
+apolineo,Adj,1.0,N0,MAN
+apologetico,Adj,0.0,N0,MAN
+apoplectico,Adj,-1.0,N0,JALC
+apopletico,Adj,-1.0,N0,JALC
+apoquentado,Adj,-1.0,N0,JALC
+apoquentador,Adj,-1.0,N0,MAN
+aposentado,Adj,0.0,N0,MAN
+apostado,Adj,1.0,N0,JALC
+apostata,Adj,-1.0,N0,JALC
+aprazivel,Adj,1.0,N0,MAN
+apreciado,Adj,1.0,N0,JALC
+apreciador,Adj,1.0,N0,MAN
+apreciar,V,0.0,N0:N1,MAN
+apreciavel,Adj,1.0,N0,JALC
+apreendido,Adj,-1.0,N0,JALC
+apreensivo,Adj,-1.0,N0,MAN
+apresentar alternativas,IDIOM,1.0,N0,MAN
+apresentar resultados,IDIOM,1.0,N0,MAN
+apresentavel,Adj,1.0,N0,MAN
+apressado,Adj,0.0,N0,MAN
+aprimorado,Adj,1.0,N0,JALC
+apriorista,Adj,-1.0,N0,MAN
+aprisionado,Adj,-1.0,N0,JALC
+aprontado,Adj,0.0,N0,MAN
+aprontar,V,-1.0,N0,MAN
+apropriado,Adj,1.0,N0,MAN
+apropriar-se,V,-1.0,N0:N1,MAN
+aprovado,Adj,1.0,N0,JALC
+aproveitador,Adj,-1.0,N0,MAN
+aproveitar-se,V,-1.0,N0:N1,MAN
+aprumado,Adj,1.0,N0,MAN
+aprumo,N,1.0,N0,MAN
+apto,Adj,1.0,N0,MAN
+apunhalado,Adj,-1.0,N0,JALC
+apunhalar pelas costas,IDIOM,-1.0,N0:N1,MAN
+apunhalar,V,-1.0,N0:N1,MAN
+apupar,V,0.0,N0:N1,MAN
+apurado,Adj,1.0,N0,JALC
+aquietador,Adj,-1.0,N0,MAN
+arabe,Adj,0.0,N0,JALC
+arbitrario,Adj,-1.0,N0,JALC
+arcaico,Adj,-1.0,N0,MAN
+ardente,Adj,1.0,N0,JALC
+ardil,N,-1.0,N0,MAN
+ardiloso,Adj,-1.0,N0,MAN
+ardoroso,Adj,0.0,N0,MAN
+arduo,Adj,-1.0,N0,JALC
+arfante,Adj,-1.0,N0,MAN
+arguto,Adj,0.0,N0,MAN
+ariano,Adj,0.0,N0,MAN
+arido,Adj,-1.0,N0,JALC
+arisco,Adj,-1.0,N0,MAN
+aristocrata,Adj,0.0,N0,JALC
+aristotelico,Adj,0.0,N0,MAN
+armado,Adj,0.0,N0,MAN
+armar barraca,IDIOM,-1.0,N0,MAN
+armar-se aos cagados,IDIOM,-1.0,N0,MAN
+armar-se aos cucos,IDIOM,-1.0,N0,MAN
+armar-se em carapau de corrida,IDIOM,-1.0,N0,MAN
+armar-se em chico esperto,IDIOM,-1.0,N0,MAN
+armar-se em parvo,IDIOM,-1.0,N0,MAN
+armar-se,V,-1.0,N0,MAN
+arnaz,Adj,1.0,N0,MAN
+arquejante,Adj,-1.0,N0,MAN
+arrancado,Adj,0.0,N0,JALC
+arranhado,Adj,-1.0,N0,MAN
+arranjar lenha para se queimar,IDIOM,-1.0,N0,MAN
+arranjar sarna para se cocar,IDIOM,-1.0,N0,MAN
+arranjar um bico de obra,IDIOM,-1.0,N0,MAN
+arrasado,Adj,-1.0,N0,JALC
+arrasador,Adj,0.0,N0,MAN
+arrasante,Adj,0.0,N0,JALC
+arrasar,V,1.0,N0:N1,MAN
+arrastadeiro,Adj,-1.0,N0,JALC
+arrastado,Adj,-1.0,N0,JALC
+arrebatado,Adj,0.0,N0,MAN
+arrebatador,Adj,0.0,N0,MAN
+arrebatar,V,1.0,N0:N1,MAN
+arrebentado,Adj,-1.0,N0,JALC
+arrebitado,Adj,-1.0,N0,MAN
+arredado,Adj,-1.0,N0,JALC
+arredio,Adj,-1.0,N0,JALC
+arreliado,Adj,-1.0,N0,JALC
+arreliador,Adj,-1.0,N0,MAN
+arreliar,V,1.0,N0:N1,MAN
+arremessado,Adj,0.0,N0,JALC
+arrenegado,Adj,-1.0,N0,JALC
+arrepender-se,V,-1.0,N0,MAN
+arrepiante,Adj,-1.0,N0,MAN
+arrepio,N,-1.0,N0,MAN
+arretado,Adj,1.0,N0,JALC
+arrevesado,Adj,-1.0,N0,MAN
+arrivista,Adj,-1.0,N0,MAN
+arrogancia,N,-1.0,N0,MAN
+arrogante,Adj,-1.0,N0,MAN
+arrojado,Adj,1.0,N0,MAN
+arrolado,Adj,-1.0,N0,JALC
+arrozeiro,Adj,0.0,N0,MAN
+arruaceiro,Adj,-1.0,N0,MAN
+arrufado,Adj,-1.0,N0,MAN
+arrufo,N,-1.0,N0,MAN
+arruinado,Adj,-1.0,N0,MAN
+arruinamento,N,-1.0,N0,MAN
+arruinar-se,V,-1.0,N0,MAN
+arruinar,V,-1.0,N0:N1,MAN
+arruivado,Adj,0.0,N0,MAN
+arrumar a um canto,IDIOM,1.0,N0:N1,MAN
+arrumar as botas,IDIOM,-1.0,N0,MAN
+arrumar,V,1.0,N0:N1,MAN
+arteirice,N,-1.0,N0,MAN
+arteiro,Adj,-1.0,N0,MAN
+arteriosclerose,N,-1.0,N0,MAN
+arteriosclerotico,Adj,-1.0,N0,MAN
+artificial,Adj,-1.0,N0,MAN
+artificialidade,N,-1.0,N0,MAN
+artificio,N,-1.0,N0,MAN
+artificiosidade,N,-1.0,N0,MAN
+artificioso,Adj,-1.0,N0,MAN
+artimanha,N,-1.0,N0,MAN
+artista,Adj,0.0,N0,MAN
+artistico,Adj,1.0,N0,JALC
+artritismo,N,-1.0,N0,MAN
+ascetico,Adj,0.0,N0,MAN
+aselha,Adj,-1.0,N0,MAN
+aselhice,N,-1.0,N0,MAN
+asfixiante,Adj,-1.0,N0,JALC
+asfixiar,V,1.0,N0:N1,MAN
+asilado,Adj,-1.0,N0,JALC
+asneira,N,-1.0,N0,MAN
+asneirento,Adj,-1.0,N0,MAN
+asno,Adj,-1.0,N0,MAN
+aspereza,N,-1.0,N0,MAN
+aspero,Adj,-1.0,N0,MAN
+aspirante,Adj,0.0,N0,JALC
+asquerosidade,N,-1.0,N0,MAN
+asqueroso,Adj,-1.0,N0,MAN
+assalariado,Adj,-1.0,N0,JALC
+assaloiado,Adj,-1.0,N0,MAN
+assaltante,Adj,-1.0,N0,JALC
+assaltar,V,-1.0,N0:N1,MAN
+assanhadico,Adj,-1.0,N0,MAN
+assanhado,Adj,-1.0,N0,MAN
+assarapantado,Adj,-1.0,N0,JALC
+assassinar,V,-1.0,N0:N1,MAN
+assassino,Adj,-1.0,N0,MAN
+assaz,Adj,0.0,N0,JALC
+asseado,Adj,1.0,N0,MAN
+assediado,Adj,-1.0,N0,JALC
+assediador,Adj,-1.0,N0,MAN
+assediar,V,-1.0,N0:N1,MAN
+assedio sexual,N,-1.0,N0,MAN
+assedio,N,-1.0,N0,MAN
+asseio,N,1.0,N0,MAN
+assertivo,Adj,1.0,N0,MAN
+assexuado,Adj,0.0,N0,JALC
+assexual,Adj,0.0,N0,JALC
+assiduidade,N,1.0,N0,MAN
+assiduo,Adj,1.0,N0,MAN
+assimetrico,Adj,-1.0,N0,JALC
+assimilado,Adj,0.0,N0,JALC
+assinado,Adj,0.0,N0,JALC
+assinalado,Adj,1.0,N0,JALC
+assinalavel,Adj,1.0,N0,JALC
+assisado,Adj,1.0,N0,MAN
+assoberbado,Adj,-1.0,N0,JALC
+assolado,Adj,-1.0,N0,JALC
+assolador,Adj,-1.0,N0,JALC
+assomadico,Adj,-1.0,N0,MAN
+assombrado,Adj,-1.0,N0,JALC
+assombrar,V,1.0,N0:N1,MAN
+assustadico,Adj,-1.0,N0,MAN
+assustado,Adj,-1.0,N0,JALC
+assustador,Adj,-1.0,N0,MAN
+assustar-se,V,-1.0,N0,MAN
+assustar,V,0.0,N0:N1,MAN
+astenia,N,-1.0,N0,MAN
+astenico,Adj,-1.0,N0,MAN
+astucia,N,-1.0,N0,MAN
+astucioso,Adj,-1.0,N0,MAN
+astuto,Adj,-1.0,N0,MAN
+atabalhoacao,N,-1.0,N0,MAN
+atabalhoado,Adj,-1.0,N0,MAN
+atabalhoamento,N,-1.0,N0,MAN
+atacante,Adj,-1.0,N0,JALC
+atacar,V,1.0,N0:N1,MAN
+atado,Adj,-1.0,N0,MAN
+atafulhado,Adj,-1.0,N0,JALC
+atamancado,Adj,-1.0,N0,JALC
+atarantacao,N,-1.0,N0,MAN
+atarantado,Adj,-1.0,N0,MAN
+atarantar-se,V,-1.0,N0,MAN
+atarantar,V,1.0,N0:N1,MAN
+atarefado,Adj,0.0,N0,JALC
+atarracado,Adj,-1.0,N0,MAN
+atascado,Adj,0.0,N0,JALC
+ateado,Adj,-1.0,N0,JALC
+atemorizado,Adj,-1.0,N0,JALC
+atemorizar,V,1.0,N0:N1,MAN
+atencioso,Adj,1.0,N0,MAN
+atento,Adj,1.0,N0,MAN
+aterrado,Adj,-1.0,N0,JALC
+aterrador,Adj,-1.0,N0,MAN
+aterrorizado,Adj,-1.0,N0,JALC
+aterrorizador,Adj,-1.0,N0,MAN
+aterrorizar,V,1.0,N0:N1,MAN
+aticado,Adj,0.0,N0,JALC
+atilado,Adj,1.0,N0,MAN
+atinado,Adj,1.0,N0,MAN
+atiradico,Adj,0.0,N0,MAN
+atirar areia para os olhos de,IDIOM,-1.0,N0:N1,MAN
+atirar barro a parede,IDIOM,-1.0,N0,MAN
+atirar com as culpas a,IDIOM,-1.0,N0:N1,MAN
+atirar poeira aos olhos de,IDIOM,-1.0,N0:N1,MAN
+ativado,Adj,0.0,N0,JALC
+ativo,Adj,1.0,N0,JALC
+atleta,Adj,1.0,N0,JALC
+atletico,Adj,1.0,N0,MAN
+atoleimado,Adj,-1.0,N0,MAN
+atonito,Adj,-1.0,N0,JALC
+atonito,Adj,-1.0,N0,JALC
+atordoado,Adj,-1.0,N0,JALC
+atordoador,Adj,-1.0,N0,MAN
+atordoar,V,1.0,N0:N1,MAN
+atormentado,Adj,-1.0,N0,JALC
+atormentador,Adj,-1.0,N0,MAN
+atormentar,V,1.0,N0:N1,MAN
+atracado,Adj,-1.0,N0,JALC
+atractivo,Adj,1.0,N0,MAN
+atraente,Adj,1.0,N0,MAN
+atraicoado,Adj,-1.0,N0,JALC
+atrair,V,1.0,N0:N1,MAN
+atrapalhado,Adj,-1.0,N0,JALC
+atrapalhar-se,V,-1.0,N0,MAN
+atrapalhar,V,1.0,N0:N1,MAN
+atrasado mental,Adj,-1.0,N0,MAN
+atrasado,Adj,-1.0,N0,MAN
+atraso mental,N,-1.0,N0,MAN
+atraso,N,-1.0,N0,MAN
+atrativo,Adj,1.0,N0,JALC
+atravessadico,Adj,-1.0,N0,MAN
+atravessado,Adj,-1.0,N0,MAN
+atrevido,Adj,0.0,N0,MAN
+atrevidote,Adj,0.0,N0,MAN
+atribulado,Adj,-1.0,N0,JALC
+atroador,Adj,-1.0,N0,MAN
+atrocidade,N,-1.0,N0,MAN
+atrofia,N,-1.0,N0,MAN
+atrofiado,Adj,-1.0,N0,MAN
+atrofiante,Adj,-1.0,N0,MAN
+atrofiar-se,V,-1.0,N0,MAN
+atrofiar,V,-1.0,N0,MAN
+atropelado,Adj,-1.0,N0,JALC
+atropelar,V,-1.0,N0:N1,MAN
+atroz,Adj,-1.0,N0,MAN
+atulhado,Adj,-1.0,N0,JALC
+aturar,V,0.0,N0:N1,MAN
+aturdido,Adj,-1.0,N0,JALC
+aturdir,V,1.0,N0:N1,MAN
+audacioso,Adj,0.0,N0,MAN
+audaz,Adj,0.0,N0,MAN
+aureo,Adj,1.0,N0,JALC
+auspicioso,Adj,1.0,N0,JALC
+austero,Adj,-1.0,N0,MAN
+autenticidade,N,1.0,N0,MAN
+autentico,Adj,1.0,N0,MAN
+autismo,N,-1.0,N0,MAN
+autista,Adj,-1.0,N0,MAN
+autoconfianca,N,1.0,N0,MAN
+autoconfiante,Adj,1.0,N0,MAN
+autocrata,Adj,0.0,N0,JALC
+autodestruicao,N,-1.0,N0,MAN
+autodestrutivo,Adj,-1.0,N0,MAN
+autodidacta,Adj,1.0,N0,MAN
+autodidata,Adj,1.0,N0,MAN
+autonomia,N,1.0,N0,MAN
+autonomista,Adj,1.0,N0,MAN
+autonomo,Adj,1.0,N0,MAN
+autoritario,Adj,-1.0,N0,MAN
+autoritarismo,N,-1.0,N0,MAN
+autorizado,Adj,1.0,N0,JALC
+autosuficiencia,N,1.0,N0,MAN
+autosuficiente,Adj,1.0,N0,MAN
+auxiliado,Adj,0.0,N0,JALC
+avancado,Adj,1.0,N0,JALC
+avantajado,Adj,0.0,N0,MAN
+avarento,Adj,-1.0,N0,MAN
+avareza,N,-1.0,N0,MAN
+avariado,Adj,-1.0,N0,JALC
+avariar,V,-1.0,N0,MAN
+avaro,Adj,-1.0,N0,MAN
+avassalador,Adj,-1.0,N0,MAN
+avassalamento,N,-1.0,N0,MAN
+avassalante,Adj,-1.0,N0,MAN
+avassalar,V,1.0,N0:N1,MAN
+avencado,Adj,0.0,N0,JALC
+aventurado,Adj,0.0,N0,JALC
+aventureiro,Adj,0.0,N0,MAN
+aventuroso,Adj,0.0,N0,MAN
+averiguador,Adj,0.0,N0,JALC
+avermelhado,Adj,0.0,N0,JALC
+averroista,Adj,0.0,N0,MAN
+averso,Adj,-1.0,N0,JALC
+avesso,Adj,-1.0,N0,JALC
+avido,Adj,-1.0,N0,JALC
+aviltado,Adj,-1.0,N0,JALC
+aviltador,Adj,-1.0,N0,MAN
+aviltante,Adj,-1.0,N0,MAN
+avinagrado,Adj,-1.0,N0,MAN
+avinhado,Adj,-1.0,N0,MAN
+avisado,Adj,1.0,N0,JALC
+avulso,Adj,-1.0,N0,JALC
+azafamado,Adj,-1.0,N0,JALC
+azambrado,Adj,-1.0,N0,MAN
+azar,N,-1.0,N0,MAN
+azarado,Adj,-1.0,N0,MAN
+azarento,Adj,-1.0,N0,MAN
+azedar,V,-1.0,N0,MAN
+azedo,Adj,-1.0,N0,MAN
+azedume,N,-1.0,N0,MAN
+azeiteiro,Adj,-1.0,N0,MAN
+azelha,Adj,-1.0,N0,MAN
+azelhice,N,-1.0,N0,MAN
+azoinante,Adj,-1.0,N0,MAN
+azougado,Adj,-1.0,N0,MAN
+babaca,Adj,-1.0,N0,JALC
+babao,Adj,-1.0,N0,MAN
+babilonico,Adj,-1.0,N0,JALC
+baboseira,N,-1.0,N0,MAN
+babosice,N,-1.0,N0,MAN
+baboso,Adj,-1.0,N0,MAN
+bacano,Adj,1.0,N0,MAN
+baco para espelho,Adj,-1.0,N0,MAN
+bacoco,Adj,-1.0,N0,MAN
+baconiano,Adj,0.0,N0,MAN
+bacoquice,N,-1.0,N0,MAN
+badalhoco,Adj,-1.0,N0,MAN
+badalhoquice,N,-1.0,N0,MAN
+bagaceiro,Adj,-1.0,N0,MAN
+bagunceiro,Adj,-1.0,N0,JALC
+bairrista,Adj,0.0,N0,MAN
+baixeza,N,-1.0,N0,MAN
+baixote,Adj,-1.0,N0,MAN
+bajulador,Adj,-1.0,N0,MAN
+bajular,V,-1.0,N0:N1,MAN
+balbuciante,Adj,-1.0,N0,MAN
+balofice,N,-1.0,N0,MAN
+balofo,Adj,-1.0,N0,MAN
+bambo,Adj,-1.0,N0,JALC
+banal,Adj,-1.0,N0,JALC
+banalidade,N,-1.0,N0,MAN
+banalizar,V,-1.0,N0:N1,MAN
+banana,Adj,-1.0,N0,MAN
+bancarrota,N,-1.0,N0,MAN
+bandido,Adj,-1.0,N0,MAN
+banditismo,N,-1.0,N0,MAN
+banhado,Adj,0.0,N0,JALC
+banido,Adj,-1.0,N0,JALC
+banir,V,1.0,N0:N1,MAN
+banzado,Adj,-1.0,N0,JALC
+barafustar,V,0.0,N0:N1,MAN
+baralhado,Adj,-1.0,N0,JALC
+baralhar-se,V,-1.0,N0,MAN
+baralhar,V,0.0,N0:N1,MAN
+barateiro,Adj,0.0,N0,MAN
+barato,Adj,-1.0,N0,JALC
+barbado,Adj,0.0,N0,MAN
+barbaridade,N,-1.0,N0,MAN
+barbaro,Adj,-1.0,N0,MAN
+barbeado,Adj,0.0,N0,MAN
+barbilongo,Adj,0.0,N0,MAN
+barbudo,Adj,0.0,N0,MAN
+barrado,Adj,-1.0,N0,JALC
+barraqueiro,Adj,-1.0,N0,MAN
+barrigana,Adj,-1.0,N0,MAN
+barrigudo,Adj,-1.0,N0,MAN
+barroco,Adj,-1.0,N0,JALC
+barulhento,Adj,-1.0,N0,MAN
+baselga,Adj,-1.0,N0,MAN
+basico,Adj,-1.0,N0,MAN
+bastardo,Adj,-1.0,N0,JALC
+basto,Adj,0.0,N0,JALC
+batalhador,Adj,1.0,N0,MAN
+batalhante,Adj,1.0,N0,MAN
+batalhar,V,1.0,N0,MAN
+batateiro,Adj,0.0,N0,MAN
+batatudo,Adj,-1.0,N0,MAN
+bater a bota,IDIOM,-1.0,N0,MAN
+bater as botas,IDIOM,-1.0,N0,MAN
+bater com o nariz na porta,IDIOM,-1.0,N0,MAN
+bater no ceguinho,IDIOM,-1.0,N0,MAN
+bater no fundo,IDIOM,-1.0,N0,MAN
+bater,V,1.0,N0:N1,MAN
+batido,Adj,-1.0,N0,JALC
+batota,N,-1.0,N0,MAN
+batoteiro,Adj,-1.0,N0,MAN
+batotice,N,-1.0,N0,MAN
+bazofia,N,-1.0,N0,MAN
+bazofio,Adj,-1.0,N0,MAN
+beatice,N,-1.0,N0,MAN
+beato,Adj,-1.0,N0,MAN
+bebado,Adj,-1.0,N0,MAN
+bebedeira,N,-1.0,N0,MAN
+bebedo,Adj,-1.0,N0,MAN
+bebedor,Adj,-1.0,N0,JALC
+beberrao,Adj,-1.0,N0,JALC
+bebido,Adj,-1.0,N0,MAN
+bebum,Adj,-1.0,N0,JALC
+beicudo,Adj,-1.0,N0,MAN
+beijoqueiro,Adj,0.0,N0,MAN
+beleza,N,1.0,N0,MAN
+belfo,Adj,-1.0,N0,MAN
+belicismo,N,-1.0,N0,MAN
+belicista,Adj,-1.0,N0,MAN
+belico,Adj,-1.0,N0,MAN
+belicoso,Adj,-1.0,N0,MAN
+belo,Adj,1.0,N0,MAN
+bem ataviado,Adj,0.0,N0,MAN
+bem constituido,Adj,0.0,N0,MAN
+bem disposto,Adj,1.0,N0,MAN
+bem mandado,Adj,-1.0,N0,MAN
+bem vestido,Adj,1.0,N0,MAN
+bem-amado,Adj,1.0,N0,MAN
+bem-apessoado,Adj,1.0,N0,MAN
+bem-aventurado,Adj,1.0,N0,MAN
+bem-colocado,Adj,1.0,N0,MAN
+bem-comportado,Adj,1.0,N0,MAN
+bem-criado,Adj,1.0,N0,MAN
+bem-educado,Adj,1.0,N0,MAN
+bem-encarado,Adj,1.0,N0,MAN
+bem-falante,Adj,1.0,N0,MAN
+bem-formado,Adj,1.0,N0,MAN
+bem-humorado,Adj,1.0,N0,MAN
+bem-intencionado,Adj,1.0,N0,MAN
+bem-mandado,Adj,0.0,N0,MAN
+bem-pago,Adj,0.0,N0,MAN
+bem-parecido,Adj,1.0,N0,MAN
+bem-pensante,Adj,1.0,N0,MAN
+bem-posto,Adj,1.0,N0,MAN
+bem-sucedido,Adj,1.0,N0,MAN
+bem-vindo,Adj,1.0,N0,MAN
+bendito,Adj,1.0,N0,JALC
+beneditino,Adj,0.0,N0,MAN
+beneficiado,Adj,0.0,N0,JALC
+benefico,Adj,1.0,N0,MAN
+benemerencia,N,1.0,N0,MAN
+benemerito,Adj,1.0,N0,MAN
+benevolencia,N,1.0,N0,MAN
+benevolente,Adj,1.0,N0,MAN
+benevolo,Adj,1.0,N0,MAN
+benevolo,Adj,1.0,N0,MAN
+benfazejo,Adj,1.0,N0,MAN
+benfeitor,Adj,1.0,N0,MAN
+benfeitoria,N,1.0,N0,MAN
+benfiquista,Adj,0.0,N0,MAN
+benignidade,N,1.0,N0,MAN
+benigno,Adj,1.0,N0,MAN
+benquisto,Adj,1.0,N0,JALC
+bera,Adj,-1.0,N0,MAN
+besta,Adj,-1.0,N0,MAN
+bestial,Adj,0.0,N0,MAN
+bestialidade,N,1.0,N0,MAN
+bestificado,Adj,-1.0,N0,JALC
+bexiguento,Adj,-1.0,N0,MAN
+bibliomania,N,-1.0,N0,MAN
+bibliomano,Adj,0.0,N0,MAN
+bigamo,Adj,0.0,N0,MAN
+bilingue,Adj,0.0,N0,MAN
+bilioso,Adj,-1.0,N0,JALC
+biltre,Adj,-1.0,N0,JALC
+bimbo,Adj,-1.0,N0,MAN
+biqueiro,Adj,-1.0,N0,MAN
+bira,N,-1.0,N0,MAN
+birra,N,-1.0,N0,MAN
+birrento,Adj,-1.0,N0,MAN
+biruta,Adj,-1.0,N0,JALC
+bisbilhotar,V,-1.0,N0:N1,MAN
+bisbilhoteiro,Adj,-1.0,N0,MAN
+bisbilhotice,N,-1.0,N0,MAN
+bisonho,Adj,-1.0,N0,MAN
+bissexual,Adj,0.0,N0,MAN
+bizarria,N,-1.0,N0,MAN
+bizarro,Adj,-1.0,N0,MAN
+blasfemador,Adj,-1.0,N0,MAN
+blasfemia,N,-1.0,N0,MAN
+blasfemo,Adj,-1.0,N0,MAN
+blindado,Adj,0.0,N0,JALC
+bloqueado,Adj,-1.0,N0,JALC
+bloquear,V,-1.0,N0,MAN
+boa apresentacao,N,1.0,N0,MAN
+boa criacao,N,1.0,N0,MAN
+boa disposicao,N,1.0,N0,MAN
+boa educacao,N,1.0,N0,MAN
+boa formacao,N,1.0,N0,MAN
+boa parecenca,N,1.0,N0,MAN
+boa performance,N,1.0,N0,MAN
+boas intencoes,N,1.0,N0,MAN
+boateiro,Adj,-1.0,N0,MAN
+bobo,Adj,-1.0,N0,MAN
+boboca,Adj,-1.0,N0,JALC
+bocal,Adj,-1.0,N0,MAN
+bocejar,V,-1.0,N0,MAN
+bochechudo,Adj,-1.0,N0,MAN
+boco,Adj,-1.0,N0,JALC
+boemio,Adj,-1.0,N0,JALC
+boemio,Adj,-1.0,N0,MAN
+bojudo,Adj,-1.0,N0,MAN
+bolachudo,Adj,-1.0,N0,MAN
+bolchevique,Adj,0.0,N0,MAN
+bolchevista,Adj,0.0,N0,MAN
+bolorento,Adj,-1.0,N0,JALC
+bom aluno,Adj,1.0,N0,MAN
+bom cheiro,N,1.0,N0,MAN
+bom comportamento,N,1.0,N0,MAN
+bom desempenho,N,1.0,N0,MAN
+bom humor,N,1.0,N0,MAN
+bom-samaritano,Adj,1.0,N0,MAN
+bom,Adj,1.0,N0,MAN
+bombardear,V,1.0,N0:N1,MAN
+bombeado,Adj,-1.0,N0,JALC
+bonacheirao,Adj,0.0,N0,MAN
+bonacheiro,Adj,0.0,N0,MAN
+bonapartista,Adj,0.0,N0,MAN
+bondade,N,1.0,N0,MAN
+bondoso,Adj,1.0,N0,MAN
+boniteza,N,1.0,N0,MAN
+bonito,Adj,1.0,N0,MAN
+borbulhento,Adj,-1.0,N0,MAN
+borguista,Adj,-1.0,N0,MAN
+borrachudo,Adj,-1.0,N0,MAN
+borrado,Adj,-1.0,N0,MAN
+borralheiro,Adj,0.0,N0,MAN
+boto,Adj,-1.0,N0,JALC
+botocudo,Adj,-1.0,N0,JALC
+brabo,Adj,0.0,N0,JALC
+bracal,Adj,0.0,N0,JALC
+braceiro,Adj,1.0,N0,MAN
+brando,Adj,0.0,N0,MAN
+bravateador,Adj,-1.0,N0,MAN
+bravo,Adj,0.0,N0,MAN
+bravura,N,1.0,N0,MAN
+brega,Adj,-1.0,N0,JALC
+brejeirice,N,-1.0,N0,MAN
+brejeiro,Adj,-1.0,N0,MAN
+brejeirote,Adj,-1.0,N0,MAN
+briga,N,-1.0,N0,MAN
+brigador,Adj,-1.0,N0,MAN
+brigante,Adj,-1.0,N0,MAN
+brigao,Adj,-1.0,N0,MAN
+briguento,Adj,-1.0,N0,MAN
+brilhante,Adj,1.0,N0,MAN
+brilhar,V,1.0,N0,MAN
+brilharete,N,-1.0,N0,MAN
+brilho,N,1.0,N0,MAN
+brincalhao,Adj,0.0,N0,MAN
+brincar,V,-1.0,N0:N1,MAN
+brio,N,1.0,N0,MAN
+briosidade,N,1.0,N0,MAN
+brioso,Adj,1.0,N0,MAN
+broeiro,Adj,0.0,N0,MAN
+bronco,Adj,-1.0,N0,MAN
+bronquice,N,-1.0,N0,MAN
+bronzeado,Adj,0.0,N0,MAN
+bronzeo,Adj,0.0,N0,JALC
+brotado,Adj,0.0,N0,JALC
+brunido,Adj,0.0,N0,JALC
+bruno,Adj,-1.0,N0,JALC
+brusco,Adj,-1.0,N0,MAN
+brutal,Adj,-1.0,N0,JALC
+brutalidade,N,-1.0,N0,MAN
+brutidao,N,-1.0,N0,MAN
+bruto,Adj,-1.0,N0,MAN
+bruxaria,N,-1.0,N0,MAN
+bucha,Adj,-1.0,N0,JALC
+bucolico,Adj,0.0,N0,MAN
+budista,Adj,0.0,N0,MAN
+bufismo,N,-1.0,N0,MAN
+bufo,Adj,-1.0,N0,MAN
+bulhao,Adj,-1.0,N0,MAN
+bulhento,Adj,-1.0,N0,MAN
+bulicio,N,-1.0,N0,MAN
+bulicoso,Adj,-1.0,N0,MAN
+burgues,Adj,-1.0,N0,MAN
+burla,N,-1.0,N0,MAN
+burlado,Adj,-1.0,N0,JALC
+burlador,Adj,-1.0,N0,MAN
+burlao,Adj,-1.0,N0,MAN
+burlesco,Adj,-1.0,N0,MAN
+burlista,Adj,-1.0,N0,MAN
+burocratico,Adj,0.0,N0,JALC
+burrice,N,-1.0,N0,MAN
+burro,Adj,-1.0,N0,MAN
+cabazada,N,-1.0,N0,MAN
+cabeca dura,Adj,-1.0,N0,MAN
+cabecudo,Adj,-1.0,N0,MAN
+cabeludo,Adj,0.0,N0,MAN
+cabisbaixo,Adj,-1.0,N0,MAN
+caboclo,Adj,-1.0,N0,JALC
+cabotino,Adj,-1.0,N0,MAN
+cabralino,Adj,0.0,N0,MAN
+cabrao,Adj,-1.0,N0,MAN
+cabula,Adj,-1.0,N0,JALC
+cacado,Adj,-1.0,N0,JALC
+cacete,Adj,-1.0,N0,JALC
+caceteiro,Adj,-1.0,N0,MAN
+cachaceiro,Adj,-1.0,N0,MAN
+cadastrado,Adj,-1.0,N0,MAN
+cadaverico,Adj,-1.0,N0,MAN
+cadaveroso,Adj,-1.0,N0,MAN
+cadente,Adj,-1.0,N0,JALC
+caduco,Adj,-1.0,N0,MAN
+cafona,Adj,-1.0,N0,JALC
+cafuzo,Adj,0.0,N0,JALC
+cagao,Adj,-1.0,N0,MAN
+cagar-se,V,-1.0,N0,MAN
+cagarola,Adj,-1.0,N0,MAN
+cagativo,Adj,-1.0,N0,JALC
+caguinchas,Adj,-1.0,N0,MAN
+caido,Adj,-1.0,N0,JALC
+caipira,Adj,-1.0,N0,JALC
+cair na armadilha,IDIOM,-1.0,N0,MAN
+cair na boca do lobo,IDIOM,-1.0,N0,MAN
+cair na ratoeira,IDIOM,-1.0,N0,MAN
+cair por terra,IDIOM,-1.0,N0,MAN
+cair,V,-1.0,N0,MAN
+calaceiro,Adj,-1.0,N0,MAN
+calado,Adj,0.0,N0,MAN
+calao,Adj,-1.0,N0,JALC
+calar a boca,IDIOM,-1.0,N0,MAN
+calar o bico,IDIOM,-1.0,N0,MAN
+calar-se,V,-1.0,N0,MAN
+calar,V,1.0,N0:N1,MAN
+calcado,Adj,-1.0,N0,JALC
+calculismo,N,-1.0,N0,MAN
+calculista,Adj,-1.0,N0,MAN
+calejado,Adj,0.0,N0,MAN
+calhandreiro,Adj,-1.0,N0,MAN
+calhandrice,N,-1.0,N0,MAN
+calhorda,Adj,-1.0,N0,JALC
+calido,Adj,0.0,N0,JALC
+calino,Adj,-1.0,N0,MAN
+calipigio,Adj,1.0,N0,MAN
+calma,N,1.0,N0,MAN
+calmante,Adj,1.0,N0,JALC
+calmo,Adj,1.0,N0,MAN
+caloroso,Adj,1.0,N0,MAN
+caloteirismo,N,-1.0,N0,MAN
+caloteiro,Adj,-1.0,N0,MAN
+calotismo,N,-1.0,N0,MAN
+calunia,N,-1.0,N0,MAN
+caluniado,Adj,-1.0,N0,JALC
+caluniador,Adj,-1.0,N0,MAN
+caluniar,V,-1.0,N0:N1,MAN
+cambada,N,-1.0,N0,MAN
+cambaleante,Adj,-1.0,N0,MAN
+cambalear,V,-1.0,N0,MAN
+camelo,Adj,-1.0,N0,MAN
+camoniano,Adj,0.0,N0,MAN
+camponio,Adj,-1.0,N0,MAN
+canalha,Adj,-1.0,N0,MAN
+canalhice,N,-1.0,N0,MAN
+canceroso,Adj,-1.0,N0,JALC
+cancro,N,-1.0,N0,MAN
+candido,Adj,0.0,N0,MAN
+candongueiro,Adj,-1.0,N0,MAN
+candonguice,N,-1.0,N0,MAN
+cangalheiro,Adj,-1.0,N0,MAN
+canhestro,Adj,-1.0,N0,MAN
+canibal,Adj,-1.0,N0,MAN
+canino,Adj,-1.0,N0,JALC
+canonizado,Adj,0.0,N0,JALC
+cansado,Adj,-1.0,N0,MAN
+cansativo,Adj,-1.0,N0,MAN
+cantar bem mas nao me alegra,IDIOM,-1.0,N0,MAN
+cantar de galo,IDIOM,-1.0,N0,MAN
+cantar vitoria antes do tempo,IDIOM,-1.0,N0,MAN
+caotico,Adj,-1.0,N0,MAN
+capacitado,Adj,1.0,N0,JALC
+capaz,Adj,1.0,N0,MAN
+capcioso,Adj,-1.0,N0,MAN
+capenga,Adj,-1.0,N0,JALC
+capitoso,Adj,-1.0,N0,MAN
+capricho,N,-1.0,N0,MAN
+caprichoso,Adj,-1.0,N0,MAN
+captar eleitorado,IDIOM,1.0,N0,MAN
+caquectico,Adj,-1.0,N0,MAN
+caquetico,Adj,-1.0,N0,JALC
+caquexia,N,-1.0,N0,MAN
+cara de cu,N,-1.0,N0,MAN
+cara de pau,N,-1.0,N0,MAN
+caralho,N,-1.0,N0,MAN
+caramuleiro,Adj,0.0,N0,MAN
+carapaca,N,-1.0,N0,MAN
+carateristico,Adj,0.0,N0,JALC
+carbonizado,Adj,-1.0,N0,JALC
+carcomido,Adj,-1.0,N0,JALC
+carecer,V,-1.0,N0:N1,MAN
+carecido,Adj,-1.0,N0,JALC
+careiro,Adj,-1.0,N0,MAN
+carencia,N,-1.0,N0,MAN
+carenciado,Adj,-1.0,N0,MAN
+carente,Adj,-1.0,N0,MAN
+caricato,Adj,-1.0,N0,MAN
+caricioso,Adj,1.0,N0,MAN
+caridoso,Adj,1.0,N0,MAN
+carinho,N,1.0,N0,MAN
+carinhoso,Adj,1.0,N0,MAN
+carisma,N,1.0,N0,MAN
+carismatico,Adj,1.0,N0,MAN
+caritativo,Adj,1.0,N0,MAN
+carnal,Adj,0.0,N0,MAN
+carnavalesco,Adj,-1.0,N0,JALC
+carniceiro,Adj,-1.0,N0,MAN
+carola,Adj,1.0,N0,MAN
+carrancudo,Adj,-1.0,N0,JALC
+casadeiro,Adj,0.0,N0,MAN
+casamenteiro,Adj,0.0,N0,MAN
+caseiro,Adj,0.0,N0,MAN
+casmurrice,N,-1.0,N0,MAN
+casmurro,Adj,-1.0,N0,MAN
+casquilho,Adj,-1.0,N0,MAN
+cassete,N,-1.0,N0,MAN
+castico,Adj,1.0,N0,JALC
+castigado,Adj,-1.0,N0,JALC
+castigador,Adj,-1.0,N0,MAN
+castigar,V,1.0,N0:N1,MAN
+casto,Adj,1.0,N0,JALC
+castracao,N,-1.0,N0,MAN
+castrador,Adj,-1.0,N0,MAN
+castrar,V,1.0,N0:N1,MAN
+catalepsia,N,-1.0,N0,MAN
+catano,N,-1.0,N0,MAN
+cataplexia,N,-1.0,N0,MAN
+catarro,N,-1.0,N0,MAN
+catastrofico,Adj,-1.0,N0,JALC
+catatonia,N,-1.0,N0,MAN
+categorico,Adj,1.0,N0,MAN
+catinguento,Adj,-1.0,N0,JALC
+catita,Adj,0.0,N0,MAN
+cativante,Adj,1.0,N0,MAN
+cativar,V,1.0,N0:N1,MAN
+cativo,Adj,-1.0,N0,JALC
+catolico,Adj,0.0,N0,MAN
+caturra,Adj,-1.0,N0,MAN
+caturrice,N,-1.0,N0,MAN
+caudaloso,Adj,0.0,N0,JALC
+causador,Adj,-1.0,N0,JALC
+causticacao,N,-1.0,N0,MAN
+causticante,Adj,-1.0,N0,MAN
+causticidade,N,-1.0,N0,MAN
+caustico,Adj,-1.0,N0,MAN
+cauteloso,Adj,1.0,N0,MAN
+cauto,Adj,1.0,N0,MAN
+cavalheiresco,Adj,1.0,N0,JALC
+cavalheirismo,N,1.0,N0,MAN
+cavalheiro,Adj,1.0,N0,MAN
+cavaqueador,Adj,0.0,N0,MAN
+cavaquista,Adj,0.0,N0,MAN
+cavernicola,Adj,-1.0,N0,MAN
+cavernoso,Adj,-1.0,N0,MAN
+caviloso,Adj,-1.0,N0,MAN
+ceder,V,-1.0,N0:N1,MAN
+cego,Adj,-1.0,N0,MAN
+cegueira,N,-1.0,N0,MAN
+cegueta,Adj,-1.0,N0,MAN
+celebrado,Adj,0.0,N0,JALC
+celebre,Adj,1.0,N0,MAN
+celerado,Adj,-1.0,N0,MAN
+celestial,Adj,1.0,N0,JALC
+censurado,Adj,-1.0,N0,JALC
+censurador,Adj,0.0,N0,MAN
+censurar,V,0.0,N0:N1,MAN
+centralizador,Adj,0.0,N0,MAN
+cepo,Adj,-1.0,N0,MAN
+ceptico,Adj,0.0,N0,MAN
+cercado,Adj,-1.0,N0,JALC
+cerebral,Adj,0.0,N0,JALC
+cerebrino,Adj,0.0,N0,JALC
+cerimonial,Adj,0.0,N0,JALC
+cerimonioso,Adj,0.0,N0,MAN
+cerrado,Adj,0.0,N0,JALC
+certeiro,Adj,1.0,N0,JALC
+certificado,Adj,1.0,N0,JALC
+certo nas contas,Adj,1.0,N0,MAN
+certo,Adj,1.0,N0,JALC
+cetico,Adj,0.0,N0,JALC
+chalaceiro,Adj,-1.0,N0,MAN
+chalado,Adj,-1.0,N0,MAN
+chamado,Adj,0.0,N0,JALC
+chamar nomes a,IDIOM,0.0,N0:N1,MAN
+chamar os bois pelos nomes,IDIOM,1.0,N0,MAN
+chamativo,Adj,1.0,N0,JALC
+chamuscado,Adj,-1.0,N0,MAN
+chanfrado,Adj,-1.0,N0,MAN
+chantagista,Adj,-1.0,N0,MAN
+charlatanice,N,-1.0,N0,MAN
+charlatao,Adj,-1.0,N0,MAN
+charme,N,1.0,N0,MAN
+charmoso,Adj,1.0,N0,MAN
+chateado,Adj,-1.0,N0,JALC
+chatear,V,0.0,N0:N1,MAN
+chatice,N,-1.0,N0,MAN
+chato,Adj,-1.0,N0,MAN
+chauvinismo,N,-1.0,N0,MAN
+chauvinista,Adj,-1.0,N0,MAN
+chavao,N,-1.0,N0,MAN
+cheio de nove horas,Adj,-1.0,N0,MAN
+cheirar a mofo,IDIOM,-1.0,N0,MAN
+cheiroso,Adj,1.0,N0,MAN
+chibante,Adj,-1.0,N0,MAN
+chicaneiro,Adj,-1.0,N0,MAN
+chico esperto,Adj,-1.0,N0,MAN
+chicoteador,Adj,-1.0,N0,MAN
+chifrudo,Adj,-1.0,N0,MAN
+chinesada,N,-1.0,N0,MAN
+chinesice,N,-1.0,N0,MAN
+chinfrim,Adj,-1.0,N0,MAN
+chinfrim,N,-1.0,N0,MAN
+chinfrineiro,Adj,-1.0,N0,MAN
+chique,Adj,1.0,N0,MAN
+chistoso,Adj,0.0,N0,MAN
+chocalheiro,Adj,-1.0,N0,MAN
+chocar,V,-1.0,N0:N1,MAN
+chocarreiro,Adj,-1.0,N0,MAN
+chochice,N,-1.0,N0,MAN
+chocho,Adj,-1.0,N0,MAN
+choco,Adj,-1.0,N0,JALC
+chone,Adj,-1.0,N0,JALC
+choramingao,Adj,-1.0,N0,MAN
+choramingar,V,-1.0,N0,MAN
+choramingas,Adj,-1.0,N0,JALC
+chorao,Adj,-1.0,N0,JALC
+chorar sobre o leite derramado,IDIOM,-1.0,N0,MAN
+chorar,V,-1.0,N0,MAN
+choroso,Adj,-1.0,N0,MAN
+chulo,Adj,-1.0,N0,MAN
+chumbado,Adj,-1.0,N0,JALC
+chumbar,V,-1.0,N0,MAN
+chunga,Adj,-1.0,N0,JALC
+chupado,Adj,-1.0,N0,MAN
+chupador,Adj,-1.0,N0,MAN
+chupismo,N,-1.0,N0,MAN
+chupista,Adj,-1.0,N0,JALC
+ciceroniano,Adj,0.0,N0,MAN
+ciente,Adj,1.0,N0,JALC
+cigano,Adj,-1.0,N0,MAN
+cilindrado,Adj,-1.0,N0,MAN
+cilindrico,Adj,-1.0,N0,JALC
+cinefilo,Adj,0.0,N0,MAN
+cinico,Adj,-1.0,N0,MAN
+cinza,Adj,0.0,N0,JALC
+cinzento,Adj,0.0,N0,JALC
+cioso,Adj,-1.0,N0,JALC
+circuncidado,Adj,0.0,N0,MAN
+circunciso,Adj,0.0,N0,MAN
+circunspecto,Adj,1.0,N0,MAN
+circunstancial,Adj,0.0,N0,JALC
+circunstante,Adj,0.0,N0,JALC
+cisma,N,-1.0,N0,MAN
+cismado,Adj,-1.0,N0,JALC
+cismatico,Adj,-1.0,N0,MAN
+cisterciense,Adj,0.0,N0,MAN
+citadino,Adj,0.0,N0,JALC
+ciume,N,-1.0,N0,MAN
+ciumento,Adj,-1.0,N0,MAN
+civico,Adj,1.0,N0,JALC
+civilista,Adj,0.0,N0,MAN
+civilizado,Adj,1.0,N0,MAN
+clamoroso,Adj,-1.0,N0,MAN
+clandestino,Adj,-1.0,N0,MAN
+clarificado,Adj,0.0,N0,JALC
+clarificador,Adj,1.0,N0,MAN
+clarista,Adj,0.0,N0,MAN
+clarividencia,N,1.0,N0,MAN
+clarividente,Adj,1.0,N0,MAN
+claudicante,Adj,-1.0,N0,MAN
+claustrofobia,N,-1.0,N0,MAN
+clemencia,N,1.0,N0,MAN
+clemente,Adj,1.0,N0,MAN
+cleptomania,N,-1.0,N0,MAN
+cleptomaniaco,Adj,-1.0,N0,MAN
+cleptomano,Adj,-1.0,N0,MAN
+coagido,Adj,-1.0,N0,JALC
+coagir,V,-1.0,N0:N1,MAN
+coartado,Adj,-1.0,N0,JALC
+cobarde,Adj,-1.0,N0,MAN
+cobardia,N,-1.0,N0,MAN
+cobardola,Adj,-1.0,N0,MAN
+cobica,N,-1.0,N0,MAN
+cobicado,Adj,0.0,N0,JALC
+cobicoso,Adj,-1.0,N0,MAN
+cocainomania,N,-1.0,N0,MAN
+cocainomano,Adj,-1.0,N0,MAN
+codificado,Adj,0.0,N0,JALC
+coercivo,Adj,-1.0,N0,MAN
+coerencia,N,1.0,N0,MAN
+coerente,Adj,1.0,N0,MAN
+coeso,Adj,1.0,N0,JALC
+cogitabundo,Adj,-1.0,N0,MAN
+cogitacao,N,-1.0,N0,MAN
+cogitativo,Adj,-1.0,N0,MAN
+cognominado,Adj,0.0,N0,JALC
+coio,Adj,-1.0,N0,JALC
+coitado,Adj,-1.0,N0,MAN
+colaboracionista,Adj,-1.0,N0,MAN
+colapso,N,-1.0,N0,MAN
+colera,N,-1.0,N0,MAN
+colerico,Adj,-1.0,N0,MAN
+colocado,Adj,0.0,N0,JALC
+colocar o dedo na ferida,IDIOM,1.0,N0,MAN
+colonialista,Adj,0.0,N0,MAN
+coloquial,Adj,0.0,N0,JALC
+colossal,Adj,0.0,N0,JALC
+comandita,N,-1.0,N0,MAN
+combalido,Adj,-1.0,N0,MAN
+combalimento,N,-1.0,N0,MAN
+combatente,Adj,0.0,N0,JALC
+combater o desemprego,IDIOM,1.0,N0,MAN
+combativo,Adj,0.0,N0,MAN
+comedia,N,-1.0,N0,MAN
+comedido,Adj,1.0,N0,MAN
+comedor,Adj,-1.0,N0,MAN
+comer gato por lebre,IDIOM,-1.0,N0,MAN
+comer o pao que o diabo amassou,IDIOM,-1.0,N0,MAN
+comezinho,Adj,0.0,N0,JALC
+comichento,Adj,-1.0,N0,MAN
+comichoso,Adj,-1.0,N0,MAN
+comico,Adj,0.0,N0,MAN
+comilao,Adj,-1.0,N0,MAN
+comodismo,N,-1.0,N0,MAN
+comodista,Adj,-1.0,N0,MAN
+comovente,Adj,0.0,N0,MAN
+compactuar,V,-1.0,N0:N1,MAN
+comparsa,Adj,-1.0,N0,JALC
+compassivo,Adj,1.0,N0,MAN
+compelido,Adj,-1.0,N0,JALC
+compelir,V,-1.0,N0:N1,MAN
+compenetrado,Adj,0.0,N0,MAN
+competencia,N,1.0,N0,MAN
+competente,Adj,1.0,N0,MAN
+competitivo,Adj,0.0,N0,MAN
+compincha,Adj,1.0,N0,MAN
+complacencia,N,1.0,N0,MAN
+complacente,Adj,1.0,N0,MAN
+complexado,Adj,-1.0,N0,MAN
+complicado,Adj,-1.0,N0,JALC
+complicar a vida a,IDIOM,1.0,N0:N1,MAN
+composto,Adj,1.0,N0,JALC
+comprado,Adj,-1.0,N0,JALC
+comprar gato por lebre,IDIOM,-1.0,N0,MAN
+compreensao,N,1.0,N0,MAN
+compreensivel,Adj,1.0,N0,JALC
+compreensivo,Adj,1.0,N0,MAN
+comprometedor,Adj,-1.0,N0,JALC
+comprometido,Adj,0.0,N0,MAN
+compromissado,Adj,0.0,N0,JALC
+compulsivo,Adj,-1.0,N0,MAN
+compungido,Adj,-1.0,N0,MAN
+comuna,Adj,-1.0,N0,MAN
+comunicativo,Adj,1.0,N0,MAN
+conceituado,Adj,1.0,N0,MAN
+conceituoso,Adj,-1.0,N0,MAN
+concertado,Adj,1.0,N0,JALC
+conciliador,Adj,1.0,N0,MAN
+conciso,Adj,1.0,N0,MAN
+concordante,Adj,1.0,N0,JALC
+concreto,Adj,1.0,N0,JALC
+concupiscente,Adj,0.0,N0,MAN
+condenado,Adj,-1.0,N0,MAN
+condenar,V,0.0,N0:N1,MAN
+condenavel,Adj,-1.0,N0,JALC
+condescendencia,N,-1.0,N0,MAN
+condescendente,Adj,0.0,N0,MAN
+condicionado,Adj,0.0,N0,JALC
+condoido,Adj,-1.0,N0,MAN
+condoreiro,Adj,-1.0,N0,JALC
+confiado,Adj,0.0,N0,JALC
+confianca,N,1.0,N0,MAN
+confiante,Adj,1.0,N0,MAN
+confiar,V,0.0,N0:N1,MAN
+confiavel,Adj,1.0,N0,JALC
+confinado,Adj,0.0,N0,JALC
+conflituosidade,N,-1.0,N0,MAN
+conflituoso,Adj,-1.0,N0,MAN
+conformado,Adj,-1.0,N0,JALC
+conformar-se,V,-1.0,N0,MAN
+conformista,Adj,-1.0,N0,MAN
+confortador,Adj,1.0,N0,JALC
+confortante,Adj,1.0,N0,JALC
+confortavel,Adj,0.0,N0,JALC
+confrangedor,Adj,-1.0,N0,MAN
+confranger-se,V,-1.0,N0,MAN
+confrontar,V,1.0,N0:N1,MAN
+confundido,Adj,-1.0,N0,JALC
+confundir alhos com bugalhos,IDIOM,-1.0,N0,MAN
+confundir-se,V,-1.0,N0,MAN
+confundir,V,0.0,N0:N1,MAN
+confusao,N,-1.0,N0,MAN
+confuso,Adj,-1.0,N0,MAN
+congelado,Adj,-1.0,N0,JALC
+congestao,N,-1.0,N0,MAN
+congestionado,Adj,-1.0,N0,JALC
+congratular,V,0.0,N0:N1,MAN
+congruencia,N,1.0,N0,MAN
+congruente,Adj,1.0,N0,MAN
+conhecedor,Adj,1.0,N0,JALC
+conivente,Adj,-1.0,N0,MAN
+conluiado,Adj,-1.0,N0,JALC
+conquistador,Adj,0.0,N0,JALC
+conquistar terreno a,IDIOM,1.0,N0:N1,MAN
+conquistar,V,1.0,N0:N1,MAN
+consagrado,Adj,1.0,N0,JALC
+consciencia,N,1.0,N0,MAN
+consciencial,Adj,0.0,N0,JALC
+consciencioso,Adj,1.0,N0,MAN
+consciente,Adj,1.0,N0,MAN
+conscio,Adj,1.0,N0,JALC
+conseguir um grande feito,IDIOM,1.0,N0,MAN
+consentaneo,Adj,1.0,N0,JALC
+consequente,Adj,1.0,N0,JALC
+consertado,Adj,1.0,N0,JALC
+conservado,Adj,1.0,N0,MAN
+conservador,Adj,0.0,N0,MAN
+considerativo,Adj,1.0,N0,MAN
+consistente,Adj,1.0,N0,JALC
+consolado,Adj,0.0,N0,JALC
+conspicuidade,N,1.0,N0,MAN
+conspicuo,Adj,1.0,N0,MAN
+conspiracao,N,-1.0,N0,MAN
+conspirador,Adj,-1.0,N0,MAN
+conspirativo,Adj,-1.0,N0,MAN
+conspurcar,V,-1.0,N0:N1,MAN
+constante,Adj,1.0,N0,MAN
+consternacao,N,-1.0,N0,MAN
+consternado,Adj,-1.0,N0,MAN
+consternador,Adj,-1.0,N0,MAN
+consternar,V,-1.0,N0:N1,MAN
+constipado,Adj,-1.0,N0,JALC
+constitutivo,Adj,0.0,N0,JALC
+constrangedor,Adj,-1.0,N0,MAN
+constranger,V,-1.0,N0:N1,MAN
+constrangido,Adj,-1.0,N0,MAN
+constrangimento,N,-1.0,N0,MAN
+construtivo,Adj,1.0,N0,MAN
+consumado,Adj,1.0,N0,JALC
+consumido,Adj,-1.0,N0,JALC
+consumir-se,V,-1.0,N0,MAN
+consumista,Adj,-1.0,N0,MAN
+contactavel,Adj,0.0,N0,MAN
+contagiado,Adj,-1.0,N0,JALC
+contagioso,Adj,-1.0,N0,MAN
+contaminar,V,-1.0,N0:N1,MAN
+contemplador,Adj,0.0,N0,MAN
+contemplativo,Adj,0.0,N0,MAN
+contemporizador,Adj,0.0,N0,MAN
+contemporizante,Adj,0.0,N0,MAN
+contendedor,Adj,-1.0,N0,MAN
+contendente,Adj,-1.0,N0,MAN
+contentar-se com pouco,IDIOM,-1.0,N0,MAN
+contente,Adj,1.0,N0,MAN
+contestado,Adj,-1.0,N0,JALC
+contestar,V,0.0,N0:N1,MAN
+contido,Adj,-1.0,N0,MAN
+contingente,Adj,-1.0,N0,JALC
+contorcer-se,V,-1.0,N0,MAN
+contracto,Adj,-1.0,N0,JALC
+contradizer-se,V,-1.0,N0,MAN
+contraido,Adj,-1.0,N0,MAN
+contrair-se,V,-1.0,N0,MAN
+contranaturo,Adj,-1.0,N0,JALC
+contrapor,V,1.0,N0:N1,MAN
+contrariado,Adj,-1.0,N0,JALC
+contrariar,V,1.0,N0:N1,MAN
+contribuidor,Adj,0.0,N0,JALC
+contristacao,N,-1.0,N0,MAN
+contristado,Adj,-1.0,N0,MAN
+contrito,Adj,-1.0,N0,JALC
+controlado,Adj,1.0,N0,JALC
+controlador,Adj,-1.0,N0,MAN
+controlar,V,1.0,N0:N1,MAN
+controversia,N,-1.0,N0,MAN
+controverso,Adj,-1.0,N0,MAN
+controvertido,Adj,-1.0,N0,JALC
+contumaz,Adj,-1.0,N0,JALC
+contundencia,N,-1.0,N0,MAN
+contundente,Adj,-1.0,N0,MAN
+contundido,Adj,-1.0,N0,JALC
+contuso,Adj,-1.0,N0,JALC
+convencido,Adj,0.0,N0,MAN
+conversa fiada,N,1.0,N0,MAN
+conversadeiro,Adj,0.0,N0,MAN
+conversador,Adj,0.0,N0,MAN
+convertido,Adj,0.0,N0,MAN
+conviccao,N,1.0,N0,MAN
+convicto,Adj,0.0,N0,MAN
+convidativo,Adj,1.0,N0,JALC
+convincente,Adj,1.0,N0,MAN
+convivente,Adj,1.0,N0,MAN
+convulsivo,Adj,-1.0,N0,JALC
+cooperador,Adj,1.0,N0,MAN
+cooperante,Adj,1.0,N0,MAN
+cooperativista,Adj,0.0,N0,MAN
+coquete,Adj,-1.0,N0,MAN
+corado,Adj,0.0,N0,MAN
+coragem,N,1.0,N0,MAN
+corajoso,Adj,1.0,N0,MAN
+corcovado,Adj,-1.0,N0,MAN
+corcunda,Adj,-1.0,N0,MAN
+cordato,Adj,1.0,N0,MAN
+cordeiro,Adj,0.0,N0,MAN
+cordial,Adj,1.0,N0,MAN
+cordialidade,N,1.0,N0,MAN
+cornudo,Adj,-1.0,N0,MAN
+cornuto,Adj,-1.0,N0,MAN
+corporativista,Adj,0.0,N0,MAN
+corpulento,Adj,0.0,N0,MAN
+correcao,N,1.0,N0,MAN
+correccao,N,1.0,N0,MAN
+correcto,Adj,1.0,N0,MAN
+correr a toque de caixa,IDIOM,-1.0,N0,MAN
+correto,Adj,1.0,N0,JALC
+corrido,Adj,-1.0,N0,JALC
+corrigir,V,1.0,N0:N1,MAN
+corriqueiro,Adj,-1.0,N0,MAN
+corroer-se,V,-1.0,N0:N1,MAN
+corroer,V,-1.0,N0:N1,MAN
+corromper,V,-1.0,N0:N1,MAN
+corrompido,Adj,-1.0,N0,JALC
+corrosivo,Adj,-1.0,N0,JALC
+corrupcao,N,-1.0,N0,MAN
+corruptivel,Adj,-1.0,N0,MAN
+corruptivo,Adj,-1.0,N0,MAN
+corrupto,Adj,-1.0,N0,MAN
+corruptor,Adj,-1.0,N0,MAN
+cortado,Adj,-1.0,N0,JALC
+cortar na casaca de,IDIOM,-1.0,N0:N1,MAN
+cortar o pio a,IDIOM,1.0,N0:N1,MAN
+cortejado,Adj,0.0,N0,JALC
+cortes,Adj,1.0,N0,MAN
+cortesao,Adj,1.0,N0,MAN
+cortesia,N,1.0,N0,MAN
+coruja,Adj,0.0,N0,JALC
+coscuvilheiro,Adj,-1.0,N0,JALC
+cosmico,Adj,0.0,N0,JALC
+cosmopolita,Adj,1.0,N0,MAN
+cosmopolitico,Adj,1.0,N0,MAN
+cotado,Adj,1.0,N0,JALC
+covarde,Adj,-1.0,N0,MAN
+covardia,N,-1.0,N0,MAN
+coveiro,Adj,-1.0,N0,MAN
+coxo,Adj,-1.0,N0,MAN
+crapula,Adj,-1.0,N0,MAN
+crapuloso,Adj,-1.0,N0,MAN
+craque,Adj,1.0,N0,MAN
+crasso,Adj,-1.0,N0,JALC
+credibilidade,N,1.0,N0,MAN
+credivel,Adj,1.0,N0,MAN
+credulo,Adj,0.0,N0,MAN
+crente,Adj,0.0,N0,MAN
+crescido,Adj,1.0,N0,MAN
+crescidote,Adj,0.0,N0,MAN
+cretinice,N,-1.0,N0,MAN
+cretinismo,N,-1.0,N0,MAN
+cretino,Adj,-1.0,N0,MAN
+cretinoide,Adj,-1.0,N0,MAN
+criacionista,Adj,0.0,N0,MAN
+criancice,N,-1.0,N0,MAN
+criatividade,N,1.0,N0,MAN
+criativo,Adj,1.0,N0,MAN
+criminalidade,N,-1.0,N0,MAN
+criminoso,Adj,-1.0,N0,MAN
+crisologo,Adj,1.0,N0,MAN
+crisostomo,Adj,1.0,N0,MAN
+crispacao,N,-1.0,N0,MAN
+crispado,Adj,-1.0,N0,MAN
+crispar-se,V,-1.0,N0,MAN
+crispar,V,1.0,N0:N1,MAN
+cristalino,Adj,1.0,N0,JALC
+cristao,Adj,0.0,N0,MAN
+criterioso,Adj,1.0,N0,JALC
+criticar,V,0.0,N0:N1,MAN
+criticavel,Adj,-1.0,N0,MAN
+critico,Adj,0.0,N0,MAN
+crivado,Adj,-1.0,N0,JALC
+crivel,Adj,1.0,N0,MAN
+cromo,Adj,-1.0,N0,MAN
+cronico,Adj,0.0,N0,JALC
+cru,Adj,-1.0,N0,MAN
+crucial,Adj,0.0,N0,JALC
+crucificador,Adj,-1.0,N0,MAN
+crucificar,V,1.0,N0:N1,MAN
+cruel,Adj,-1.0,N0,MAN
+crueldade ,N,-1.0,N0,MAN
+crueza,N,-1.0,N0,MAN
+cruzar os bracos,IDIOM,-1.0,N0,MAN
+cuidado,Adj,1.0,N0,MAN
+cuidadoso,Adj,1.0,N0,MAN
+culpa,N,-1.0,N0,MAN
+culpabilizar,V,0.0,N0:N1,MAN
+culpado,Adj,-1.0,N0,JALC
+culpar,V,0.0,N0:N1,MAN
+culpas,N,-1.0,N0,MAN
+culposo,Adj,-1.0,N0,JALC
+cultivado,Adj,1.0,N0,MAN
+culto,Adj,1.0,N0,MAN
+cultura democratica,N,1.0,N0,MAN
+cumplice,Adj,0.0,N0,MAN
+cumpridor,Adj,1.0,N0,MAN
+curado,Adj,1.0,N0,JALC
+curativo,Adj,0.0,N0,JALC
+curial,Adj,1.0,N0,JALC
+curioso,Adj,0.0,N0,MAN
+curtido,Adj,1.0,N0,MAN
+curto de vistas,Adj,-1.0,N0,MAN
+curto,Adj,0.0,N0,JALC
+curvado,Adj,-1.0,N0,MAN
+curvar-se,V,-1.0,N0:N1,MAN
+curvilineo,Adj,-1.0,N0,JALC
+curvo,Adj,-1.0,N0,MAN
+cuspido,Adj,-1.0,N0,JALC
+custoso,Adj,0.0,N0,JALC
+dadivoso,Adj,1.0,N0,MAN
+dado,Adj,0.0,N0,MAN
+daltonico,Adj,-1.0,N0,MAN
+danado,Adj,-1.0,N0,MAN
+danificado,Adj,-1.0,N0,JALC
+danoso,Adj,-1.0,N0,JALC
+dar a lingua,IDIOM,-1.0,N0,MAN
+dar a sola,IDIOM,-1.0,N0,MAN
+dar a soleta,IDIOM,-1.0,N0,MAN
+dar a volta ao miolo,IDIOM,-1.0,N0,MAN
+dar alegrias a,IDIOM,1.0,N0:N1,MAN
+dar ao pe,IDIOM,-1.0,N0,MAN
+dar bandeira,IDIOM,-1.0,N0,MAN
+dar barraca,IDIOM,-1.0,N0,MAN
+dar cabo da vida a,IDIOM,-1.0,N0:N1,MAN
+dar cabo de,IDIOM,1.0,N0:N1,MAN
+dar com a boca no trombone,IDIOM,-1.0,N0,MAN
+dar com a lingua nos dentes,IDIOM,-1.0,N0,MAN
+dar com os burros na agua,IDIOM,-1.0,N0,MAN
+dar com os pes a,IDIOM,-1.0,N0:N1,MAN
+dar conta do recado,IDIOM,1.0,N0,MAN
+dar de frosques,IDIOM,-1.0,N0,MAN
+dar graxa a,IDIOM,-1.0,N0:N1,MAN
+dar no duro,IDIOM,1.0,N0,MAN
+dar o corpo ao manifesto,IDIOM,-1.0,N0,MAN
+dar o dito por nao dito,IDIOM,-1.0,N0,MAN
+dar o golpe a,IDIOM,-1.0,N0:N1,MAN
+dar o golpe do bau,IDIOM,-1.0,N0,MAN
+dar o litro,IDIOM,1.0,N0,MAN
+dar o primeiro passo,IDIOM,1.0,N0,MAN
+dar palmadinhas nas costas a,IDIOM,-1.0,N0:N1,MAN
+dar pontapes na gramatica,IDIOM,-1.0,N0,MAN
+dar tiros nos pes,IDIOM,-1.0,N0,MAN
+dar um baile a,IDIOM,1.0,N0:N1,MAN
+dar um banho a,IDIOM,1.0,N0:N1,MAN
+dar um banho de cultura a,IDIOM,1.0,N0:N1,MAN
+dar um pontape no cu a,IDIOM,-1.0,N0:N1,MAN
+dar um show de bola,IDIOM,1.0,N0,MAN
+dar um tiro no pe,IDIOM,-1.0,N0,MAN
+dar uma banhada a,IDIOM,1.0,N0:N1,MAN
+dar uma coca a,IDIOM,1.0,N0:N1,MAN
+dar uma licao a,IDIOM,1.0,N0:N1,MAN
+dar uma licao de moral a,IDIOM,1.0,N0:N1,MAN
+dar uma malha a,IDIOM,1.0,N0:N1,MAN
+dar uma maozinha a,IDIOM,1.0,N0:N1,MAN
+dar uma no cravo e outra na ferradura,IDIOM,-1.0,N0,MAN
+dar uma surra a,IDIOM,1.0,N0:N1,MAN
+dar voltas no caixao,IDIOM,-1.0,N0,MAN
+dardejante,Adj,0.0,N0,MAN
+davida,N,1.0,N0,MAN
+deambulacao,N,-1.0,N0,MAN
+deambulante,Adj,-1.0,N0,MAN
+deambular,V,-1.0,N0,MAN
+debandado,Adj,-1.0,N0,JALC
+debil,Adj,-1.0,N0,MAN
+debilidade,N,-1.0,N0,MAN
+debilitacao,N,-1.0,N0,MAN
+debilitado,Adj,-1.0,N0,MAN
+debilitar,V,1.0,N0:N1,MAN
+debochado,Adj,-1.0,N0,MAN
+deboche,N,-1.0,N0,MAN
+decadencia,N,-1.0,N0,MAN
+decadente,Adj,-1.0,N0,MAN
+decadentista,Adj,-1.0,N0,MAN
+decaido,Adj,-1.0,N0,MAN
+decapitar,V,1.0,N0:N1,MAN
+decencia,N,1.0,N0,MAN
+decente,Adj,1.0,N0,MAN
+decepado,Adj,-1.0,N0,JALC
+decepar,V,1.0,N0:N1,MAN
+decepcao,N,-1.0,N0,MAN
+decepcionado,Adj,-1.0,N0,JALC
+decepcionante,Adj,-1.0,N0,MAN
+decepcionar,V,-1.0,N0:N1,MAN
+decidido,Adj,1.0,N0,MAN
+decisivo,Adj,0.0,N0,JALC
+decoro,N,1.0,N0,MAN
+decoroso,Adj,1.0,N0,MAN
+decrepidez,N,-1.0,N0,MAN
+decrepito,Adj,-1.0,N0,MAN
+dedicacao,N,1.0,N0,MAN
+dedicado,Adj,1.0,N0,MAN
+defeituoso,Adj,-1.0,N0,MAN
+defensiva,N,-1.0,N0,MAN
+defensor,Adj,1.0,N0,JALC
+deferente,Adj,1.0,N0,MAN
+deferido,Adj,1.0,N0,JALC
+defesso,Adj,-1.0,N0,MAN
+deficiente,Adj,-1.0,N0,JALC
+definhado,Adj,-1.0,N0,MAN
+definhamento,N,-1.0,N0,MAN
+deformacao,N,-1.0,N0,MAN
+deformado,Adj,-1.0,N0,MAN
+defraudar as expectativas de,IDIOM,-1.0,N0:N1,MAN
+defraudar,V,-1.0,N0:N1,MAN
+defunto,Adj,-1.0,N0,JALC
+degenerado,Adj,-1.0,N0,MAN
+degradado,Adj,-1.0,N0,JALC
+degradante,Adj,-1.0,N0,MAN
+degredado,Adj,-1.0,N0,MAN
+degredo,N,-1.0,N0,MAN
+deicida,Adj,-1.0,N0,MAN
+deitar achas na fogueira,IDIOM,-1.0,N0,MAN
+deitar agua na fervura,IDIOM,1.0,N0,MAN
+deitar as unhas a,IDIOM,-1.0,N0,MAN
+deitar foguetes antes da festa,IDIOM,-1.0,N0,MAN
+deitar lenha na fogueira,IDIOM,-1.0,N0,MAN
+deitar poeira aos olhos a,IDIOM,-1.0,N0:N1,MAN
+deitar poeira para os olhos de,IDIOM,-1.0,N0:N1,MAN
+deitar tudo a perder,IDIOM,-1.0,N0,MAN
+deitar tudo para tras das costas,IDIOM,-1.0,N0,MAN
+deitar tudo por agua abaixo,IDIOM,-1.0,N0,MAN
+deixar com as calcas na mao,IDIOM,-1.0,N0:N1,MAN
+deixar com as maos a abanar,IDIOM,-1.0,N0:N1,MAN
+deixar de rastos,IDIOM,-1.0,N0:N1,MAN
+deixar muito a desejar,IDIOM,-1.0,N0,MAN
+deixar o barco a deriva,IDIOM,-1.0,N0,MAN
+deixar o pais de tanga,IDIOM,-1.0,N0,MAN
+deixar tudo para depois,IDIOM,-1.0,N0,MAN
+deixar-se levar,IDIOM,-1.0,N0,MAN
+delambido,Adj,-1.0,N0,MAN
+deleitoso,Adj,1.0,N0,JALC
+deleterio,Adj,-1.0,N0,JALC
+delgado,Adj,0.0,N0,MAN
+delicadeza,N,1.0,N0,MAN
+delicado,Adj,1.0,N0,MAN
+delicioso,Adj,1.0,N0,MAN
+delinquencia,N,-1.0,N0,MAN
+delinquente,Adj,-1.0,N0,MAN
+delirar,V,-1.0,N0,MAN
+delituoso,Adj,-1.0,N0,MAN
+demagogia,N,-1.0,N0,MAN
+demagogico,Adj,-1.0,N0,MAN
+demagogo,Adj,-1.0,N0,MAN
+demarcado,Adj,-1.0,N0,JALC
+demencia,N,-1.0,N0,MAN
+demente,Adj,-1.0,N0,MAN
+demerito,Adj,-1.0,N0,JALC
+demitido,Adj,-1.0,N0,JALC
+democracia,N,1.0,N0,MAN
+democrata,Adj,0.0,N0,MAN
+democraticidade,N,1.0,N0,MAN
+democratico,Adj,1.0,N0,MAN
+demode,Adj,-1.0,N0,JALC
+demolidor,Adj,-1.0,N0,JALC
+demoniaco,Adj,-1.0,N0,MAN
+demorado,Adj,-1.0,N0,MAN
+denegrido,Adj,-1.0,N0,MAN
+denegrir a imagem de,IDIOM,0.0,N0:N1,MAN
+denegrir a sua imagem,IDIOM,-1.0,N0,MAN
+denegrir,V,0.0,N0:N1,MAN
+dengoso,Adj,-1.0,N0,MAN
+denodado,Adj,1.0,N0,JALC
+depauperado,Adj,-1.0,N0,JALC
+depenado,Adj,-1.0,N0,MAN
+dependurado,Adj,-1.0,N0,JALC
+deploracao,N,-1.0,N0,MAN
+deploravel,Adj,-1.0,N0,MAN
+deportado,Adj,-1.0,N0,JALC
+deposto,Adj,-1.0,N0,JALC
+depravacao,N,-1.0,N0,MAN
+depravado,Adj,-1.0,N0,MAN
+depravador,Adj,-1.0,N0,MAN
+depreciado,Adj,-1.0,N0,JALC
+depreciar,V,-1.0,N0:N1,MAN
+depreciativo,Adj,-1.0,N0,MAN
+depressao maniaca,N,-1.0,N0,MAN
+depressao,N,-1.0,N0,MAN
+depressivo,Adj,-1.0,N0,MAN
+depressor,Adj,-1.0,N0,JALC
+deprimencia,N,-1.0,N0,MAN
+deprimente,Adj,-1.0,N0,MAN
+deprimido,Adj,-1.0,N0,MAN
+depurado,Adj,0.0,N0,JALC
+derramado,Adj,-1.0,N0,JALC
+derreado,Adj,-1.0,N0,MAN
+derreamento,N,-1.0,N0,MAN
+derrear,V,1.0,N0:N1,MAN
+derreter,V,1.0,N0:N1,MAN
+derrota,N,-1.0,N0,MAN
+derrotado,Adj,-1.0,N0,JALC
+derrotar,V,1.0,N0:N1,MAN
+derrotismo,N,-1.0,N0,MAN
+derrotista,Adj,-1.0,N0,MAN
+derrubado,Adj,-1.0,N0,JALC
+derrubar,V,1.0,N0:N1,MAN
+desabonado,Adj,-1.0,N0,MAN
+desabrido,Adj,-1.0,N0,MAN
+desabrigado,Adj,-1.0,N0,MAN
+desabusado,Adj,-1.0,N0,MAN
+desacompanhado,Adj,-1.0,N0,MAN
+desacordado,Adj,-1.0,N0,JALC
+desacreditado,Adj,-1.0,N0,JALC
+desacreditar,V,1.0,N0:N1,MAN
+desactualizado,Adj,-1.0,N0,JALC
+desadaptado,Adj,-1.0,N0,MAN
+desafectado,Adj,1.0,N0,JALC
+desafecto,Adj,-1.0,N0,JALC
+desafetado,Adj,1.0,N0,JALC
+desafeto,Adj,-1.0,N0,JALC
+desafiador,Adj,0.0,N0,MAN
+desafiante,Adj,0.0,N0,MAN
+desafinacao,N,-1.0,N0,MAN
+desafinado,Adj,-1.0,N0,MAN
+desafogado,Adj,1.0,N0,MAN
+desaforado,Adj,-1.0,N0,MAN
+desaforido,Adj,-1.0,N0,MAN
+desafortunado,Adj,-1.0,N0,MAN
+desagradado,Adj,-1.0,N0,JALC
+desagradavel,Adj,-1.0,N0,MAN
+desagradecido,Adj,-1.0,N0,MAN
+desagrado,N,-1.0,N0,MAN
+desaire,N,-1.0,N0,MAN
+desairoso,Adj,-1.0,N0,MAN
+desajeitado,Adj,-1.0,N0,MAN
+desajustado,Adj,-1.0,N0,JALC
+desalentado,Adj,-1.0,N0,MAN
+desalento,N,-1.0,N0,MAN
+desalinhado,Adj,-1.0,N0,MAN
+desalinhamento,N,-1.0,N0,MAN
+desalmado,Adj,-1.0,N0,MAN
+desalojado,Adj,-1.0,N0,MAN
+desamparado,Adj,-1.0,N0,MAN
+desamparo,N,-1.0,N0,MAN
+desancar,V,1.0,N0:N1,MAN
+desanimacao,N,-1.0,N0,MAN
+desanimado,Adj,-1.0,N0,JALC
+desanimador,Adj,-1.0,N0,MAN
+desanimo,N,-1.0,N0,MAN
+desapaixonado,Adj,-1.0,N0,MAN
+desaparafusado,Adj,-1.0,N0,MAN
+desaparecer do mapa,IDIOM,-1.0,N0,MAN
+desaparecido,Adj,-1.0,N0,JALC
+desapegado,Adj,-1.0,N0,JALC
+desapiedado,Adj,-1.0,N0,MAN
+desapontado,Adj,-1.0,N0,JALC
+desapontador,Adj,-1.0,N0,JALC
+desapossado,Adj,-1.0,N0,JALC
+desapropriado,Adj,-1.0,N0,JALC
+desaprovador,Adj,-1.0,N0,MAN
+desaproveitado,Adj,-1.0,N0,MAN
+desarmante,Adj,1.0,N0,JALC
+desarmar,V,1.0,N0:N1,MAN
+desarranjado,Adj,-1.0,N0,MAN
+desarrazoado,Adj,-1.0,N0,JALC
+desarrumado,Adj,-1.0,N0,JALC
+desarticulado,Adj,-1.0,N0,JALC
+desassisado,Adj,-1.0,N0,JALC
+desassombrado,Adj,0.0,N0,MAN
+desassossegado,Adj,-1.0,N0,MAN
+desassossego,N,-1.0,N0,MAN
+desastrado,Adj,-1.0,N0,MAN
+desastre,N,-1.0,N0,MAN
+desastroso,Adj,-1.0,N0,MAN
+desatado,Adj,0.0,N0,JALC
+desatento,Adj,-1.0,N0,JALC
+desatinado,Adj,-1.0,N0,MAN
+desatualizado,Adj,-1.0,N0,JALC
+desaustinado,Adj,-1.0,N0,MAN
+desavergonhado,Adj,-1.0,N0,MAN
+desavisado,Adj,-1.0,N0,JALC
+desbaratado,Adj,-1.0,N0,JALC
+desbaratador,Adj,-1.0,N0,JALC
+desbocado,Adj,-1.0,N0,MAN
+desbocamento,N,-1.0,N0,MAN
+desbotado,Adj,-1.0,N0,JALC
+desbragado,Adj,-1.0,N0,MAN
+desbravador,Adj,0.0,N0,JALC
+descabelado,Adj,-1.0,N0,MAN
+descabelar-se,V,-1.0,N0,MAN
+descabelar,V,1.0,N0:N1,MAN
+descabido,Adj,-1.0,N0,JALC
+descadeirado,Adj,-1.0,N0,MAN
+descalabro,N,-1.0,N0,MAN
+descalco,Adj,-1.0,N0,MAN
+descamisado,Adj,-1.0,N0,MAN
+descansado,Adj,0.0,N0,JALC
+descarado,Adj,-1.0,N0,MAN
+descaramento,N,-1.0,N0,MAN
+descarnado,Adj,-1.0,N0,MAN
+descascado,Adj,-1.0,N0,MAN
+descautelado,Adj,-1.0,N0,MAN
+descer ao mais baixo nivel,IDIOM,-1.0,N0,MAN
+descer nas sondagens,IDIOM,-1.0,N0,MAN
+descerimonioso,Adj,1.0,N0,MAN
+descerrado,Adj,-1.0,N0,JALC
+desclassificado,Adj,-1.0,N0,JALC
+descobridor,Adj,0.0,N0,JALC
+descomedido,Adj,-1.0,N0,MAN
+descomedimento,N,-1.0,N0,MAN
+descomplexado,Adj,1.0,N0,MAN
+descomprometido,Adj,0.0,N0,MAN
+descompromissado,Adj,0.0,N0,JALC
+desconcentracao,N,-1.0,N0,MAN
+desconcentrado,Adj,-1.0,N0,MAN
+desconcertado,Adj,-1.0,N0,JALC
+desconexo,Adj,-1.0,N0,JALC
+desconfiado,Adj,-1.0,N0,MAN
+desconfortavel,Adj,-1.0,N0,MAN
+desconhecedor,Adj,-1.0,N0,JALC
+desconsideracao,N,-1.0,N0,MAN
+desconsiderado,Adj,0.0,N0,JALC
+desconsolacao,N,-1.0,N0,MAN
+desconsolado,Adj,-1.0,N0,MAN
+descontentamento,N,-1.0,N0,MAN
+descontente,Adj,-1.0,N0,MAN
+descontraido,Adj,1.0,N0,MAN
+descontrolado,Adj,-1.0,N0,MAN
+descontrolo,N,-1.0,N0,MAN
+descoordenacao,N,-1.0,N0,MAN
+descoordenado,Adj,-1.0,N0,MAN
+descorado,Adj,-1.0,N0,MAN
+descorocoado,Adj,-1.0,N0,MAN
+descortes,Adj,-1.0,N0,MAN
+descortesia,N,-1.0,N0,MAN
+descrente,Adj,0.0,N0,MAN
+descuidado,Adj,-1.0,N0,MAN
+descuido,N,-1.0,N0,MAN
+desculpado,Adj,0.0,N0,JALC
+desculpavel,Adj,0.0,N0,JALC
+desdem,N,-1.0,N0,MAN
+desdenhar,V,-1.0,N0:N1,MAN
+desdenhoso,Adj,-1.0,N0,MAN
+desdentado,Adj,-1.0,N0,MAN
+desdito,Adj,-1.0,N0,JALC
+desditoso,Adj,-1.0,N0,MAN
+desejavel,Adj,1.0,N0,JALC
+deselegancia,N,-1.0,N0,MAN
+deselegante,Adj,-1.0,N0,MAN
+desembaracado,Adj,1.0,N0,MAN
+desemparelhado,Adj,-1.0,N0,JALC
+desempenado,Adj,1.0,N0,MAN
+desempregado,Adj,-1.0,N0,MAN
+desemprego,N,-1.0,N0,MAN
+desencalhado,Adj,0.0,N0,MAN
+desencalhe ,N,-1.0,N0,MAN
+desencaminhado,Adj,-1.0,N0,MAN
+desencaminhador,Adj,-1.0,N0,MAN
+desencaminhamento,N,-1.0,N0,MAN
+desencantado,Adj,0.0,N0,JALC
+desencontrado,Adj,-1.0,N0,JALC
+desengoncado,Adj,-1.0,N0,MAN
+desengracado,Adj,-1.0,N0,MAN
+desenrascado,Adj,1.0,N0,MAN
+desenvencilhado,Adj,1.0,N0,MAN
+desenvolto,Adj,1.0,N0,MAN
+desenvoltura,N,1.0,N0,MAN
+desenxabidez,N,-1.0,N0,MAN
+desenxabido,Adj,-1.0,N0,MAN
+desequilibrado,Adj,-1.0,N0,MAN
+desequilibrio,N,-1.0,N0,MAN
+desertar,V,-1.0,N0,MAN
+desertor,Adj,-1.0,N0,JALC
+desesperado,Adj,-1.0,N0,MAN
+desesperanca,N,-1.0,N0,MAN
+desesperancado,Adj,-1.0,N0,MAN
+desespero,N,-1.0,N0,MAN
+desestabilizador,Adj,-1.0,N0,MAN
+desfalcar,V,-1.0,N0:N1,MAN
+desfalecido,Adj,-1.0,N0,JALC
+desfasado,Adj,-1.0,N0,MAN
+desfavorecido,Adj,-1.0,N0,MAN
+desfeito,Adj,-1.0,N0,JALC
+desfigurado,Adj,-1.0,N0,MAN
+desforrar-se,V,1.0,N0:N1,MAN
+desfrutado,Adj,1.0,N0,JALC
+desgarrado,Adj,-1.0,N0,JALC
+desgastado,Adj,-1.0,N0,MAN
+desgaste,N,-1.0,N0,MAN
+desgosto,N,-1.0,N0,MAN
+desgostoso,Adj,-1.0,N0,JALC
+desgovernacao,N,-1.0,N0,MAN
+desgovernado,Adj,-1.0,N0,MAN
+desgoverno,N,-1.0,N0,MAN
+desgraca,N,-1.0,N0,MAN
+desgracado,Adj,-1.0,N0,MAN
+desgracioso,Adj,-1.0,N0,MAN
+desgrenhado,Adj,-1.0,N0,JALC
+desidratacao,N,-1.0,N0,MAN
+desiludido,Adj,-1.0,N0,JALC
+desimpedido,Adj,0.0,N0,MAN
+desinfeliz,Adj,-1.0,N0,MAN
+desinformacao,N,-1.0,N0,MAN
+desinformado,Adj,-1.0,N0,MAN
+desinibido,Adj,1.0,N0,MAN
+desinstruido,Adj,-1.0,N0,MAN
+desinteressado,Adj,-1.0,N0,MAN
+desinteressante,Adj,-1.0,N0,MAN
+desinteresse,N,-1.0,N0,MAN
+desistir,V,-1.0,N0:N1,MAN
+deslambido,Adj,-1.0,N0,JALC
+deslavado,Adj,-1.0,N0,MAN
+desleal,Adj,-1.0,N0,MAN
+deslealdade,N,-1.0,N0,MAN
+desleixado,Adj,-1.0,N0,MAN
+desleixar-se,V,-1.0,N0,MAN
+desleixo ,N,-1.0,N0,MAN
+desligado,Adj,-1.0,N0,JALC
+deslocado,Adj,-1.0,N0,JALC
+deslumbrante,Adj,1.0,N0,MAN
+deslumbrar,V,1.0,N0:N1,MAN
+desmaiado,Adj,-1.0,N0,JALC
+desmanchado,Adj,-1.0,N0,JALC
+desmantelado,Adj,-1.0,N0,JALC
+desmascarar,V,1.0,N0:N1,MAN
+desmazelado,Adj,-1.0,N0,MAN
+desmazelamento,N,-1.0,N0,MAN
+desmazelo,N,-1.0,N0,MAN
+desmedido,Adj,-1.0,N0,JALC
+desmemoriado,Adj,-1.0,N0,JALC
+desmentido,Adj,-1.0,N0,JALC
+desmentir,V,0.0,N0:N1,MAN
+desmesurado,Adj,-1.0,N0,JALC
+desmiolado,Adj,-1.0,N0,MAN
+desmontado,Adj,-1.0,N0,JALC
+desmoralizacao,N,-1.0,N0,MAN
+desmoralizado,Adj,-1.0,N0,MAN
+desmoralizador,Adj,-1.0,N0,MAN
+desmoronar-se,V,-1.0,N0,MAN
+desmotivacao,N,-1.0,N0,MAN
+desmotivado,Adj,-1.0,N0,MAN
+desmotivador,Adj,-1.0,N0,MAN
+desnaturado,Adj,-1.0,N0,MAN
+desnaturalizado,Adj,0.0,N0,MAN
+desnorteado,Adj,-1.0,N0,MAN
+desnorteamento,N,-1.0,N0,MAN
+desnudado,Adj,0.0,N0,MAN
+desnudo,Adj,0.0,N0,MAN
+desnutricao,N,-1.0,N0,MAN
+desobediencia,N,-1.0,N0,MAN
+desobediente,Adj,-1.0,N0,MAN
+desobrigado,Adj,0.0,N0,JALC
+desocupado,Adj,-1.0,N0,JALC
+desolacao,N,-1.0,N0,MAN
+desolado,Adj,-1.0,N0,MAN
+desolador,Adj,-1.0,N0,MAN
+desolhado,Adj,-1.0,N0,MAN
+desonestidade,N,-1.0,N0,MAN
+desonesto,Adj,-1.0,N0,MAN
+desonra,N,-1.0,N0,MAN
+desonrado,Adj,-1.0,N0,JALC
+desonrar,V,-1.0,N0:N1,MAN
+desonroso,Adj,-1.0,N0,MAN
+desordeiro,Adj,-1.0,N0,MAN
+desordem,N,-1.0,N0,MAN
+desordenado,Adj,-1.0,N0,JALC
+desorganizacao,N,-1.0,N0,MAN
+desorganizado,Adj,-1.0,N0,MAN
+desorientacao,N,-1.0,N0,MAN
+desorientado,Adj,-1.0,N0,MAN
+despachado,Adj,1.0,N0,MAN
+despassarado,Adj,-1.0,N0,JALC
+despegado,Adj,0.0,N0,JALC
+despeitado,Adj,-1.0,N0,MAN
+despeitar,V,-1.0,N0:N1,MAN
+despeito,N,-1.0,N0,MAN
+despeitorado,Adj,-1.0,N0,MAN
+despejado,Adj,-1.0,N0,JALC
+despenteado,Adj,-1.0,N0,MAN
+despercebido,Adj,-1.0,N0,JALC
+desperdicado,Adj,-1.0,N0,JALC
+desperdicador,Adj,-1.0,N0,MAN
+desperto,Adj,1.0,N0,JALC
+despesista,Adj,-1.0,N0,MAN
+despirocado,Adj,-1.0,N0,JALC
+despistado,Adj,-1.0,N0,MAN
+desplante,N,-1.0,N0,MAN
+despojado,Adj,0.0,N0,JALC
+despotico,Adj,-1.0,N0,MAN
+despregado,Adj,-1.0,N0,JALC
+desprendido,Adj,0.0,N0,MAN
+despreocupacao,N,-1.0,N0,MAN
+despreocupado,Adj,0.0,N0,MAN
+despretensioso,Adj,1.0,N0,MAN
+desprevencao,N,-1.0,N0,MAN
+desprevenido,Adj,-1.0,N0,MAN
+desprezado,Adj,-1.0,N0,JALC
+desprezavel,Adj,-1.0,N0,JALC
+desprezivel,Adj,-1.0,N0,MAN
+desprezo,N,-1.0,N0,MAN
+desprimoroso,Adj,-1.0,N0,MAN
+desproporcionado,Adj,-1.0,N0,JALC
+despropositado,Adj,-1.0,N0,MAN
+desproposito,N,-1.0,N0,MAN
+desprotegido,Adj,-1.0,N0,MAN
+despudor,N,-1.0,N0,MAN
+despudorado,Adj,-1.0,N0,MAN
+desqualificado,Adj,-1.0,N0,JALC
+desregrado,Adj,-1.0,N0,MAN
+desregulado,Adj,-1.0,N0,JALC
+desremediado,Adj,-1.0,N0,MAN
+desrespeitado,Adj,-1.0,N0,JALC
+desrespeitador,Adj,-1.0,N0,MAN
+desrespeitar,V,-1.0,N0:N1,MAN
+desrespeito,N,-1.0,N0,MAN
+desrespeitoso,Adj,-1.0,N0,MAN
+destabilizador,Adj,-1.0,N0,MAN
+destampado,Adj,-1.0,N0,JALC
+destapado,Adj,-1.0,N0,JALC
+destemido,Adj,1.0,N0,MAN
+destemperado,Adj,-1.0,N0,JALC
+desterrado,Adj,-1.0,N0,JALC
+destoante,Adj,-1.0,N0,MAN
+destrambelhado,Adj,-1.0,N0,MAN
+destrambelhamento,N,-1.0,N0,MAN
+destratado,Adj,-1.0,N0,JALC
+destravado,Adj,-1.0,N0,MAN
+destrocado,Adj,-1.0,N0,MAN
+destroco,N,-1.0,N0,MAN
+destronar,V,1.0,N0:N1,MAN
+destruicao,N,-1.0,N0,MAN
+destruido,Adj,-1.0,N0,JALC
+destruidor,Adj,-1.0,N0,MAN
+destruir,V,1.0,N0:N1,MAN
+destrutivo,Adj,-1.0,N0,MAN
+destrutor,Adj,-1.0,N0,MAN
+desumanidade,N,-1.0,N0,MAN
+desumano,Adj,-1.0,N0,MAN
+desunido,Adj,-1.0,N0,JALC
+desusado,Adj,-1.0,N0,JALC
+desvairado,Adj,-1.0,N0,MAN
+desvairamento,N,-1.0,N0,MAN
+desvalido,Adj,-1.0,N0,MAN
+desvanecer,V,-1.0,N0,MAN
+desvanecido,Adj,0.0,N0,JALC
+desvantagem,N,-1.0,N0,MAN
+desvariado,Adj,-1.0,N0,MAN
+desvario,N,-1.0,N0,MAN
+desvelado,Adj,1.0,N0,MAN
+desvelo,N,1.0,N0,MAN
+desvendado,Adj,0.0,N0,JALC
+desventurado,Adj,-1.0,N0,MAN
+desventuroso,Adj,-1.0,N0,MAN
+desviar dinheiro,IDIOM,-1.0,N0,MAN
+desvirtuado,Adj,-1.0,N0,JALC
+desvitalizado,Adj,-1.0,N0,JALC
+detalhado,Adj,1.0,N0,JALC
+deteriorado,Adj,-1.0,N0,JALC
+deteriorar,V,-1.0,N0:N1,MAN
+determinacao,N,1.0,N0,MAN
+determinado,Adj,1.0,N0,MAN
+detestado,Adj,-1.0,N0,JALC
+detestar,V,0.0,N0:N1,MAN
+detestavel,Adj,-1.0,N0,MAN
+detido,Adj,-1.0,N0,JALC
+detrator,Adj,-1.0,N0,JALC
+deturpado,Adj,-1.0,N0,JALC
+deturpar,V,-1.0,N0:N1,MAN
+devaneador,Adj,-1.0,N0,MAN
+devassado,Adj,-1.0,N0,JALC
+devassidao,N,-1.0,N0,MAN
+devasso,Adj,-1.0,N0,MAN
+devastado,Adj,-1.0,N0,JALC
+devastador,Adj,-1.0,N0,MAN
+devastar,V,1.0,N0:N1,MAN
+dever comer farinha maizena,IDIOM,-1.0,N0,MAN
+dever dobrar a lingua,IDIOM,-1.0,N0,MAN
+dever ter vergonha na cara,IDIOM,-1.0,N0,MAN
+devoto de Baco,Adj,-1.0,N0,MAN
+diabolico,Adj,-1.0,N0,MAN
+diabolismo,N,-1.0,N0,MAN
+diafano,Adj,1.0,N0,JALC
+dialogante,Adj,1.0,N0,MAN
+difamacao,N,-1.0,N0,MAN
+difamado,Adj,-1.0,N0,MAN
+difamador,Adj,-1.0,N0,MAN
+difamar,V,-1.0,N0:N1,MAN
+difamatorio,Adj,-1.0,N0,MAN
+diferente,Adj,0.0,N0,JALC
+dificil,Adj,-1.0,N0,MAN
+dificultar a vida a,IDIOM,1.0,N0:N1,MAN
+dificultar,V,1.0,N0:N1,MAN
+difuso,Adj,-1.0,N0,JALC
+dignidade,N,1.0,N0,MAN
+dignificar,V,1.0,N0:N1,MAN
+digno de confianca,Adj,1.0,N0,MAN
+digno,Adj,1.0,N0,MAN
+digressionista,Adj,-1.0,N0,MAN
+digressivo,Adj,-1.0,N0,MAN
+dilacerado,Adj,-1.0,N0,JALC
+dilacerar,V,1.0,N0:N1,MAN
+diletante,Adj,0.0,N0,MAN
+diligencia,N,1.0,N0,MAN
+diligente,Adj,1.0,N0,MAN
+diminuido,Adj,-1.0,N0,JALC
+diminuir,V,1.0,N0:N1,MAN
+dinamico,Adj,1.0,N0,MAN
+dinamismo,N,1.0,N0,MAN
+dinamizador,Adj,1.0,N0,MAN
+diplomacia,N,1.0,N0,MAN
+diplomatico,Adj,1.0,N0,MAN
+directo,Adj,1.0,N0,MAN
+direito de contas,Adj,1.0,N0,MAN
+direito,Adj,1.0,N0,JALC
+direto,Adj,1.0,N0,MAN
+disciplina,N,1.0,N0,MAN
+disciplinado,Adj,1.0,N0,MAN
+disciplinador,Adj,0.0,N0,MAN
+discolo,Adj,-1.0,N0,MAN
+discreto,Adj,1.0,N0,MAN
+discricao,N,1.0,N0,MAN
+discriminacao,N,-1.0,N0,MAN
+discriminado,Adj,-1.0,N0,JALC
+discriminador,Adj,-1.0,N0,MAN
+discriminar,V,-1.0,N0:N1,MAN
+discursivo,Adj,0.0,N0,MAN
+disfarcado,Adj,-1.0,N0,JALC
+disfonia,N,-1.0,N0,MAN
+disforme,Adj,-1.0,N0,MAN
+disformidade,N,-1.0,N0,MAN
+dislexia,N,-1.0,N0,MAN
+dislexico,Adj,-1.0,N0,MAN
+disparatado,Adj,-1.0,N0,MAN
+disparatar,V,-1.0,N0,MAN
+disparate,N,-1.0,N0,MAN
+dispensado,Adj,0.0,N0,JALC
+dispensavel,Adj,-1.0,N0,JALC
+dispersivo,Adj,-1.0,N0,MAN
+disperso,Adj,-1.0,N0,JALC
+displicencia,N,-1.0,N0,MAN
+displicente,Adj,-1.0,N0,MAN
+disponivel,Adj,0.0,N0,MAN
+dissidente,Adj,-1.0,N0,JALC
+dissimulacao,N,-1.0,N0,MAN
+dissimulado,Adj,-1.0,N0,MAN
+dissimular,V,-1.0,N0,MAN
+dissipado,Adj,-1.0,N0,JALC
+dissipador,Adj,-1.0,N0,MAN
+dissoluto,Adj,-1.0,N0,MAN
+dissolvido,Adj,-1.0,N0,JALC
+distante,Adj,-1.0,N0,MAN
+distinguido,Adj,0.0,N0,JALC
+distintivo,Adj,0.0,N0,JALC
+distinto,Adj,1.0,N0,MAN
+distorcer,V,-1.0,N0,MAN
+distorcido,Adj,-1.0,N0,JALC
+distraido,Adj,-1.0,N0,MAN
+ditador,Adj,-1.0,N0,MAN
+ditoso,Adj,1.0,N0,MAN
+divagacao,N,-1.0,N0,MAN
+divagador,Adj,-1.0,N0,MAN
+divagante,Adj,-1.0,N0,MAN
+divagar,V,-1.0,N0,MAN
+divertido,Adj,1.0,N0,MAN
+divertimento,N,1.0,N0,MAN
+divinal,Adj,1.0,N0,MAN
+divino,Adj,1.0,N0,MAN
+divo,Adj,0.0,N0,JALC
+divulgador,Adj,0.0,N0,JALC
+dizer a verdade,IDIOM,1.0,N0,MAN
+dizer algumas verdades a,IDIOM,1.0,N0:N1,MAN
+dizer cobras e lagartos de,IDIOM,-1.0,N0:N1,MAN
+dizer mal de,IDIOM,0.0,N0:N1,MAN
+dizer umas quantas verdades a,IDIOM,1.0,N0:N1,MAN
+dizimado,Adj,-1.0,N0,JALC
+dizimar,V,1.0,N0:N1,MAN
+dobradico,Adj,0.0,N0,MAN
+doce,Adj,1.0,N0,MAN
+docil,Adj,1.0,N0,MAN
+docilidade,N,1.0,N0,MAN
+docura,N,1.0,N0,MAN
+doente,Adj,-1.0,N0,MAN
+doentio,Adj,-1.0,N0,MAN
+dogmatico,Adj,-1.0,N0,MAN
+dogmatista,Adj,-1.0,N0,MAN
+doidivanas,Adj,-1.0,N0,JALC
+doido de todo,Adj,-1.0,N0,MAN
+doido varrido,Adj,-1.0,N0,MAN
+doido,Adj,-1.0,N0,MAN
+dolente,Adj,-1.0,N0,JALC
+dolorido,Adj,-1.0,N0,MAN
+doloso,Adj,-1.0,N0,JALC
+domado,Adj,0.0,N0,JALC
+dominado,Adj,-1.0,N0,JALC
+dominador,Adj,1.0,N0,MAN
+dominante,Adj,1.0,N0,JALC
+dominar,V,1.0,N0:N1,MAN
+donairoso,Adj,1.0,N0,MAN
+donzel,Adj,0.0,N0,MAN
+dopado,Adj,-1.0,N0,MAN
+dopagem,N,-1.0,N0,MAN
+dorido,Adj,-1.0,N0,MAN
+dormencia,N,-1.0,N0,MAN
+dormente,Adj,-1.0,N0,MAN
+dorminhoco,Adj,-1.0,N0,MAN
+dormitar,V,-1.0,N0,MAN
+dotado,Adj,1.0,N0,MAN
+doudo,Adj,-1.0,N0,JALC
+douto,Adj,1.0,N0,MAN
+doutrinado,Adj,1.0,N0,JALC
+doutrinador,Adj,0.0,N0,MAN
+draconiano,Adj,-1.0,N0,MAN
+dramatico,Adj,-1.0,N0,MAN
+dramatismo,N,-1.0,N0,MAN
+dramatizar,V,-1.0,N0:N1,MAN
+drastico,Adj,-1.0,N0,MAN
+droga,N,-1.0,N0,MAN
+drogado,Adj,-1.0,N0,MAN
+dromomania,N,-1.0,N0,MAN
+dromomaniaco,Adj,-1.0,N0,MAN
+dubiedade,N,-1.0,N0,MAN
+dubio,Adj,-1.0,N0,MAN
+dubitativo,Adj,-1.0,N0,MAN
+duficuldades,N,-1.0,N0,MAN
+duplice,Adj,-1.0,N0,MAN
+duplicidade,N,-1.0,N0,MAN
+durazio,Adj,1.0,N0,MAN
+duro da mioleira,Adj,-1.0,N0,MAN
+duro de ouvido,Adj,-1.0,N0,MAN
+duro,Adj,-1.0,N0,MAN
+duvidar,V,0.0,N0:N1,MAN
+duvidoso,Adj,-1.0,N0,JALC
+ebrio,Adj,0.0,N0,MAN
+eclectico,Adj,1.0,N0,JALC
+ecletico,Adj,1.0,N0,JALC
+ecologico,Adj,1.0,N0,MAN
+economico,Adj,1.0,N0,JALC
+economico,Adj,1.0,N0,MAN
+economizador,Adj,1.0,N0,MAN
+edificante,Adj,1.0,N0,MAN
+edipiano,Adj,-1.0,N0,MAN
+educacao,N,1.0,N0,MAN
+educado,Adj,1.0,N0,MAN
+educador,Adj,1.0,N0,JALC
+educativo,Adj,1.0,N0,JALC
+educavel,Adj,0.0,N0,MAN
+efeminado,Adj,-1.0,N0,MAN
+eficacia,N,1.0,N0,MAN
+eficaz,Adj,1.0,N0,MAN
+eficiencia,N,1.0,N0,MAN
+eficiente,Adj,1.0,N0,MAN
+efusivo,Adj,1.0,N0,MAN
+egoismo,N,-1.0,N0,MAN
+egoista,Adj,-1.0,N0,MAN
+egotista,Adj,-1.0,N0,MAN
+egregio,Adj,1.0,N0,MAN
+elastico,Adj,1.0,N0,MAN
+electrizante,Adj,1.0,N0,JALC
+elegancia,N,1.0,N0,MAN
+elegante,Adj,1.0,N0,MAN
+elegiaco,Adj,-1.0,N0,JALC
+eleicoeiro,Adj,-1.0,N0,MAN
+eletrizante,Adj,1.0,N0,JALC
+eliminar,V,1.0,N0:N1,MAN
+elitista,Adj,-1.0,N0,MAN
+elogiar,V,0.0,N0:N1,MAN
+elogio,N,1.0,N0,MAN
+elogioso,Adj,1.0,N0,MAN
+eloquencia,N,1.0,N0,MAN
+eloquente,Adj,1.0,N0,MAN
+elucidar,V,1.0,N0:N1,MAN
+elucidativo,Adj,1.0,N0,JALC
+emaciado,Adj,-1.0,N0,JALC
+emancipado,Adj,1.0,N0,MAN
+emaranhado,Adj,-1.0,N0,JALC
+embacado,Adj,-1.0,N0,JALC
+embaciado,Adj,-1.0,N0,JALC
+embaracado,Adj,-1.0,N0,MAN
+embaraco ,N,-1.0,N0,MAN
+embaracoso,Adj,-1.0,N0,MAN
+embasbacado,Adj,-1.0,N0,JALC
+embatucado,Adj,-1.0,N0,JALC
+embeicado,Adj,0.0,N0,JALC
+embirracao,N,-1.0,N0,MAN
+embirrante,Adj,-1.0,N0,MAN
+embirrar,V,0.0,N0:N1,MAN
+embirrento,Adj,-1.0,N0,MAN
+emblematico,Adj,1.0,N0,JALC
+embotado,Adj,-1.0,N0,JALC
+embriagado,Adj,-1.0,N0,MAN
+embrulhado,Adj,-1.0,N0,JALC
+embruxado,Adj,-1.0,N0,MAN
+embucado,Adj,-1.0,N0,JALC
+embuchado,Adj,-1.0,N0,MAN
+emburrado,Adj,-1.0,N0,JALC
+embuste,N,-1.0,N0,MAN
+embusteiro,Adj,-1.0,N0,MAN
+emerito,Adj,1.0,N0,MAN
+emocional,Adj,0.0,N0,MAN
+emotivo,Adj,0.0,N0,MAN
+empafio,Adj,-1.0,N0,MAN
+empalidecido,Adj,-1.0,N0,MAN
+empalmado,Adj,-1.0,N0,JALC
+empanturrado,Adj,-1.0,N0,MAN
+empapado,Adj,0.0,N0,JALC
+empapucado,Adj,-1.0,N0,JALC
+empedernido,Adj,-1.0,N0,MAN
+empedernimento,N,-1.0,N0,MAN
+empenhado,Adj,1.0,N0,MAN
+empenho,N,1.0,N0,MAN
+emperrado,Adj,-1.0,N0,MAN
+emperramento,N,-1.0,N0,MAN
+empertigado,Adj,-1.0,N0,MAN
+empinado,Adj,0.0,N0,JALC
+empirico,Adj,0.0,N0,JALC
+empobrecido,Adj,-1.0,N0,JALC
+empoeirado,Adj,-1.0,N0,JALC
+empolado,Adj,-1.0,N0,JALC
+empolgado,Adj,1.0,N0,MAN
+empolgante,Adj,0.0,N0,JALC
+emporcalhado,Adj,-1.0,N0,MAN
+empreendedor,Adj,1.0,N0,MAN
+emproado,Adj,-1.0,N0,MAN
+emulador,Adj,-1.0,N0,JALC
+emulo,Adj,-1.0,N0,JALC
+enaltecido,Adj,1.0,N0,JALC
+enamoramento,N,1.0,N0,MAN
+encabulado,Adj,-1.0,N0,JALC
+encalacracao,N,-1.0,N0,MAN
+encalacrado,Adj,-1.0,N0,MAN
+encalhado,Adj,-1.0,N0,MAN
+encalhamento,N,-1.0,N0,MAN
+encamado,Adj,-1.0,N0,MAN
+encaminhado,Adj,1.0,N0,MAN
+encanado,Adj,-1.0,N0,JALC
+encanecido,Adj,0.0,N0,MAN
+encantado,Adj,0.0,N0,JALC
+encantador,Adj,1.0,N0,MAN
+encantar,V,1.0,N0:N1,MAN
+encanto,N,1.0,N0,MAN
+encapotado,Adj,0.0,N0,MAN
+encarcerado,Adj,-1.0,N0,JALC
+encarnicado,Adj,-1.0,N0,JALC
+encavacado,Adj,-1.0,N0,MAN
+encharcado,Adj,0.0,N0,MAN
+encher as medidas de,IDIOM,1.0,N0:N1,MAN
+enciumado,Adj,-1.0,N0,JALC
+enclausurado,Adj,-1.0,N0,JALC
+encoberto,Adj,-1.0,N0,JALC
+encobrir,V,-1.0,N0:N1,MAN
+encolerizado,Adj,-1.0,N0,MAN
+encolerizar-se,V,-1.0,N0,MAN
+encolerizar,V,1.0,N0:N1,MAN
+encolher os ombros,IDIOM,-1.0,N0,MAN
+encolhido,Adj,-1.0,N0,JALC
+encorajado,Adj,1.0,N0,JALC
+encorajador,Adj,1.0,N0,MAN
+encorajamento,N,1.0,N0,MAN
+encorajar,V,0.0,N0:N1,MAN
+encorpado,Adj,0.0,N0,MAN
+encostar a parede,IDIOM,1.0,N0:N1,MAN
+encostar a um canto,IDIOM,1.0,N0:N1,MAN
+encostar as cordas,IDIOM,1.0,N0:N1,MAN
+encostar as tabuas,IDIOM,1.0,N0:N1,MAN
+encostar-se a,IDIOM,-1.0,N0:N1,MAN
+encovado,Adj,-1.0,N0,MAN
+encruado,Adj,-1.0,N0,JALC
+encurralado,Adj,-1.0,N0,MAN
+encurralamento,N,-1.0,N0,MAN
+encurralar,V,1.0,N0:N1,MAN
+encurvado,Adj,-1.0,N0,MAN
+endemoniado,Adj,-1.0,N0,JALC
+endemoninhado,Adj,-1.0,N0,JALC
+endiabrado,Adj,-1.0,N0,MAN
+endinheirado,Adj,1.0,N0,MAN
+endireitar-se,V,1.0,N0,MAN
+endividado,Adj,-1.0,N0,MAN
+endividamento,N,-1.0,N0,MAN
+endividar-se,V,-1.0,N0,MAN
+endividar,V,-1.0,N0:N1,MAN
+endoidecer,V,-1.0,N0,MAN
+endurecido,Adj,-1.0,N0,JALC
+energia,N,1.0,N0,MAN
+energico,Adj,1.0,N0,MAN
+enervacao,N,-1.0,N0,MAN
+enervado,Adj,-1.0,N0,MAN
+enervamento,N,-1.0,N0,MAN
+enervante,Adj,-1.0,N0,MAN
+enervar-se,V,-1.0,N0,MAN
+enervar,V,1.0,N0:N1,MAN
+enfadado,Adj,-1.0,N0,MAN
+enfadamento,N,-1.0,N0,MAN
+enfadar-se,V,-1.0,N0,MAN
+enfadonho,Adj,-1.0,N0,MAN
+enfardador,Adj,-1.0,N0,MAN
+enfartado,Adj,-1.0,N0,MAN
+enfartamento,N,-1.0,N0,MAN
+enfastiado,Adj,-1.0,N0,MAN
+enfastiamento,N,-1.0,N0,MAN
+enfastiante,Adj,-1.0,N0,MAN
+enfatico,Adj,0.0,N0,MAN
+enfatuado,Adj,-1.0,N0,MAN
+enfeitado,Adj,0.0,N0,JALC
+enfeiticado,Adj,-1.0,N0,MAN
+enfermico,Adj,-1.0,N0,MAN
+enfermidade,N,-1.0,N0,MAN
+enfezado,Adj,-1.0,N0,MAN
+enfezamento,N,-1.0,N0,MAN
+enfiado,Adj,-1.0,N0,JALC
+enfiar o barrete,IDIOM,-1.0,N0,MAN
+enforcar-se,V,-1.0,N0,MAN
+enfraquecer,V,-1.0,N0,MAN
+enfraquecido,Adj,-1.0,N0,JALC
+enfrascado,Adj,-1.0,N0,MAN
+enfrentar o touro pelos cornos,IDIOM,1.0,N0,MAN
+enfrentar,V,1.0,N0:N1,MAN
+enfronhado,Adj,-1.0,N0,JALC
+enfunado,Adj,-1.0,N0,MAN
+enfurecer-se,V,-1.0,N0,MAN
+enfurecer,V,1.0,N0:N1,MAN
+enfurecido,Adj,-1.0,N0,MAN
+enfurecimento,N,-1.0,N0,MAN
+engaiolado,Adj,-1.0,N0,MAN
+engaiolamento,N,-1.0,N0,MAN
+engaiolar,V,1.0,N0:N1,MAN
+enganado,Adj,-1.0,N0,JALC
+enganador,Adj,-1.0,N0,MAN
+enganar-se,V,-1.0,N0,MAN
+enganar,V,-1.0,N0:N1,MAN
+engano,N,-1.0,N0,MAN
+enganoso,Adj,-1.0,N0,JALC
+engarrafado,Adj,-1.0,N0,JALC
+engasgado,Adj,-1.0,N0,MAN
+engasgamento,N,-1.0,N0,MAN
+engatado,Adj,-1.0,N0,JALC
+engenhoso,Adj,0.0,N0,MAN
+engodado,Adj,-1.0,N0,JALC
+engolfado,Adj,-1.0,N0,JALC
+engolido,Adj,-1.0,N0,JALC
+engolir em seco,IDIOM,-1.0,N0,MAN
+engonha,Adj,-1.0,N0,MAN
+engracado,Adj,1.0,N0,MAN
+engrupido,Adj,-1.0,N0,JALC
+enigmatico,Adj,-1.0,N0,MAN
+enjeitado,Adj,-1.0,N0,JALC
+enjoado,Adj,-1.0,N0,JALC
+enjoar,V,-1.0,N0,MAN
+enjoo,N,-1.0,N0,MAN
+enlameado,Adj,-1.0,N0,JALC
+enleado,Adj,-1.0,N0,JALC
+enlevado,Adj,-1.0,N0,JALC
+enlouquecer,V,-1.0,N0,MAN
+enlouquecido,Adj,-1.0,N0,MAN
+enlouquecimento,N,-1.0,N0,MAN
+enlutado,Adj,-1.0,N0,MAN
+enobrecer,V,1.0,N0:N1,MAN
+enojado,Adj,-1.0,N0,JALC
+enojar,V,-1.0,N0:N1,MAN
+enrabichado,Adj,0.0,N0,JALC
+enraivecer,V,1.0,N0:N1,MAN
+enraivecido,Adj,-1.0,N0,MAN
+enraivecimento,N,-1.0,N0,MAN
+enrascada,N,-1.0,N0,MAN
+enrascado,Adj,-1.0,N0,MAN
+enredado,Adj,-1.0,N0,JALC
+enregelado,Adj,-1.0,N0,MAN
+enresinado,Adj,-1.0,N0,JALC
+enrijecido,Adj,-1.0,N0,JALC
+enrodilhador,Adj,-1.0,N0,MAN
+enrolado,Adj,-1.0,N0,JALC
+enrubescido,Adj,0.0,N0,MAN
+enrugado,Adj,-1.0,N0,MAN
+ensacado,Adj,-1.0,N0,JALC
+ensanguentado,Adj,-1.0,N0,JALC
+ensanguentado,Adj,-1.0,N0,MAN
+ensimesmado,Adj,-1.0,N0,MAN
+ensimesmamento,N,-1.0,N0,MAN
+ensombrar,V,1.0,N0:N1,MAN
+ensurdecedor,Adj,-1.0,N0,JALC
+entalado,Adj,-1.0,N0,JALC
+entalar-se,V,-1.0,N0,MAN
+entalar,V,1.0,N0:N1,MAN
+entaramelado,Adj,-1.0,N0,MAN
+entediado,Adj,-1.0,N0,MAN
+entediante,Adj,-1.0,N0,MAN
+entendido,Adj,1.0,N0,JALC
+enternecedor,Adj,1.0,N0,MAN
+enternecido,Adj,1.0,N0,JALC
+enterrado,Adj,-1.0,N0,JALC
+enterrar a cabeca na areia,IDIOM,-1.0,N0,MAN
+enterrar-se,V,-1.0,N0,MAN
+enterrar,V,1.0,N0:N1,MAN
+entontecido,Adj,-1.0,N0,MAN
+entontecimento,N,-1.0,N0,MAN
+entornado,Adj,-1.0,N0,JALC
+entorpecer,V,-1.0,N0,MAN
+entorpecido,Adj,-1.0,N0,MAN
+entorpecimento,N,-1.0,N0,MAN
+entortado,Adj,-1.0,N0,JALC
+entradote,Adj,0.0,N0,MAN
+entregador,Adj,-1.0,N0,JALC
+entregar a alma ao criador,IDIOM,-1.0,N0,MAN
+entregar a alma ao diabo,IDIOM,-1.0,N0,MAN
+entregar o ouro ao bandido,IDIOM,-1.0,N0,MAN
+entregar-se de corpo e alma,IDIOM,1.0,N0,MAN
+entrevacao,N,-1.0,N0,MAN
+entrevado,Adj,-1.0,N0,JALC
+entristecer,V,-1.0,N0:N1,MAN
+entristecido,Adj,-1.0,N0,MAN
+entristecimento,N,-1.0,N0,MAN
+entubado,Adj,-1.0,N0,MAN
+entulhado,Adj,-1.0,N0,JALC
+entumecimento,N,-1.0,N0,MAN
+entusiasmante,Adj,1.0,N0,MAN
+entusiasmar,V,1.0,N0:N1,MAN
+entusiasmo,N,1.0,N0,MAN
+entusiasta,Adj,1.0,N0,MAN
+entusiastico,Adj,1.0,N0,MAN
+envaidecido,Adj,-1.0,N0,JALC
+envelhecido,Adj,-1.0,N0,MAN
+envenenador,Adj,-1.0,N0,MAN
+envenenamento,N,-1.0,N0,MAN
+envenenar,V,-1.0,N0:N1,MAN
+envergonhado,Adj,-1.0,N0,MAN
+envergonhar-se,V,-1.0,N0,MAN
+envergonhar,V,-1.0,N0:N1,MAN
+enviesado,Adj,-1.0,N0,JALC
+envinagrado,Adj,-1.0,N0,MAN
+envolvente,Adj,0.0,N0,JALC
+enxerido,Adj,-1.0,N0,JALC
+enxofrado,Adj,-1.0,N0,MAN
+enxoframento,N,-1.0,N0,MAN
+enxotar,V,1.0,N0:N1,MAN
+enxovalhado,Adj,-1.0,N0,JALC
+enxovalhar,V,1.0,N0:N1,MAN
+enxuto,Adj,1.0,N0,MAN
+epico,Adj,0.0,N0,JALC
+epigramatico,Adj,-1.0,N0,MAN
+epiletico,Adj,-1.0,N0,MAN
+equanime,Adj,1.0,N0,MAN
+equanimidade,N,1.0,N0,MAN
+equidade,N,1.0,N0,MAN
+equilibrado,Adj,1.0,N0,MAN
+equilibrio,N,1.0,N0,MAN
+equitativo,Adj,1.0,N0,JALC
+equitativo,Adj,1.0,N0,MAN
+equivocado,Adj,-1.0,N0,MAN
+equivocar-se,V,-1.0,N0,MAN
+equivoco,Adj,-1.0,N0,MAN
+equivoco,N,-1.0,N0,MAN
+erecto,Adj,0.0,N0,JALC
+ereto,Adj,0.0,N0,JALC
+erguer a cabeca,IDIOM,1.0,N0,MAN
+ermo,Adj,-1.0,N0,JALC
+erotico,Adj,0.0,N0,JALC
+erotomania,N,-1.0,N0,MAN
+erotomaniaco,Adj,-1.0,N0,MAN
+errado,Adj,-1.0,N0,JALC
+errante,Adj,-1.0,N0,MAN
+errar,V,-1.0,N0,MAN
+erratico,Adj,-1.0,N0,MAN
+erro,N,-1.0,N0,MAN
+erudito,Adj,1.0,N0,MAN
+esbaforido,Adj,-1.0,N0,MAN
+esbanjado,Adj,-1.0,N0,JALC
+esbanjador,Adj,-1.0,N0,MAN
+esbanjamento,N,-1.0,N0,MAN
+esbanjar dinheiro,IDIOM,-1.0,N0,MAN
+esbatido,Adj,-1.0,N0,JALC
+esbelto,Adj,1.0,N0,MAN
+esbofetear,V,1.0,N0:N1,MAN
+esborratado,Adj,-1.0,N0,MAN
+esburacado,Adj,-1.0,N0,JALC
+escabelado,Adj,-1.0,N0,MAN
+escabrosidade,N,-1.0,N0,MAN
+escabroso,Adj,-1.0,N0,MAN
+escaldado,Adj,-1.0,N0,MAN
+escamado,Adj,-1.0,N0,JALC
+escamoso,Adj,-1.0,N0,JALC
+escamotear,V,-1.0,N0:N1,MAN
+escancarado,Adj,-1.0,N0,JALC
+escandalizar,V,-1.0,N0:N1,MAN
+escandalo,N,-1.0,N0,MAN
+escandaloso,Adj,-1.0,N0,MAN
+escangalhado,Adj,-1.0,N0,JALC
+escanifrado,Adj,-1.0,N0,MAN
+escanzelado,Adj,-1.0,N0,MAN
+escapadico,Adj,-1.0,N0,MAN
+escapo,Adj,-1.0,N0,MAN
+escarnecedor,Adj,-1.0,N0,MAN
+escarnecer,V,0.0,N0:N1,MAN
+escarnecido,Adj,-1.0,N0,JALC
+escarninho,Adj,-1.0,N0,MAN
+escarnio,N,-1.0,N0,MAN
+escarrapachado,Adj,-1.0,N0,JALC
+escavacado,Adj,-1.0,N0,MAN
+escaveirado,Adj,-1.0,N0,MAN
+esclarecedor,Adj,1.0,N0,JALC
+esclarecer,V,1.0,N0:N1,MAN
+esclarecido,Adj,1.0,N0,MAN
+esclerosado,Adj,-1.0,N0,MAN
+esclerose,N,-1.0,N0,MAN
+esclerotico,Adj,-1.0,N0,MAN
+escolarizado,Adj,1.0,N0,MAN
+esconder a verdade,IDIOM,-1.0,N0,MAN
+esconder-se,V,-1.0,N0,MAN
+esconder,V,-1.0,N0:N1,MAN
+escondido,Adj,-1.0,N0,JALC
+esconso,Adj,-1.0,N0,JALC
+escoriado,Adj,-1.0,N0,MAN
+escorracado,Adj,-1.0,N0,JALC
+escorregadio,Adj,-1.0,N0,MAN
+escorregar,V,-1.0,N0,MAN
+escorreito,Adj,1.0,N0,MAN
+escrachado,Adj,-1.0,N0,JALC
+escravizado,Adj,-1.0,N0,JALC
+escrupuloso,Adj,1.0,N0,MAN
+esculachado,Adj,-1.0,N0,JALC
+escultural,Adj,1.0,N0,MAN
+escuro,Adj,-1.0,N0,JALC
+escusado,Adj,-1.0,N0,JALC
+escuso,Adj,-1.0,N0,JALC
+esdruxulo,Adj,-1.0,N0,JALC
+esfaimado,Adj,-1.0,N0,MAN
+esfalfado,Adj,-1.0,N0,MAN
+esfarrapado,Adj,-1.0,N0,MAN
+esferico,Adj,-1.0,N0,JALC
+esfingico,Adj,-1.0,N0,MAN
+esfomeado,Adj,-1.0,N0,MAN
+esforcado,Adj,1.0,N0,MAN
+esfuziante,Adj,1.0,N0,MAN
+esgalgado,Adj,-1.0,N0,MAN
+esganacao,N,-1.0,N0,MAN
+esganado,Adj,-1.0,N0,MAN
+esganar,V,1.0,N0:N1,MAN
+esganicado,Adj,-1.0,N0,MAN
+esgazeado,Adj,-1.0,N0,MAN
+esgazeamento,N,-1.0,N0,MAN
+esgotado,Adj,-1.0,N0,MAN
+esgotamento,N,-1.0,N0,MAN
+esgotante,Adj,-1.0,N0,JALC
+esgotar,V,1.0,N0:N1,MAN
+esgrouviado,Adj,-1.0,N0,MAN
+esguedelhado,Adj,-1.0,N0,MAN
+esguio,Adj,0.0,N0,MAN
+esmagado,Adj,-1.0,N0,JALC
+esmagador,Adj,0.0,N0,JALC
+esmagar,V,1.0,N0:N1,MAN
+esmerado,Adj,1.0,N0,MAN
+esmerar-se,V,1.0,N0,MAN
+esmero,N,1.0,N0,MAN
+esmilhafrado,Adj,-1.0,N0,MAN
+esmoler,Adj,1.0,N0,JALC
+esmorecer,V,-1.0,N0,MAN
+esmorecido,Adj,-1.0,N0,MAN
+esmorecimento,N,-1.0,N0,MAN
+esoterico,Adj,0.0,N0,JALC
+espalhafato,N,-1.0,N0,MAN
+espalhafatoso,Adj,-1.0,N0,MAN
+espalhanco,N,-1.0,N0,MAN
+espampanante,Adj,-1.0,N0,MAN
+espancado,Adj,-1.0,N0,JALC
+espancar,V,1.0,N0:N1,MAN
+espantoso,Adj,0.0,N0,MAN
+esparramado,Adj,-1.0,N0,JALC
+espartano,Adj,0.0,N0,MAN
+espatifado,Adj,-1.0,N0,JALC
+espaventoso,Adj,-1.0,N0,MAN
+espavorido,Adj,-1.0,N0,JALC
+especado,Adj,-1.0,N0,JALC
+especial,Adj,1.0,N0,MAN
+especioso,Adj,0.0,N0,MAN
+espectacular,Adj,1.0,N0,MAN
+espectral,Adj,1.0,N0,JALC
+esperancado,Adj,1.0,N0,MAN
+esperancoso,Adj,1.0,N0,JALC
+espertalhao,Adj,-1.0,N0,JALC
+esperto,Adj,0.0,N0,MAN
+espetacular,Adj,1.0,N0,JALC
+espetaculoso,Adj,-1.0,N0,JALC
+espetado,Adj,-1.0,N0,JALC
+espetar-se ao comprido,IDIOM,-1.0,N0,MAN
+espevitado,Adj,1.0,N0,MAN
+espezinhado,Adj,-1.0,N0,JALC
+espezinhar,V,1.0,N0:N1,MAN
+espinhento,Adj,-1.0,N0,JALC
+espinhoso,Adj,-1.0,N0,JALC
+espiritual,Adj,0.0,N0,JALC
+espiritualista,Adj,0.0,N0,MAN
+espirituoso,Adj,1.0,N0,MAN
+esplendente,Adj,1.0,N0,JALC
+esplendido,Adj,1.0,N0,JALC
+esplendoroso,Adj,1.0,N0,JALC
+espontaneidade,N,1.0,N0,MAN
+espontaneo,Adj,1.0,N0,MAN
+espremido,Adj,-1.0,N0,JALC
+espurio,Adj,-1.0,N0,MAN
+esqualido,Adj,-1.0,N0,MAN
+esquecedico,Adj,-1.0,N0,JALC
+esquecido,Adj,-1.0,N0,JALC
+esqueletico,Adj,-1.0,N0,MAN
+esquentado,Adj,-1.0,N0,JALC
+esquerdoide,Adj,-1.0,N0,MAN
+esquinado,Adj,-1.0,N0,MAN
+esquisitice,N,-1.0,N0,MAN
+esquisito,Adj,-1.0,N0,MAN
+esquivo,Adj,-1.0,N0,MAN
+esquizofrenia,N,-1.0,N0,MAN
+esquizofrenico,Adj,-1.0,N0,MAN
+esquizoide,Adj,-1.0,N0,MAN
+esquizoidia,N,-1.0,N0,MAN
+essenio,Adj,0.0,N0,MAN
+estabanado,Adj,-1.0,N0,JALC
+estabilidade,N,1.0,N0,MAN
+estacado,Adj,-1.0,N0,JALC
+estafado,Adj,-1.0,N0,MAN
+estagnado,Adj,-1.0,N0,JALC
+estagnar,V,-1.0,N0,MAN
+estalado,Adj,-1.0,N0,JALC
+estalar o verniz,IDIOM,-1.0,N0,MAN
+estampado,Adj,-1.0,N0,JALC
+estancado,Adj,-1.0,N0,JALC
+estanhado,Adj,-1.0,N0,MAN
+estapafurdio,Adj,-1.0,N0,MAN
+estar a altura de,IDIOM,1.0,N0:N1,MAN
+estar a altura,IDIOM,1.0,N0,MAN
+estar a anos luz de,IDIOM,-1.0,N0:N1,MAN
+estar a beira do precipicio,IDIOM,-1.0,N0,MAN
+estar a deriva,IDIOM,-1.0,N0,MAN
+estar a dormir a sombra da bananeira,IDIOM,-1.0,N0,MAN
+estar a dormir,IDIOM,-1.0,N0,MAN
+estar a falar para as paredes,IDIOM,-1.0,N0,MAN
+estar a falar sozinho,IDIOM,-1.0,N0,MAN
+estar a jeito,IDIOM,-1.0,N0,MAN
+estar a nora,IDIOM,-1.0,N0,MAN
+estar a pensar na morte da bezerra,IDIOM,-1.0,N0,MAN
+estar a rasca,IDIOM,-1.0,N0,MAN
+estar a rasquinha,IDIOM,-1.0,N0,MAN
+estar a secar,IDIOM,-1.0,N0,MAN
+estar a sombra da bananeira,IDIOM,-1.0,N0,MAN
+estar ai para as curvas,IDIOM,1.0,N0,MAN
+estar ao deus dara,IDIOM,-1.0,N0,MAN
+estar armado em carapau de corrida,IDIOM,-1.0,N0,MAN
+estar as aranhas,IDIOM,-1.0,N0,MAN
+estar as cegas,IDIOM,-1.0,N0,MAN
+estar as turras com,IDIOM,-1.0,N0:N1,MAN
+estar bem,IDIOM,1.0,N0,MAN
+estar com a cabeca na lua,IDIOM,-1.0,N0,MAN
+estar com a corda ao pescoco,IDIOM,-1.0,N0,MAN
+estar com a corda na garganta,IDIOM,-1.0,N0,MAN
+estar com a corda no pescoco,IDIOM,-1.0,N0,MAN
+estar com a lagrima no canto do olho,IDIOM,-1.0,N0,MAN
+estar com cara de caso,IDIOM,-1.0,N0,MAN
+estar com dor de corno,IDIOM,-1.0,N0,MAN
+estar com dor de cotovelo,IDIOM,-1.0,N0,MAN
+estar com macacos na cabeca,IDIOM,-1.0,N0,MAN
+estar com macacos no sotao,IDIOM,-1.0,N0,MAN
+estar com macaquinhos na cabeca,IDIOM,-1.0,N0,MAN
+estar com macaquinhos no sotao,IDIOM,-1.0,N0,MAN
+estar com o coracao nas maos,IDIOM,-1.0,N0,MAN
+estar com os azeites,IDIOM,-1.0,N0,MAN
+estar com os pes para a cova,IDIOM,-1.0,N0,MAN
+estar com um aperto no coracao,IDIOM,-1.0,N0,MAN
+estar de cabeca quente,IDIOM,-1.0,N0,MAN
+estar de maos a abanar,IDIOM,-1.0,N0,MAN
+estar de maos atadas,IDIOM,-1.0,N0,MAN
+estar de maos e pes atados,IDIOM,-1.0,N0,MAN
+estar de molho,IDIOM,-1.0,N0,MAN
+estar de olhos vendados,IDIOM,-1.0,N0,MAN
+estar de pes atados,IDIOM,-1.0,N0,MAN
+estar de saude,IDIOM,1.0,N0,MAN
+estar de tanga,IDIOM,-1.0,N0,MAN
+estar de trombas,IDIOM,-1.0,N0,MAN
+estar em baixo de forma,IDIOM,-1.0,N0,MAN
+estar em baixo,IDIOM,-1.0,N0,MAN
+estar em grande forma,IDIOM,1.0,N0,MAN
+estar em grande,IDIOM,1.0,N0,MAN
+estar em pedacos,IDIOM,-1.0,N0,MAN
+estar em pele e osso,IDIOM,-1.0,N0,MAN
+estar enterrado ate as orelhas,IDIOM,-1.0,N0,MAN
+estar feito ao bife,IDIOM,-1.0,N0,MAN
+estar feito barata tonta,IDIOM,-1.0,N0,MAN
+estar feito com,IDIOM,-1.0,N0:N1,MAN
+estar fora de si,IDIOM,-1.0,N0,MAN
+estar na lua,IDIOM,-1.0,N0,MAN
+estar na retranca,IDIOM,-1.0,N0,MAN
+estar nas maos de,IDIOM,-1.0,N0:N1,MAN
+estar nas sete quintas,IDIOM,1.0,N0,MAN
+estar no bom caminho,IDIOM,1.0,N0,MAN
+estar num beco sem saida,IDIOM,-1.0,N0,MAN
+estar pelos cabelos,IDIOM,-1.0,N0,MAN
+estar por um fio,IDIOM,-1.0,N0,MAN
+estar sempre a bater na mesma tecla,IDIOM,-1.0,N0,MAN
+estar-se nas tintas,IDIOM,-1.0,N0,MAN
+estarola,Adj,-1.0,N0,MAN
+estarolice,N,-1.0,N0,MAN
+estarrecer,V,1.0,N0:N1,MAN
+estarrecido,Adj,-1.0,N0,JALC
+estatelado,Adj,-1.0,N0,JALC
+estatelar-se,V,-1.0,N0,MAN
+estatico,Adj,-1.0,N0,JALC
+estavanado,Adj,-1.0,N0,MAN
+estavel,Adj,1.0,N0,MAN
+estendido,Adj,-1.0,N0,JALC
+estentoreo,Adj,0.0,N0,MAN
+estentorico,Adj,0.0,N0,MAN
+estereotipado,Adj,-1.0,N0,JALC
+esteril,Adj,-1.0,N0,MAN
+esterilidade,N,-1.0,N0,MAN
+esticado,Adj,-1.0,N0,JALC
+esticar o pernil,IDIOM,-1.0,N0,MAN
+estigmatizado,Adj,-1.0,N0,JALC
+estiloso,Adj,-1.0,N0,JALC
+estimado,Adj,1.0,N0,JALC
+estimavel,Adj,1.0,N0,JALC
+estimulado,Adj,0.0,N0,JALC
+estirado,Adj,-1.0,N0,JALC
+estoico,Adj,-1.0,N0,MAN
+estoirado,Adj,-1.0,N0,MAN
+estoiro,N,-1.0,N0,MAN
+estorvar,V,1.0,N0:N1,MAN
+estourado,Adj,-1.0,N0,MAN
+estouvado,Adj,-1.0,N0,MAN
+estrabico,Adj,-1.0,N0,JALC
+estragado,Adj,-1.0,N0,JALC
+estrambolico,Adj,-1.0,N0,MAN
+estrambotico,Adj,-1.0,N0,MAN
+estrangeirado,Adj,-1.0,N0,MAN
+estrangulado,Adj,-1.0,N0,JALC
+estrangular,V,1.0,N0:N1,MAN
+estranho,Adj,-1.0,N0,MAN
+estratagema,N,-1.0,N0,MAN
+estremunhado,Adj,-1.0,N0,MAN
+estrenuo,Adj,1.0,N0,JALC
+estridente,Adj,-1.0,N0,JALC
+estroina,Adj,-1.0,N0,MAN
+estropiado,Adj,-1.0,N0,JALC
+estruturado,Adj,-1.0,N0,MAN
+estudioso,Adj,1.0,N0,MAN
+estulto,Adj,-1.0,N0,MAN
+estupefaciente,Adj,-1.0,N0,JALC
+estupendo,Adj,1.0,N0,MAN
+estupidez,N,-1.0,N0,MAN
+estupido,Adj,-1.0,N0,MAN
+estuporado,Adj,-1.0,N0,MAN
+estuprado,Adj,-1.0,N0,JALC
+esvair-se em sangue,IDIOM,-1.0,N0,MAN
+esvaziado,Adj,-1.0,N0,JALC
+etereo,Adj,1.0,N0,JALC
+etilizado,Adj,-1.0,N0,MAN
+eufonico,Adj,1.0,N0,MAN
+euforico,Adj,1.0,N0,MAN
+eunuco,Adj,-1.0,N0,JALC
+euroceptico,Adj,0.0,N0,MAN
+eurocetico,Adj,0.0,N0,MAN
+europeista,Adj,0.0,N0,MAN
+evasao,N,-1.0,N0,MAN
+evasivo,Adj,-1.0,N0,MAN
+evitar,V,-1.0,N0:N1,MAN
+exacerbado,Adj,-1.0,N0,JALC
+exagerado,Adj,-1.0,N0,MAN
+exagerar,V,-1.0,N0,MAN
+exalado,Adj,-1.0,N0,JALC
+exaltado,Adj,-1.0,N0,MAN
+exaltar-se,V,-1.0,N0,MAN
+exangue,Adj,-1.0,N0,JALC
+exasperacao,N,-1.0,N0,MAN
+exasperado,Adj,-1.0,N0,MAN
+exasperar-se,V,-1.0,N0,MAN
+exasperar,V,-1.0,N0,MAN
+exato,Adj,1.0,N0,JALC
+exaustao,N,-1.0,N0,MAN
+exausto,Adj,-1.0,N0,MAN
+exceder-se,V,-1.0,N0,MAN
+exceder,V,1.0,N0:N1,MAN
+excelencia,N,1.0,N0,MAN
+excelente,Adj,1.0,N0,MAN
+excelso,Adj,1.0,N0,MAN
+excentrico,Adj,0.0,N0,MAN
+excepcional,Adj,1.0,N0,MAN
+excessividade,N,-1.0,N0,MAN
+excessivo,Adj,-1.0,N0,MAN
+excitado,Adj,0.0,N0,MAN
+excitante,Adj,1.0,N0,MAN
+excitar,V,1.0,N0:N1,MAN
+excitavel,Adj,0.0,N0,MAN
+excluido,Adj,-1.0,N0,JALC
+excomungado,Adj,-1.0,N0,JALC
+execracao,N,-1.0,N0,MAN
+execrado,Adj,-1.0,N0,JALC
+execrar,V,0.0,N0:N1,MAN
+execravel,Adj,-1.0,N0,MAN
+executado,Adj,-1.0,N0,JALC
+exemplar,Adj,1.0,N0,MAN
+exemplaridade,N,1.0,N0,MAN
+exibicionismo,N,-1.0,N0,MAN
+exibicionista,Adj,-1.0,N0,MAN
+exibido,Adj,-1.0,N0,JALC
+exibir-se,V,-1.0,N0,MAN
+exigente,Adj,0.0,N0,MAN
+exilado,Adj,-1.0,N0,JALC
+eximido,Adj,-1.0,N0,JALC
+eximio,Adj,1.0,N0,MAN
+exoterico,Adj,-1.0,N0,JALC
+expansivo,Adj,1.0,N0,MAN
+expatriado,Adj,-1.0,N0,JALC
+expeditivo,Adj,1.0,N0,MAN
+expedito,Adj,1.0,N0,MAN
+expelido,Adj,-1.0,N0,JALC
+experiencia,N,1.0,N0,MAN
+experiente,Adj,1.0,N0,MAN
+experimentado,Adj,1.0,N0,JALC
+experimentar dificuldades,IDIOM,-1.0,N0,MAN
+experto,Adj,1.0,N0,JALC
+explicito,Adj,0.0,N0,MAN
+explorador,Adj,-1.0,N0,MAN
+explorar,V,-1.0,N0:N1,MAN
+explosivo,Adj,-1.0,N0,MAN
+expressivo,Adj,1.0,N0,MAN
+expropriado,Adj,-1.0,N0,JALC
+expulsar,V,1.0,N0:N1,MAN
+expulso,Adj,-1.0,N0,MAN
+extasiado,Adj,0.0,N0,MAN
+extemporaneo,Adj,-1.0,N0,JALC
+extenuacao,N,-1.0,N0,MAN
+extenuado,Adj,-1.0,N0,MAN
+extenuante,Adj,-1.0,N0,JALC
+extenuar,V,1.0,N0:N1,MAN
+exterminar,V,1.0,N0:N1,MAN
+extraordinario,Adj,1.0,N0,MAN
+extravagante,Adj,-1.0,N0,MAN
+extraviado,Adj,-1.0,N0,JALC
+extremista,Adj,-1.0,N0,MAN
+extremoso,Adj,1.0,N0,MAN
+extrovertido,Adj,1.0,N0,MAN
+exuberante,Adj,0.0,N0,MAN
+exultante,Adj,1.0,N0,MAN
+fabuloso,Adj,1.0,N0,MAN
+facanhudo,Adj,-1.0,N0,MAN
+faccioso,Adj,-1.0,N0,MAN
+faceiro,Adj,0.0,N0,JALC
+faceto,Adj,1.0,N0,MAN
+facil,Adj,0.0,N0,MAN
+facinora,Adj,-1.0,N0,MAN
+facinoroso,Adj,-1.0,N0,MAN
+factual,Adj,1.0,N0,JALC
+facundo,Adj,0.0,N0,MAN
+fadiga,N,-1.0,N0,MAN
+fadigado,Adj,-1.0,N0,MAN
+falacia,N,-1.0,N0,MAN
+falacioso,Adj,-1.0,N0,MAN
+falado,Adj,1.0,N0,JALC
+falador,Adj,0.0,N0,MAN
+falante,Adj,1.0,N0,JALC
+falar com conviccao,IDIOM,1.0,N0,MAN
+falar de barriga cheia,IDIOM,-1.0,N0,MAN
+falar demais,IDIOM,-1.0,N0,MAN
+falar para as paredes,IDIOM,-1.0,N0,MAN
+falar para o boneco,IDIOM,-1.0,N0,MAN
+falar sem conviccao,IDIOM,-1.0,N0,MAN
+falar verdade,IDIOM,1.0,N0,MAN
+falencia,N,-1.0,N0,MAN
+falhado,Adj,-1.0,N0,MAN
+falhanco,N,-1.0,N0,MAN
+falhar,V,-1.0,N0,MAN
+falho,Adj,-1.0,N0,JALC
+falibilidade,N,-1.0,N0,MAN
+falido,Adj,-1.0,N0,MAN
+falivel,Adj,-1.0,N0,MAN
+falsear,V,-1.0,N0:N1,MAN
+falseta,Adj,-1.0,N0,MAN
+falsidade,N,-1.0,N0,MAN
+falso,Adj,-1.0,N0,MAN
+faltar a palavra,IDIOM,-1.0,N0,MAN
+faltar ao compromisso,IDIOM,-1.0,N0,MAN
+faltar ao respeito,IDIOM,-1.0,N0,MAN
+falto,Adj,-1.0,N0,JALC
+faltoso,Adj,-1.0,N0,MAN
+famelico,Adj,-1.0,N0,MAN
+famigerado,Adj,0.0,N0,MAN
+faminto,Adj,-1.0,N0,MAN
+famoso,Adj,1.0,N0,MAN
+fanfarrao,Adj,-1.0,N0,MAN
+fanho,Adj,-1.0,N0,JALC
+fanhoso,Adj,-1.0,N0,MAN
+fantasiar,V,-1.0,N0:N1,MAN
+fantasista,Adj,-1.0,N0,MAN
+fantastico,Adj,1.0,N0,MAN
+fareleiro,Adj,-1.0,N0,MAN
+farisaico,Adj,-1.0,N0,MAN
+fariseu,Adj,-1.0,N0,MAN
+farrista,Adj,-1.0,N0,JALC
+farronqueiro,Adj,-1.0,N0,MAN
+farsa,N,-1.0,N0,MAN
+farsante,Adj,-1.0,N0,MAN
+farsista,Adj,-1.0,N0,MAN
+farsola,Adj,-1.0,N0,MAN
+fascinante,Adj,1.0,N0,MAN
+fascinar,V,1.0,N0:N1,MAN
+fascista,Adj,-1.0,N0,MAN
+fastidioso,Adj,-1.0,N0,MAN
+fastio,N,-1.0,N0,MAN
+fatal,Adj,-1.0,N0,JALC
+fatalista,Adj,-1.0,N0,MAN
+fatigado,Adj,-1.0,N0,MAN
+fatigante,Adj,-1.0,N0,MAN
+fatuo,Adj,-1.0,N0,MAN
+favoravel,Adj,1.0,N0,JALC
+favorecer,V,-1.0,N0:N1,MAN
+fazer a custa de,IDIOM,-1.0,N0:N1,MAN
+fazer a folha a,IDIOM,-1.0,N0:N1,MAN
+fazer asneira,IDIOM,-1.0,N0,MAN
+fazer beicinho,IDIOM,-1.0,N0,MAN
+fazer biquinho,IDIOM,-1.0,N0,MAN
+fazer boa figura,IDIOM,1.0,N0,MAN
+fazer caretas,IDIOM,-1.0,N0,MAN
+fazer com os olhos fechados,IDIOM,1.0,N0,MAN
+fazer com uma perna as costas,IDIOM,1.0,N0,MAN
+fazer das tripas coracao,IDIOM,1.0,N0,MAN
+fazer faisca,IDIOM,-1.0,N0,MAN
+fazer figura de urso,IDIOM,-1.0,N0,MAN
+fazer figura triste,IDIOM,-1.0,N0,MAN
+fazer filmes,IDIOM,-1.0,N0,MAN
+fazer gato e sapato de,IDIOM,-1.0,N0:N1,MAN
+fazer horas,IDIOM,-1.0,N0,MAN
+fazer ma figura,IDIOM,-1.0,N0,MAN
+fazer orelhas moucas,IDIOM,-1.0,N0,MAN
+fazer ouvidos de mercador,IDIOM,-1.0,N0,MAN
+fazer pouco de,IDIOM,0.0,N0:N1,MAN
+fazer sombra a,IDIOM,1.0,N0:N1,MAN
+fazer um grande feito,IDIOM,1.0,N0,MAN
+fazer um negocio da China,IDIOM,1.0,N0,MAN
+fazer uma boa jogada,IDIOM,1.0,N0,MAN
+fazer uma figura decente,IDIOM,1.0,N0,MAN
+fazer uma jogada de mestre,IDIOM,1.0,N0,MAN
+fazer uma rica parelha,IDIOM,-1.0,N0:N1,MAN
+fazer uma tempestade num copo de agua,IDIOM,-1.0,N0,MAN
+fazer vista grossa,IDIOM,-1.0,N0,MAN
+fazer xeque-mate,IDIOM,1.0,N0,MAN
+fazer-se de vitima,IDIOM,-1.0,N0,MAN
+febril,Adj,-1.0,N0,JALC
+fechado,Adj,-1.0,N0,MAN
+fechar os olhos,IDIOM,-1.0,N0,MAN
+fechar-se em copas,IDIOM,-1.0,N0,MAN
+fecundo,Adj,1.0,N0,JALC
+fedor,N,-1.0,N0,MAN
+fedorento,Adj,-1.0,N0,MAN
+feio,Adj,-1.0,N0,MAN
+feiticista,Adj,-1.0,N0,MAN
+feitico,Adj,-1.0,N0,MAN
+felicidade,N,1.0,N0,MAN
+felicitar,V,0.0,N0:N1,MAN
+felino,Adj,-1.0,N0,JALC
+feliz,Adj,1.0,N0,MAN
+felizardo,Adj,1.0,N0,MAN
+femeeiro,Adj,-1.0,N0,MAN
+fenomenal,Adj,1.0,N0,MAN
+ferido,Adj,-1.0,N0,MAN
+ferino,Adj,-1.0,N0,MAN
+ferir,V,0.0,N0:N1,MAN
+fero,Adj,-1.0,N0,MAN
+feroz,Adj,-1.0,N0,MAN
+ferrado,Adj,-1.0,N0,JALC
+ferrenho,Adj,-1.0,N0,MAN
+ferreo,Adj,-1.0,N0,JALC
+fertil,Adj,1.0,N0,MAN
+ferver em pouca agua,IDIOM,-1.0,N0,MAN
+fervoroso,Adj,0.0,N0,MAN
+fescenino,Adj,-1.0,N0,JALC
+festeiro,Adj,0.0,N0,MAN
+festivo,Adj,1.0,N0,JALC
+fetichista,Adj,-1.0,N0,JALC
+fiabilidade,N,1.0,N0,MAN
+fiavel,Adj,1.0,N0,MAN
+ficar a apanhar bones,IDIOM,-1.0,N0,MAN
+ficar a chupar no dedo,IDIOM,-1.0,N0,MAN
+ficar a deriva,IDIOM,-1.0,N0,MAN
+ficar a dormir a sombra da bananeira,IDIOM,-1.0,N0,MAN
+ficar a falar para as paredes,IDIOM,-1.0,N0,MAN
+ficar a falar sozinho,IDIOM,-1.0,N0,MAN
+ficar a jeito,IDIOM,-1.0,N0,MAN
+ficar a nora,IDIOM,-1.0,N0,MAN
+ficar a pensar na morte da bezerra,IDIOM,-1.0,N0,MAN
+ficar a secar,IDIOM,-1.0,N0,MAN
+ficar a sombra da bananeira,IDIOM,-1.0,N0,MAN
+ficar a sombra de,IDIOM,-1.0,N0:N1,MAN
+ficar a ver navios,IDIOM,-1.0,N0,MAN
+ficar ao deus dara,IDIOM,-1.0,N0,MAN
+ficar aos caidos,IDIOM,-1.0,N0,MAN
+ficar as aranhas,IDIOM,-1.0,N0,MAN
+ficar as cegas,IDIOM,-1.0,N0,MAN
+ficar com a cabeca em agua,IDIOM,-1.0,N0,MAN
+ficar com a cabeca na lua,IDIOM,-1.0,N0,MAN
+ficar com as calcas na mao,IDIOM,-1.0,N0,MAN
+ficar com cara de caso,IDIOM,-1.0,N0,MAN
+ficar com dor de corno,IDIOM,-1.0,N0,MAN
+ficar com dor de cotovelo,IDIOM,-1.0,N0,MAN
+ficar com macacos na cabeca,IDIOM,-1.0,N0,MAN
+ficar com macacos no sotao,IDIOM,-1.0,N0,MAN
+ficar com macaquinhos na cabeca,IDIOM,-1.0,N0,MAN
+ficar com macaquinhos no sotao,IDIOM,-1.0,N0,MAN
+ficar com o coracao nas maos,IDIOM,-1.0,N0,MAN
+ficar com os louros,IDIOM,-1.0,N0,MAN
+ficar de maos a abanar,IDIOM,-1.0,N0,MAN
+ficar de maos atadas,IDIOM,-1.0,N0,MAN
+ficar de maos e pes atados,IDIOM,-1.0,N0,MAN
+ficar de molho,IDIOM,-1.0,N0,MAN
+ficar de pes atados,IDIOM,-1.0,N0,MAN
+ficar de tanga,IDIOM,-1.0,N0,MAN
+ficar de trombas,IDIOM,-1.0,N0,MAN
+ficar em pedacos,IDIOM,-1.0,N0,MAN
+ficar em primeiro,IDIOM,1.0,N0,MAN
+ficar em ultimo,IDIOM,-1.0,N0,MAN
+ficar enterrado ate as orelhas,IDIOM,-1.0,N0,MAN
+ficar feito barata tonta,IDIOM,-1.0,N0,MAN
+ficar fora de si,IDIOM,-1.0,N0,MAN
+ficar mal visto,IDIOM,-1.0,N0,MAN
+ficar na lua,IDIOM,-1.0,N0,MAN
+ficar nas maos de,IDIOM,-1.0,N0:N1,MAN
+ficar num beco sem saida,IDIOM,-1.0,N0,MAN
+ficar para tio,IDIOM,-1.0,N0,MAN
+ficar pelos cabelos,IDIOM,-1.0,N0,MAN
+ficar reduzido a nada,IDIOM,-1.0,N0,MAN
+ficar reduzido a zero,IDIOM,-1.0,N0,MAN
+ficar sem argumentos,IDIOM,-1.0,N0,MAN
+ficticio,Adj,-1.0,N0,JALC
+fidalgo,Adj,0.0,N0,MAN
+fidedignidade,N,1.0,N0,MAN
+fidedigno,Adj,1.0,N0,MAN
+fidelidade,N,1.0,N0,MAN
+fiel,Adj,1.0,N0,MAN
+figadal,Adj,0.0,N0,JALC
+filantropico,Adj,1.0,N0,JALC
+filantropo,Adj,1.0,N0,MAN
+filho da puta,Adj,-1.0,N0,MAN
+filosofante,Adj,0.0,N0,MAN
+filosofico,Adj,0.0,N0,JALC
+filosofo,Adj,0.0,N0,JALC
+finado,Adj,-1.0,N0,JALC
+fincado,Adj,-1.0,N0,JALC
+fingido,Adj,-1.0,N0,MAN
+fingidor,Adj,-1.0,N0,MAN
+fingimento,N,-1.0,N0,MAN
+fingir,V,-1.0,N0:N1,MAN
+fino,Adj,0.0,N0,MAN
+finorio,Adj,-1.0,N0,MAN
+fintar,V,1.0,N0:N1,MAN
+firme,Adj,1.0,N0,MAN
+firmeza,N,1.0,N0,MAN
+fisgado,Adj,-1.0,N0,JALC
+fiteiro,Adj,-1.0,N0,MAN
+fitinhas,Adj,-1.0,N0,MAN
+fiuza,Adj,-1.0,N0,MAN
+fixe,Adj,1.0,N0,MAN
+flagelado,Adj,-1.0,N0,JALC
+flagelante,Adj,-1.0,N0,MAN
+flagelar,V,1.0,N0:N1,MAN
+flamante,Adj,0.0,N0,JALC
+flamejante,Adj,0.0,N0,JALC
+flatulencia,N,-1.0,N0,MAN
+flatulento,Adj,-1.0,N0,MAN
+flebil,Adj,-1.0,N0,MAN
+fleumatico,Adj,0.0,N0,JALC
+flexibilidade,N,1.0,N0,MAN
+flexivel,Adj,1.0,N0,MAN
+fluencia,N,1.0,N0,MAN
+fluente,Adj,1.0,N0,MAN
+fluidez,N,1.0,N0,MAN
+fluido,Adj,1.0,N0,MAN
+fodido,Adj,-1.0,N0,JALC
+fofo,Adj,1.0,N0,MAN
+fofoqueiro,Adj,-1.0,N0,MAN
+fofoquice,N,-1.0,N0,MAN
+fogoso,Adj,0.0,N0,MAN
+foito,Adj,0.0,N0,MAN
+folclorico,Adj,-1.0,N0,JALC
+foleirice,N,-1.0,N0,MAN
+foleiro,Adj,-1.0,N0,MAN
+folgado,Adj,-1.0,N0,MAN
+folgazao,Adj,0.0,N0,MAN
+foliao,Adj,0.0,N0,MAN
+fome,N,-1.0,N0,MAN
+foragido,Adj,-1.0,N0,JALC
+forasteiro,Adj,-1.0,N0,MAN
+forcado,Adj,-1.0,N0,JALC
+formal,Adj,0.0,N0,MAN
+formalista,Adj,0.0,N0,MAN
+formidavel,Adj,1.0,N0,MAN
+formoso,Adj,1.0,N0,MAN
+formosura,N,1.0,N0,MAN
+fornicador,Adj,-1.0,N0,MAN
+forreta,Adj,-1.0,N0,JALC
+fortalecido,Adj,1.0,N0,JALC
+forte,Adj,1.0,N0,MAN
+fortificado,Adj,1.0,N0,JALC
+fosco,Adj,-1.0,N0,JALC
+fotogenia,N,1.0,N0,MAN
+fotogenico,Adj,1.0,N0,MAN
+fracalhote,Adj,-1.0,N0,MAN
+fracassado,Adj,-1.0,N0,MAN
+fracassar,V,-1.0,N0,MAN
+fracasso,N,-1.0,N0,MAN
+fraco,Adj,-1.0,N0,MAN
+fracote,Adj,-1.0,N0,MAN
+fragil,Adj,-1.0,N0,MAN
+fragilidade,N,-1.0,N0,MAN
+fragilizado,Adj,-1.0,N0,MAN
+fragilizar,V,1.0,N0:N1,MAN
+fragmentado,Adj,-1.0,N0,JALC
+franco,Adj,1.0,N0,MAN
+francofilo,Adj,0.0,N0,MAN
+francofobo,Adj,-1.0,N0,MAN
+franqueza,N,1.0,N0,MAN
+franzino,Adj,-1.0,N0,MAN
+fraqueza,N,-1.0,N0,MAN
+fraternal,Adj,1.0,N0,MAN
+fraternidade,N,1.0,N0,MAN
+fraterno,Adj,1.0,N0,MAN
+fraturado,Adj,-1.0,N0,JALC
+fraude,N,-1.0,N0,MAN
+fraudulento,Adj,-1.0,N0,MAN
+fremente,Adj,0.0,N0,JALC
+frenetico,Adj,-1.0,N0,MAN
+frescalhote,Adj,1.0,N0,MAN
+fresco,Adj,0.0,N0,MAN
+frieza,N,-1.0,N0,MAN
+frigidez,N,-1.0,N0,MAN
+frigido,Adj,-1.0,N0,MAN
+frio,Adj,-1.0,N0,MAN
+frito,Adj,-1.0,N0,JALC
+frivolidade,N,-1.0,N0,MAN
+frivolo,Adj,-1.0,N0,MAN
+frontal,Adj,1.0,N0,MAN
+frontalidade,N,1.0,N0,MAN
+frouxidao,N,-1.0,N0,MAN
+frouxo,Adj,-1.0,N0,MAN
+frugal,Adj,1.0,N0,MAN
+fruste,Adj,-1.0,N0,MAN
+frustracao,N,-1.0,N0,MAN
+frustrado,Adj,-1.0,N0,MAN
+frustrar,V,-1.0,N0:N1,MAN
+fugaz,Adj,0.0,N0,MAN
+fugidio,Adj,-1.0,N0,MAN
+fugido,Adj,-1.0,N0,JALC
+fugir a questao,IDIOM,-1.0,N0,MAN
+fugir a responsabilidade,IDIOM,-1.0,N0,MAN
+fugir a sete pes,IDIOM,-1.0,N0,MAN
+fugir ao fisco,IDIOM,-1.0,N0,MAN
+fugir as perguntas,IDIOM,-1.0,N0,MAN
+fugir as responsabilidades,IDIOM,-1.0,N0,MAN
+fugir com o rabo a seringa,IDIOM,-1.0,N0,MAN
+fugir,V,-1.0,N0:N1,MAN
+fugitivo,Adj,-1.0,N0,MAN
+fujao,Adj,-1.0,N0,MAN
+fulgurante,Adj,0.0,N0,MAN
+fulminante,Adj,-1.0,N0,JALC
+fulo,Adj,-1.0,N0,JALC
+funcional,Adj,1.0,N0,JALC
+fundamentado,Adj,1.0,N0,JALC
+fundamentalista,Adj,-1.0,N0,MAN
+funesto,Adj,-1.0,N0,JALC
+furao,Adj,0.0,N0,MAN
+furibundo,Adj,-1.0,N0,JALC
+furioso,Adj,-1.0,N0,JALC
+furtar,V,-1.0,N0:N1,MAN
+furtivo,Adj,-1.0,N0,JALC
+fustigar,V,1.0,N0:N1,MAN
+futil,Adj,-1.0,N0,MAN
+futilidade,N,-1.0,N0,MAN
+futurista,Adj,0.0,N0,MAN
+fuzilar,V,1.0,N0:N1,MAN
+gabar-se,V,-1.0,N0,MAN
+gabaritado,Adj,1.0,N0,JALC
+gabarola,Adj,-1.0,N0,MAN
+gabiru,Adj,-1.0,N0,JALC
+gadelhudo,Adj,-1.0,N0,MAN
+gafo,Adj,-1.0,N0,JALC
+gaga,Adj,-1.0,N0,JALC
+gago,Adj,-1.0,N0,JALC
+gaguez,N,-1.0,N0,MAN
+gaiteiro,Adj,-1.0,N0,MAN
+galante,Adj,1.0,N0,MAN
+galanteador,Adj,0.0,N0,MAN
+galderio,Adj,-1.0,N0,MAN
+galhardo,Adj,1.0,N0,MAN
+galhofeiro,Adj,0.0,N0,MAN
+gamar,V,-1.0,N0:N1,MAN
+ganancia,N,-1.0,N0,MAN
+ganancioso,Adj,-1.0,N0,MAN
+gandulagem,N,-1.0,N0,MAN
+gandulo,Adj,-1.0,N0,MAN
+gangrena,N,-1.0,N0,MAN
+ganhar,V,1.0,N0:N1,MAN
+ganir,V,-1.0,N0,MAN
+ganzado,Adj,-1.0,N0,JALC
+garboso,Adj,1.0,N0,MAN
+garganeiro,Adj,-1.0,N0,MAN
+garotice,N,-1.0,N0,MAN
+garoto,Adj,-1.0,N0,JALC
+garrido,Adj,0.0,N0,MAN
+gaseado,Adj,-1.0,N0,MAN
+gastador,Adj,-1.0,N0,MAN
+gastar mundos e fundos,IDIOM,-1.0,N0,MAN
+gasto,Adj,-1.0,N0,MAN
+gatuno,Adj,-1.0,N0,MAN
+gauderio,Adj,-1.0,N0,MAN
+gay,Adj,0.0,N0,MAN
+gelado,Adj,-1.0,N0,MAN
+gelido,Adj,-1.0,N0,MAN
+generalizador,Adj,0.0,N0,MAN
+generosidade,N,1.0,N0,MAN
+generoso,Adj,1.0,N0,MAN
+genial,Adj,1.0,N0,MAN
+genialidade,N,1.0,N0,MAN
+genio,Adj,1.0,N0,MAN
+genioso,Adj,-1.0,N0,MAN
+gentil,Adj,1.0,N0,MAN
+gentileza,N,1.0,N0,MAN
+gentinha,N,-1.0,N0,MAN
+gentio,Adj,-1.0,N0,JALC
+genuinidade,N,1.0,N0,MAN
+genuino,Adj,1.0,N0,MAN
+germanofilo,Adj,0.0,N0,MAN
+germanofobo,Adj,-1.0,N0,MAN
+gigante,Adj,0.0,N0,MAN
+gigantesco,Adj,0.0,N0,MAN
+gingao,Adj,-1.0,N0,MAN
+glamoroso,Adj,1.0,N0,MAN
+glamour,N,1.0,N0,MAN
+gloria,N,1.0,N0,MAN
+glorificado,Adj,1.0,N0,JALC
+glorioso,Adj,1.0,N0,MAN
+glutao,Adj,-1.0,N0,MAN
+goliardo,Adj,-1.0,N0,MAN
+golpeado,Adj,-1.0,N0,JALC
+gorado,Adj,-1.0,N0,JALC
+gordanchudo,Adj,-1.0,N0,MAN
+gordo,Adj,-1.0,N0,MAN
+gorducho,Adj,-1.0,N0,MAN
+gordurento,Adj,-1.0,N0,JALC
+gorduroso,Adj,-1.0,N0,JALC
+gostar,V,0.0,N0:N1,MAN
+gostavel,Adj,1.0,N0,JALC
+gostoso,Adj,1.0,N0,JALC
+governado,Adj,1.0,N0,JALC
+gozador,Adj,-1.0,N0,JALC
+gozar,V,1.0,N0:N1,MAN
+gozo,N,-1.0,N0,MAN
+gracil,Adj,1.0,N0,MAN
+graciosidade,N,1.0,N0,MAN
+gracioso,Adj,1.0,N0,MAN
+grafomania,N,-1.0,N0,MAN
+grafomaniaco,Adj,-1.0,N0,MAN
+grafomano,Adj,-1.0,N0,MAN
+grandalhao,Adj,0.0,N0,MAN
+grandiloquente,Adj,1.0,N0,MAN
+grandiloquo,Adj,1.0,N0,MAN
+grandiosidade,N,1.0,N0,MAN
+grandioso,Adj,1.0,N0,MAN
+grato,Adj,1.0,N0,JALC
+grazina,Adj,-1.0,N0,MAN
+grimpo,Adj,1.0,N0,MAN
+gringo,Adj,-1.0,N0,MAN
+gritante,Adj,-1.0,N0,JALC
+grosseirao,Adj,-1.0,N0,JALC
+grosseirismo,N,-1.0,N0,MAN
+grosseiro,Adj,-1.0,N0,MAN
+grosseria,N,-1.0,N0,MAN
+grosso,Adj,-1.0,N0,MAN
+grotesco,Adj,-1.0,N0,MAN
+grudento,Adj,-1.0,N0,JALC
+guapo,Adj,1.0,N0,JALC
+guerra,N,-1.0,N0,MAN
+guerreiro,Adj,0.0,N0,MAN
+guicho,Adj,0.0,N0,MAN
+guloso,Adj,-1.0,N0,MAN
+habil,Adj,0.0,N0,MAN
+habilidade,N,1.0,N0,MAN
+habilidoso,Adj,1.0,N0,MAN
+habilitado,Adj,1.0,N0,JALC
+handicap,N,-1.0,N0,MAN
+harmonia,N,1.0,N0,MAN
+harmonico,Adj,1.0,N0,JALC
+harmonico,Adj,1.0,N0,MAN
+harmonioso,Adj,1.0,N0,MAN
+hediondez,N,-1.0,N0,MAN
+hediondo,Adj,-1.0,N0,MAN
+hemiplegia,N,-1.0,N0,MAN
+herculeo,Adj,1.0,N0,JALC
+herege,Adj,-1.0,N0,MAN
+heresia,N,-1.0,N0,MAN
+heretico,Adj,-1.0,N0,JALC
+hermetico,Adj,-1.0,N0,JALC
+herodiano,Adj,-1.0,N0,MAN
+heroicidade,N,1.0,N0,MAN
+heroico,Adj,1.0,N0,MAN
+heroinomania,N,-1.0,N0,MAN
+heroinomano,Adj,-1.0,N0,MAN
+hesitante,Adj,-1.0,N0,JALC
+heteroclito,Adj,-1.0,N0,MAN
+heterogeneo,Adj,-1.0,N0,JALC
+heterogeneo,Adj,-1.0,N0,JALC
+hidratado,Adj,0.0,N0,MAN
+hidrofobo,Adj,-1.0,N0,MAN
+higienico,Adj,1.0,N0,MAN
+hilare,Adj,1.0,N0,MAN
+hilariante,Adj,0.0,N0,MAN
+hiperactivo,Adj,-1.0,N0,JALC
+hiperativo,Adj,-1.0,N0,JALC
+hiperbolico,Adj,-1.0,N0,MAN
+hiperconservador,Adj,-1.0,N0,MAN
+hiperconservadorismo,N,-1.0,N0,MAN
+hipercritico,Adj,-1.0,N0,MAN
+hiperculto,Adj,1.0,N0,MAN
+hiperdotado,Adj,1.0,N0,MAN
+hipersensibilidade,N,-1.0,N0,MAN
+hipersensivel,Adj,-1.0,N0,MAN
+hipnotizacao,N,-1.0,N0,MAN
+hipnotizado,Adj,-1.0,N0,MAN
+hipnotizar,V,-1.0,N0:N1,MAN
+hipnotizavel,Adj,-1.0,N0,MAN
+hipocondria,N,-1.0,N0,MAN
+hipocondriaco,Adj,-1.0,N0,MAN
+hipocrisia,N,-1.0,N0,MAN
+hipocrita,Adj,-1.0,N0,MAN
+hirsuto,Adj,-1.0,N0,JALC
+hirto,Adj,0.0,N0,MAN
+histeria,N,-1.0,N0,MAN
+histerico,Adj,-1.0,N0,MAN
+histrionico,Adj,-1.0,N0,JALC
+hodierno,Adj,1.0,N0,JALC
+homenagear,V,0.0,N0:N1,MAN
+homicida,Adj,-1.0,N0,MAN
+homicidio,N,-1.0,N0,MAN
+homiziado,Adj,-1.0,N0,JALC
+homogeneo,Adj,1.0,N0,JALC
+honestidade,N,1.0,N0,MAN
+honesto,Adj,1.0,N0,MAN
+honorabilidade,N,1.0,N0,MAN
+honoravel,Adj,1.0,N0,MAN
+honra,N,1.0,N0,MAN
+honradez,N,1.0,N0,MAN
+honrado,Adj,1.0,N0,MAN
+honrar a sua palavra,IDIOM,1.0,N0,MAN
+honrar os seus compromissos,IDIOM,1.0,N0,MAN
+honrar,V,1.0,N0:N1,MAN
+honroso,Adj,1.0,N0,MAN
+horrendo,Adj,-1.0,N0,MAN
+horribilidade,N,-1.0,N0,MAN
+horrido,Adj,-1.0,N0,MAN
+horrifico,Adj,-1.0,N0,MAN
+horripilacao,N,-1.0,N0,MAN
+horripilante,Adj,-1.0,N0,MAN
+horrivel,Adj,-1.0,N0,MAN
+horror,N,-1.0,N0,MAN
+horrorizar,V,-1.0,N0:N1,MAN
+horroroso,Adj,-1.0,N0,MAN
+hospitaleiro,Adj,1.0,N0,MAN
+hospitalidade,N,1.0,N0,MAN
+hostil,Adj,-1.0,N0,MAN
+hostilidade,N,-1.0,N0,MAN
+humanidade,N,1.0,N0,MAN
+humanista,Adj,0.0,N0,MAN
+humanitario,Adj,1.0,N0,JALC
+humano,Adj,1.0,N0,MAN
+humilde,Adj,0.0,N0,MAN
+humilhado,Adj,-1.0,N0,JALC
+humilhar-se,V,-1.0,N0,MAN
+humilhar,V,1.0,N0:N1,MAN
+ideal,Adj,1.0,N0,JALC
+idealista,Adj,0.0,N0,MAN
+idilico,Adj,0.0,N0,JALC
+idiota,Adj,-1.0,N0,MAN
+idiotia,N,-1.0,N0,MAN
+idiotice,N,-1.0,N0,MAN
+idolatra,Adj,0.0,N0,MAN
+idolatrado,Adj,1.0,N0,JALC
+idoneidade,N,1.0,N0,MAN
+idoneo,Adj,1.0,N0,JALC
+idoneo,Adj,1.0,N0,MAN
+idoso,Adj,0.0,N0,MAN
+ignaro,Adj,-1.0,N0,MAN
+ignobil,Adj,-1.0,N0,MAN
+ignominia,N,-1.0,N0,MAN
+ignominioso,Adj,-1.0,N0,MAN
+ignorado,Adj,-1.0,N0,JALC
+ignorancia,N,-1.0,N0,MAN
+ignorante,Adj,-1.0,N0,MAN
+ignorar,V,0.0,N0:N1,MAN
+ignoto,Adj,-1.0,N0,MAN
+igual,Adj,0.0,N0,JALC
+igualitario,Adj,0.0,N0,MAN
+ilegal,Adj,-1.0,N0,JALC
+ilegitimo,Adj,-1.0,N0,JALC
+ilegivel,Adj,-1.0,N0,JALC
+ileso,Adj,1.0,N0,JALC
+iletrado,Adj,-1.0,N0,MAN
+ilibado,Adj,1.0,N0,JALC
+ilibar,V,0.0,N0:N1,MAN
+iliberal,Adj,-1.0,N0,JALC
+iliteracia,N,-1.0,N0,MAN
+iliterato,Adj,-1.0,N0,MAN
+ilogico,Adj,-1.0,N0,MAN
+ilogismo,N,-1.0,N0,MAN
+iludido,Adj,-1.0,N0,JALC
+iludir,V,-1.0,N0:N1,MAN
+iluminado,Adj,1.0,N0,MAN
+iluminar,V,1.0,N0:N1,MAN
+ilusao,N,-1.0,N0,MAN
+ilusorio,Adj,-1.0,N0,JALC
+ilustrado,Adj,1.0,N0,JALC
+ilustre,Adj,1.0,N0,MAN
+imaculabilidade,N,1.0,N0,MAN
+imaculado,Adj,1.0,N0,MAN
+imaculavel,Adj,0.0,N0,JALC
+imagetico,Adj,1.0,N0,MAN
+imaginativo,Adj,0.0,N0,MAN
+imaginoso,Adj,0.0,N0,MAN
+imaturidade,N,-1.0,N0,MAN
+imaturo,Adj,-1.0,N0,MAN
+imbativel,Adj,1.0,N0,MAN
+imbecil,Adj,-1.0,N0,MAN
+imbecilidade,N,-1.0,N0,MAN
+imerecido,Adj,-1.0,N0,JALC
+imisericordioso,Adj,-1.0,N0,JALC
+imitador,Adj,-1.0,N0,JALC
+imitar,V,-1.0,N0:N1,MAN
+imitativo,Adj,-1.0,N0,JALC
+imobilizado,Adj,-1.0,N0,MAN
+imoderacao,N,-1.0,N0,MAN
+imoderado,Adj,-1.0,N0,MAN
+imodestia,N,-1.0,N0,MAN
+imodesto,Adj,-1.0,N0,MAN
+imolado,Adj,1.0,N0,JALC
+imoral,Adj,-1.0,N0,MAN
+imoralidade,N,-1.0,N0,MAN
+imorigerado,Adj,-1.0,N0,MAN
+imortal,Adj,1.0,N0,MAN
+imortalizado,Adj,1.0,N0,MAN
+imovel,Adj,-1.0,N0,JALC
+impaciente,Adj,-1.0,N0,MAN
+impagavel,Adj,1.0,N0,MAN
+impante,Adj,-1.0,N0,JALC
+imparavel,Adj,0.0,N0,MAN
+imparcial,Adj,1.0,N0,JALC
+impassivel,Adj,0.0,N0,MAN
+impatriota,Adj,-1.0,N0,MAN
+impavido e sereno,Adj,0.0,N0,MAN
+impavido,Adj,1.0,N0,JALC
+impecabilidade,N,1.0,N0,MAN
+impecavel,Adj,1.0,N0,MAN
+impecunioso,Adj,-1.0,N0,MAN
+impedido,Adj,0.0,N0,JALC
+impelido,Adj,-1.0,N0,JALC
+impenetravel,Adj,-1.0,N0,MAN
+impenitente,Adj,-1.0,N0,MAN
+imperceptivel,Adj,-1.0,N0,JALC
+impercetivel,Adj,-1.0,N0,JALC
+imperdoavel,Adj,-1.0,N0,JALC
+imperfeicao,N,-1.0,N0,MAN
+imperfeito,Adj,-1.0,N0,MAN
+imperial,Adj,-1.0,N0,MAN
+imperialista,Adj,-1.0,N0,MAN
+imperiosidade,N,-1.0,N0,MAN
+imperioso,Adj,-1.0,N0,MAN
+imperito,Adj,-1.0,N0,JALC
+impermanencia,N,-1.0,N0,MAN
+impermanente,Adj,-1.0,N0,MAN
+imperscrutavel,Adj,-1.0,N0,MAN
+imperterrito,Adj,1.0,N0,MAN
+impertinencia,N,-1.0,N0,MAN
+impertinente,Adj,-1.0,N0,MAN
+imperturbado,Adj,1.0,N0,MAN
+imperturbavel,Adj,1.0,N0,MAN
+impessoal,Adj,-1.0,N0,MAN
+impessoalidade,N,-1.0,N0,MAN
+impetuosidade,N,-1.0,N0,MAN
+impetuoso,Adj,-1.0,N0,MAN
+impiedade,N,-1.0,N0,MAN
+impiedoso,Adj,-1.0,N0,MAN
+impio,Adj,-1.0,N0,MAN
+implacavel,Adj,-1.0,N0,JALC
+implantado,Adj,0.0,N0,JALC
+implicado,Adj,-1.0,N0,JALC
+implicante,Adj,-1.0,N0,JALC
+implicativo,Adj,-1.0,N0,MAN
+implorante,Adj,0.0,N0,MAN
+implorar,V,-1.0,N0:N1,MAN
+implorativo,Adj,0.0,N0,MAN
+impoluto,Adj,1.0,N0,MAN
+imponderacao,N,-1.0,N0,MAN
+imponderado,Adj,-1.0,N0,MAN
+imponente,Adj,1.0,N0,MAN
+impontual,Adj,-1.0,N0,MAN
+impontualidade,N,-1.0,N0,MAN
+impopular,Adj,-1.0,N0,MAN
+impopularidade,N,-1.0,N0,MAN
+importunado,Adj,-1.0,N0,JALC
+importuno,Adj,-1.0,N0,MAN
+impossivel,Adj,-1.0,N0,JALC
+imposto,Adj,-1.0,N0,JALC
+impostor,Adj,-1.0,N0,MAN
+impostura,N,-1.0,N0,MAN
+impotencia,N,-1.0,N0,MAN
+impotente,Adj,-1.0,N0,JALC
+imprecisao,N,-1.0,N0,MAN
+impreciso,Adj,-1.0,N0,MAN
+impregnado,Adj,-1.0,N0,JALC
+impreparado,Adj,-1.0,N0,MAN
+impressionado,Adj,0.0,N0,JALC
+impressionante,Adj,0.0,N0,MAN
+impressionar,V,1.0,N0:N1,MAN
+impressionavel,Adj,-1.0,N0,MAN
+imprestabilidade,N,-1.0,N0,MAN
+imprestavel,Adj,-1.0,N0,MAN
+imprevidencia,N,-1.0,N0,MAN
+imprevidente,Adj,-1.0,N0,MAN
+imprevisivel,Adj,0.0,N0,MAN
+improcedencia,N,-1.0,N0,MAN
+improcedente,Adj,-1.0,N0,MAN
+improducente,Adj,-1.0,N0,MAN
+improdutividade,N,-1.0,N0,MAN
+improdutivo,Adj,-1.0,N0,MAN
+improvisador,Adj,0.0,N0,MAN
+imprudencia,N,-1.0,N0,MAN
+imprudente,Adj,-1.0,N0,MAN
+impudente,Adj,-1.0,N0,MAN
+impudicicia,N,-1.0,N0,MAN
+impudico,Adj,-1.0,N0,MAN
+impugnado,Adj,-1.0,N0,JALC
+impulsivo,Adj,-1.0,N0,MAN
+impuro,Adj,-1.0,N0,JALC
+imputado,Adj,-1.0,N0,JALC
+imundicie,N,-1.0,N0,MAN
+imundo,Adj,-1.0,N0,MAN
+imutavel,Adj,0.0,N0,JALC
+inabil,Adj,-1.0,N0,MAN
+inabilidade,N,-1.0,N0,MAN
+inabordavel,Adj,-1.0,N0,JALC
+inaceitavel,Adj,-1.0,N0,JALC
+inacessivel,Adj,-1.0,N0,MAN
+inacreditavel,Adj,0.0,N0,MAN
+inactividade,N,-1.0,N0,MAN
+inactivo,Adj,-1.0,N0,MAN
+inadaptado,Adj,-1.0,N0,MAN
+inadequado,Adj,-1.0,N0,JALC
+inadmissivel,Adj,-1.0,N0,JALC
+inalterado,Adj,0.0,N0,JALC
+inamovivel,Adj,-1.0,N0,MAN
+inanimacao,N,-1.0,N0,MAN
+inanimado,Adj,-1.0,N0,JALC
+inanime,Adj,-1.0,N0,MAN
+inaplicado,Adj,-1.0,N0,MAN
+inapresentavel,Adj,-1.0,N0,MAN
+inapto,Adj,-1.0,N0,JALC
+inatacavel,Adj,1.0,N0,MAN
+inatividade,N,-1.0,N0,MAN
+inativo,Adj,-1.0,N0,JALC
+inaudito,Adj,1.0,N0,JALC
+inautenticidade,N,-1.0,N0,MAN
+inautentico,Adj,-1.0,N0,MAN
+incansavel,Adj,1.0,N0,MAN
+incapacidade,N,-1.0,N0,MAN
+incapaz,Adj,-1.0,N0,MAN
+incaracteristico,Adj,-1.0,N0,JALC
+incauto,Adj,-1.0,N0,MAN
+incendiado,Adj,-1.0,N0,JALC
+incendiario,Adj,-1.0,N0,JALC
+incensador,Adj,-1.0,N0,MAN
+incensuravel,Adj,1.0,N0,MAN
+incerteza,N,-1.0,N0,MAN
+incerto,Adj,-1.0,N0,MAN
+inchado,Adj,-1.0,N0,JALC
+incipiente,Adj,-1.0,N0,JALC
+incisivo,Adj,0.0,N0,MAN
+incivil,Adj,-1.0,N0,MAN
+incivilidade,N,-1.0,N0,MAN
+incivilizado,Adj,-1.0,N0,MAN
+inclemencia,N,-1.0,N0,MAN
+inclemente,Adj,-1.0,N0,MAN
+inclito,Adj,1.0,N0,MAN
+incoercivel,Adj,0.0,N0,MAN
+incoerencia,N,-1.0,N0,MAN
+incoerente,Adj,-1.0,N0,MAN
+incognito,Adj,-1.0,N0,MAN
+incolume,Adj,1.0,N0,JALC
+incomodado,Adj,-1.0,N0,JALC
+incomodar,V,1.0,N0:N1,MAN
+incomodativo,Adj,-1.0,N0,MAN
+incomodidade,N,-1.0,N0,MAN
+incomodo,Adj,-1.0,N0,JALC
+incomodo,Adj,-1.0,N0,MAN
+incompetencia,N,-1.0,N0,MAN
+incompetente,Adj,-1.0,N0,MAN
+incompleto,Adj,-1.0,N0,JALC
+incompreensibilidade,N,-1.0,N0,MAN
+incompreensivel,Adj,-1.0,N0,MAN
+incomum,Adj,0.0,N0,MAN
+inconcebivel,Adj,-1.0,N0,JALC
+inconciliavel,Adj,-1.0,N0,JALC
+inconcluso,Adj,-1.0,N0,JALC
+inconcusso,Adj,1.0,N0,MAN
+inconfessavel,Adj,-1.0,N0,JALC
+inconfidente,Adj,-1.0,N0,MAN
+inconformado,Adj,0.0,N0,MAN
+inconfundivel,Adj,0.0,N0,MAN
+incongruencia,N,-1.0,N0,MAN
+incongruente,Adj,-1.0,N0,MAN
+inconsciencia,N,-1.0,N0,MAN
+inconsciente,Adj,-1.0,N0,MAN
+inconsequente,Adj,-1.0,N0,JALC
+inconsequente,Adj,-1.0,N0,MAN
+inconsiderado,Adj,-1.0,N0,JALC
+inconsistencia,N,-1.0,N0,MAN
+inconsistente,Adj,-1.0,N0,MAN
+inconsolado,Adj,-1.0,N0,MAN
+inconsolavel,Adj,-1.0,N0,MAN
+inconstante,Adj,-1.0,N0,MAN
+incontestavel,Adj,1.0,N0,MAN
+incontinencia,N,-1.0,N0,MAN
+incontinente,Adj,-1.0,N0,MAN
+incontrariavel,Adj,-1.0,N0,MAN
+incontrolado,Adj,-1.0,N0,JALC
+incontroverso,Adj,1.0,N0,MAN
+inconveniencia,N,-1.0,N0,MAN
+inconveniente,Adj,-1.0,N0,MAN
+inconversavel,Adj,-1.0,N0,MAN
+incorrecao,N,-1.0,N0,MAN
+incorreccao,N,-1.0,N0,MAN
+incorrecto,Adj,-1.0,N0,MAN
+incorreto,Adj,-1.0,N0,MAN
+incorrigivel,Adj,-1.0,N0,MAN
+incorrupcao,N,1.0,N0,MAN
+incorruptibilidade,N,1.0,N0,MAN
+incorruptivel,Adj,1.0,N0,MAN
+incorrupto,Adj,1.0,N0,MAN
+incredulo,Adj,0.0,N0,MAN
+incriminar,V,0.0,N0:N1,MAN
+incriticavel,Adj,1.0,N0,MAN
+incrivel,Adj,0.0,N0,MAN
+inculto,Adj,-1.0,N0,MAN
+incultura,N,-1.0,N0,MAN
+incumpridor,Adj,-1.0,N0,MAN
+incuravel,Adj,-1.0,N0,JALC
+indecencia,N,-1.0,N0,MAN
+indecente,Adj,-1.0,N0,MAN
+indecifravel,Adj,-1.0,N0,JALC
+indeciso,Adj,-1.0,N0,MAN
+indecoro,N,-1.0,N0,MAN
+indecorosidade,N,-1.0,N0,MAN
+indecoroso,Adj,-1.0,N0,MAN
+indefectivel,Adj,1.0,N0,JALC
+indefenso,Adj,-1.0,N0,JALC
+indeferido,Adj,-1.0,N0,JALC
+indefeso,Adj,-1.0,N0,MAN
+indefetivel,Adj,1.0,N0,JALC
+indefinido,Adj,-1.0,N0,JALC
+indelevel,Adj,0.0,N0,JALC
+indelicadeza,N,-1.0,N0,MAN
+indelicado,Adj,-1.0,N0,MAN
+indemnizado,Adj,1.0,N0,JALC
+independente,Adj,0.0,N0,MAN
+independentista,Adj,0.0,N0,MAN
+inderrotavel,Adj,1.0,N0,MAN
+inderrubavel,Adj,1.0,N0,MAN
+indescritivel,Adj,0.0,N0,JALC
+indesculpavel,Adj,-1.0,N0,JALC
+indesejado,Adj,-1.0,N0,MAN
+indesejavel,Adj,-1.0,N0,JALC
+indestituivel,Adj,0.0,N0,MAN
+indestronavel,Adj,0.0,N0,MAN
+indestrutivel,Adj,1.0,N0,MAN
+indeterminado,Adj,-1.0,N0,JALC
+indiciado,Adj,-1.0,N0,JALC
+indigente,Adj,-1.0,N0,MAN
+indigesto,Adj,-1.0,N0,JALC
+indigitavel,Adj,-1.0,N0,MAN
+indignado,Adj,-1.0,N0,JALC
+indignidade,N,-1.0,N0,MAN
+indigno,Adj,-1.0,N0,MAN
+indirecto,Adj,-1.0,N0,MAN
+indireto,Adj,-1.0,N0,JALC
+indisciplina,N,-1.0,N0,MAN
+indisciplinado,Adj,-1.0,N0,MAN
+indiscreto,Adj,-1.0,N0,MAN
+indiscricao,N,-1.0,N0,MAN
+indiscutivel,Adj,1.0,N0,JALC
+indispensavel,Adj,1.0,N0,JALC
+indisposicao,N,-1.0,N0,MAN
+indisposto,Adj,-1.0,N0,JALC
+indissociavel,Adj,0.0,N0,JALC
+indistinto,Adj,-1.0,N0,JALC
+inditoso,Adj,-1.0,N0,MAN
+individualista,Adj,-1.0,N0,MAN
+indocil,Adj,-1.0,N0,MAN
+indocilidade,N,-1.0,N0,MAN
+indolencia,N,-1.0,N0,MAN
+indolente,Adj,-1.0,N0,MAN
+indomavel,Adj,0.0,N0,MAN
+indominavel,Adj,-1.0,N0,MAN
+indomito,Adj,-1.0,N0,MAN
+indubitavel,Adj,1.0,N0,JALC
+indulgente,Adj,1.0,N0,MAN
+industrioso,Adj,0.0,N0,MAN
+induzir em erro,IDIOM,-1.0,N0,MAN
+inebriado,Adj,-1.0,N0,JALC
+inebriante,Adj,-1.0,N0,MAN
+inefavel,Adj,-1.0,N0,MAN
+ineficacia,N,-1.0,N0,MAN
+ineficaz,Adj,-1.0,N0,MAN
+ineficiencia,N,-1.0,N0,MAN
+ineficiente,Adj,-1.0,N0,MAN
+inelegivel,Adj,-1.0,N0,MAN
+inelutavel,Adj,1.0,N0,JALC
+inenarravel,Adj,-1.0,N0,JALC
+inepcia,N,-1.0,N0,MAN
+inepto,Adj,-1.0,N0,MAN
+inequivoco,Adj,1.0,N0,MAN
+inercia,N,-1.0,N0,MAN
+inerme,Adj,-1.0,N0,MAN
+inerte,Adj,-1.0,N0,MAN
+inescrutavel,Adj,-1.0,N0,JALC
+inesgotavel,Adj,1.0,N0,JALC
+inesperado,Adj,0.0,N0,JALC
+inesquecivel,Adj,0.0,N0,MAN
+inexactidao,N,-1.0,N0,MAN
+inexacto,Adj,-1.0,N0,MAN
+inexatidao,N,-1.0,N0,MAN
+inexato,Adj,-1.0,N0,MAN
+inexcedivel,Adj,1.0,N0,JALC
+inexoravel,Adj,-1.0,N0,MAN
+inexperiencia,N,-1.0,N0,MAN
+inexperiente,Adj,-1.0,N0,MAN
+inexperto,Adj,-1.0,N0,MAN
+inexplicavel,Adj,-1.0,N0,JALC
+inexplicito,Adj,-1.0,N0,MAN
+inexpressivo,Adj,-1.0,N0,MAN
+inexprimivel,Adj,-1.0,N0,JALC
+infalivel,Adj,1.0,N0,JALC
+infamado,Adj,-1.0,N0,JALC
+infamante,Adj,-1.0,N0,MAN
+infame,Adj,-1.0,N0,MAN
+infamia,N,-1.0,N0,MAN
+infantil,Adj,-1.0,N0,MAN
+infantilidade,N,-1.0,N0,MAN
+infatigavel,Adj,1.0,N0,MAN
+infectado,Adj,-1.0,N0,JALC
+infecundo,Adj,-1.0,N0,MAN
+infelicidade,N,-1.0,N0,MAN
+infeliz,Adj,-1.0,N0,MAN
+infernal,Adj,-1.0,N0,JALC
+infernizar a vida a,IDIOM,0.0,N0:N1,MAN
+infernizar,V,1.0,N0:N1,MAN
+infertil,Adj,-1.0,N0,MAN
+infetado,Adj,-1.0,N0,JALC
+infidelidade,N,-1.0,N0,MAN
+infiel,Adj,-1.0,N0,MAN
+inflado,Adj,-1.0,N0,MAN
+inflamado,Adj,-1.0,N0,JALC
+inflexibilidade,N,-1.0,N0,MAN
+inflexivel,Adj,-1.0,N0,MAN
+influenciavel,Adj,-1.0,N0,MAN
+influente,Adj,1.0,N0,MAN
+infoexcluido,Adj,-1.0,N0,MAN
+informal,Adj,0.0,N0,MAN
+informe,Adj,-1.0,N0,MAN
+infortunado,Adj,-1.0,N0,MAN
+infortunio,N,-1.0,N0,MAN
+infrene,Adj,-1.0,N0,MAN
+infringir,V,-1.0,N0:N1,MAN
+infrutifero,Adj,-1.0,N0,JALC
+infundado,Adj,-1.0,N0,JALC
+ingenuo,Adj,-1.0,N0,JALC
+ingenuo,Adj,0.0,N0,MAN
+ingratidao,N,-1.0,N0,MAN
+ingrato,Adj,-1.0,N0,MAN
+inibido,Adj,-1.0,N0,JALC
+inibir-se,V,-1.0,N0,MAN
+inibir,V,1.0,N0:N1,MAN
+inidoneidade,N,-1.0,N0,MAN
+inidoneo,Adj,-1.0,N0,MAN
+inigualavel,Adj,0.0,N0,JALC
+inimigo,Adj,-1.0,N0,MAN
+inimitavel,Adj,0.0,N0,MAN
+ininteligibilidade,N,-1.0,N0,MAN
+ininteligivel,Adj,-1.0,N0,MAN
+ininterrupto,Adj,0.0,N0,JALC
+iniquidade,N,-1.0,N0,MAN
+iniquo,Adj,-1.0,N0,MAN
+injuria,N,-1.0,N0,MAN
+injuriado,Adj,-1.0,N0,JALC
+injuriante,Adj,-1.0,N0,MAN
+injuriar,V,-1.0,N0:N1,MAN
+injurioso,Adj,-1.0,N0,MAN
+injustica,N,-1.0,N0,MAN
+injusticado,Adj,0.0,N0,MAN
+injusto,Adj,-1.0,N0,MAN
+inocente,Adj,1.0,N0,MAN
+inocuo,Adj,0.0,N0,MAN
+inofensivo,Adj,0.0,N0,MAN
+inopinado,Adj,0.0,N0,JALC
+inoportuno,Adj,-1.0,N0,MAN
+inospito,Adj,-1.0,N0,MAN
+inovacao,N,1.0,N0,MAN
+inovador,Adj,1.0,N0,MAN
+inqualificacao,N,-1.0,N0,MAN
+inqualificado,Adj,-1.0,N0,MAN
+inqualificavel,Adj,-1.0,N0,MAN
+inquebrantavel,Adj,-1.0,N0,MAN
+inquestionavel,Adj,1.0,N0,MAN
+inquietacao,N,-1.0,N0,MAN
+inquietante,Adj,-1.0,N0,MAN
+inquieto,Adj,-1.0,N0,MAN
+insaciado,Adj,-1.0,N0,MAN
+insaciavel,Adj,0.0,N0,MAN
+insanidade,N,-1.0,N0,MAN
+insano,Adj,-1.0,N0,MAN
+insatisfatorio,Adj,-1.0,N0,JALC
+insatisfeito,Adj,-1.0,N0,JALC
+inseguranca,N,-1.0,N0,MAN
+inseguro,Adj,-1.0,N0,MAN
+insensatez,N,-1.0,N0,MAN
+insensato,Adj,-1.0,N0,MAN
+insensibilidade,N,-1.0,N0,MAN
+insensivel,Adj,-1.0,N0,MAN
+inseparavel,Adj,0.0,N0,JALC
+insidioso,Adj,-1.0,N0,MAN
+insigne,Adj,1.0,N0,MAN
+insignificante,Adj,-1.0,N0,MAN
+insinceridade,N,-1.0,N0,MAN
+insincero,Adj,-1.0,N0,MAN
+insinuacao,N,-1.0,N0,MAN
+insinuador,Adj,-1.0,N0,MAN
+insinuante,Adj,0.0,N0,MAN
+insinuativo,Adj,-1.0,N0,MAN
+insinuoso,Adj,-1.0,N0,MAN
+insipidez,N,-1.0,N0,MAN
+insipido,Adj,-1.0,N0,MAN
+insipiencia,N,-1.0,N0,MAN
+insipiente,Adj,-1.0,N0,MAN
+insistente,Adj,0.0,N0,MAN
+insociabilidade,N,-1.0,N0,MAN
+insociavel,Adj,-1.0,N0,MAN
+insofrido,Adj,-1.0,N0,MAN
+insolencia,N,-1.0,N0,MAN
+insolente,Adj,-1.0,N0,MAN
+insolito,Adj,-1.0,N0,MAN
+insondavel,Adj,-1.0,N0,JALC
+insonso,Adj,-1.0,N0,MAN
+insosso,Adj,-1.0,N0,MAN
+inspiracao,N,1.0,N0,MAN
+inspirado,Adj,1.0,N0,MAN
+inspirador,Adj,1.0,N0,MAN
+inspirar confianca,IDIOM,1.0,N0,MAN
+instabilidade,N,-1.0,N0,MAN
+instavel,Adj,-1.0,N0,MAN
+instigado,Adj,-1.0,N0,JALC
+instintivo,Adj,0.0,N0,MAN
+instruido,Adj,1.0,N0,MAN
+instrutivo,Adj,1.0,N0,JALC
+insubmisso,Adj,-1.0,N0,MAN
+insubordinacao,N,-1.0,N0,MAN
+insubordinado,Adj,-1.0,N0,MAN
+insubornavel,Adj,1.0,N0,MAN
+insubstituivel,Adj,1.0,N0,JALC
+insuficiente,Adj,-1.0,N0,JALC
+insulsez,N,-1.0,N0,MAN
+insulso,Adj,-1.0,N0,MAN
+insultado,Adj,-1.0,N0,JALC
+insultar,V,-1.0,N0:N1,MAN
+insulto,N,-1.0,N0,MAN
+insultuoso,Adj,-1.0,N0,MAN
+insuperavel,Adj,1.0,N0,JALC
+insuportavel,Adj,-1.0,N0,MAN
+insurgente,Adj,-1.0,N0,MAN
+insurrecto,Adj,-1.0,N0,MAN
+insurreto,Adj,-1.0,N0,JALC
+insusceptivel,Adj,-1.0,N0,JALC
+insuscetivel,Adj,-1.0,N0,JALC
+insuspeito,Adj,1.0,N0,JALC
+intacto,Adj,0.0,N0,JALC
+integridade,N,1.0,N0,MAN
+integrista,Adj,-1.0,N0,JALC
+integro,Adj,1.0,N0,MAN
+intelectual,Adj,0.0,N0,MAN
+intelectualista,Adj,0.0,N0,MAN
+intelectualoide,Adj,-1.0,N0,MAN
+inteligencia,N,1.0,N0,MAN
+inteligente,Adj,1.0,N0,MAN
+intemerato,Adj,1.0,N0,MAN
+intemperado,Adj,-1.0,N0,MAN
+intemperamento,N,-1.0,N0,MAN
+intempestividade,N,-1.0,N0,MAN
+intempestivo,Adj,-1.0,N0,MAN
+intenso,Adj,0.0,N0,MAN
+interceptado,Adj,-1.0,N0,JALC
+intercessor,Adj,0.0,N0,JALC
+intercetado,Adj,-1.0,N0,JALC
+interdito,Adj,-1.0,N0,JALC
+interessante,Adj,1.0,N0,MAN
+interesseiro,Adj,-1.0,N0,MAN
+internado,Adj,-1.0,N0,JALC
+interpretativo,Adj,0.0,N0,JALC
+interrogador,Adj,0.0,N0,JALC
+interrogatorio,Adj,-1.0,N0,JALC
+intervencionista,Adj,0.0,N0,MAN
+interveniente,Adj,0.0,N0,JALC
+interventor,Adj,0.0,N0,JALC
+intimidacao,N,-1.0,N0,MAN
+intimidado,Adj,-1.0,N0,JALC
+intimidador,Adj,-1.0,N0,MAN
+intimidante,Adj,-1.0,N0,MAN
+intimidar,V,1.0,N0:N1,MAN
+intimidativo,Adj,-1.0,N0,MAN
+intimidatorio,Adj,-1.0,N0,MAN
+intimorato,Adj,1.0,N0,MAN
+intocado,Adj,0.0,N0,JALC
+intocavel,Adj,0.0,N0,MAN
+intolerancia,N,-1.0,N0,MAN
+intolerante,Adj,-1.0,N0,MAN
+intoleravel,Adj,-1.0,N0,MAN
+intragavel,Adj,-1.0,N0,JALC
+intranquilidade,N,-1.0,N0,MAN
+intranquilo,Adj,-1.0,N0,MAN
+intransigencia,N,-1.0,N0,MAN
+intransigente,Adj,-1.0,N0,MAN
+intratabilidade,N,-1.0,N0,MAN
+intratavel,Adj,-1.0,N0,MAN
+intrepido e sereno,Adj,8.0,N0,MAN
+intrepido,Adj,7.0,N0,MAN
+intriga,N,-1.0,N0,MAN
+intrigante,Adj,-1.0,N0,MAN
+intriguista,Adj,-1.0,N0,MAN
+intrincado,Adj,-1.0,N0,JALC
+intrometer-se,V,-1.0,N0:N1,MAN
+intrometido,Adj,-1.0,N0,MAN
+introspectivo,Adj,0.0,N0,MAN
+introspetivo,Adj,0.0,N0,MAN
+introvertido,Adj,-1.0,N0,MAN
+intruso,Adj,-1.0,N0,JALC
+intuitivo,Adj,0.0,N0,MAN
+inumanidade,N,-1.0,N0,MAN
+inumano,Adj,-1.0,N0,MAN
+inusitado,Adj,0.0,N0,JALC
+inusual,Adj,0.0,N0,JALC
+inutil,Adj,-1.0,N0,MAN
+inutilidade,N,-1.0,N0,MAN
+invadir a privacidade de,IDIOM,-1.0,N0:N1,MAN
+invadir,V,-1.0,N0:N1,MAN
+invalido,Adj,-1.0,N0,MAN
+invariavel,Adj,0.0,N0,JALC
+invasivo,Adj,-1.0,N0,JALC
+invasor,Adj,-1.0,N0,JALC
+invectivo,Adj,-1.0,N0,MAN
+inveja,N,-1.0,N0,MAN
+invejado,Adj,0.0,N0,JALC
+invejar,V,-1.0,N0:N1,MAN
+invejoso,Adj,-1.0,N0,MAN
+invencivel,Adj,1.0,N0,MAN
+inventivo,Adj,1.0,N0,MAN
+inventor,Adj,1.0,N0,JALC
+invertido,Adj,-1.0,N0,MAN
+investigado,Adj,0.0,N0,JALC
+invetivo,Adj,-1.0,N0,MAN
+inviavel,Adj,-1.0,N0,JALC
+inviesado,Adj,-1.0,N0,MAN
+inviolavel,Adj,0.0,N0,JALC
+invisivel,Adj,-1.0,N0,MAN
+invulgar,Adj,0.0,N0,MAN
+invulneravel,Adj,1.0,N0,JALC
+ir a luta,IDIOM,1.0,N0,MAN
+ir ao chao,IDIOM,-1.0,N0,MAN
+ir ao tapete,IDIOM,-1.0,N0,MAN
+ir aos arames,IDIOM,-1.0,N0,MAN
+ir as nuvens,IDIOM,1.0,N0,MAN
+ir as paredes,IDIOM,-1.0,N0,MAN
+ir dentro,IDIOM,-1.0,N0,MAN
+ir desta para melhor,IDIOM,-1.0,N0,MAN
+ir para o outro mundo,IDIOM,-1.0,N0,MAN
+ir pelo caminho errado,IDIOM,-1.0,N0,MAN
+ir pelos ares,IDIOM,-1.0,N0,MAN
+ir-se abaixo,IDIOM,-1.0,N0,MAN
+ir-se ao ar,IDIOM,-1.0,N0,MAN
+ir-se aos ares,IDIOM,-1.0,N0,MAN
+iracundia,N,-1.0,N0,MAN
+iracundo,Adj,-1.0,N0,MAN
+irado,Adj,-1.0,N0,JALC
+irascibilidade,N,-1.0,N0,MAN
+irascivel,Adj,-1.0,N0,MAN
+ironico,Adj,-1.0,N0,JALC
+ironico,Adj,-1.0,N0,MAN
+irracional,Adj,-1.0,N0,MAN
+irracionalidade,N,-1.0,N0,MAN
+irrealismo,N,-1.0,N0,MAN
+irrealista,Adj,-1.0,N0,MAN
+irreconhecivel,Adj,0.0,N0,MAN
+irrefreavel,Adj,0.0,N0,JALC
+irrefutavel,Adj,1.0,N0,JALC
+irregular,Adj,-1.0,N0,MAN
+irregularidade,N,-1.0,N0,MAN
+irrelevante,Adj,-1.0,N0,JALC
+irreligioso,Adj,-1.0,N0,MAN
+irrepreensivel,Adj,1.0,N0,MAN
+irreprimivel,Adj,1.0,N0,MAN
+irrequieto,Adj,-1.0,N0,MAN
+irresistivel,Adj,1.0,N0,MAN
+irresoluto,Adj,-1.0,N0,JALC
+irrespeito,N,-1.0,N0,MAN
+irrespeitoso,Adj,-1.0,N0,MAN
+irresponsabilidade,N,-1.0,N0,MAN
+irresponsavel,Adj,-1.0,N0,MAN
+irreverencia,N,-1.0,N0,MAN
+irreverencioso,Adj,-1.0,N0,MAN
+irreverente,Adj,-1.0,N0,MAN
+irridente,Adj,-1.0,N0,MAN
+irrisorio,Adj,-1.0,N0,JALC
+irritabilidade,N,-1.0,N0,MAN
+irritacao,N,-1.0,N0,MAN
+irritadico,Adj,-1.0,N0,MAN
+irritado,Adj,-1.0,N0,MAN
+irritante,Adj,-1.0,N0,MAN
+irritar-se,V,-1.0,N0,MAN
+irritar,V,0.0,N0:N1,MAN
+irritativo,Adj,-1.0,N0,MAN
+irritavel,Adj,-1.0,N0,MAN
+isento,Adj,1.0,N0,MAN
+isolamento,N,-1.0,N0,MAN
+jacobino,Adj,0.0,N0,MAN
+jactancia,N,-1.0,N0,MAN
+jactante,Adj,-1.0,N0,MAN
+jalofo,Adj,-1.0,N0,MAN
+janota,Adj,0.0,N0,MAN
+javardice,N,-1.0,N0,MAN
+javardo,Adj,-1.0,N0,MAN
+jeitoso,Adj,1.0,N0,MAN
+jeremias,Adj,-1.0,N0,MAN
+jocosidade,N,-1.0,N0,MAN
+jocoso,Adj,0.0,N0,MAN
+jogar ao faz de conta,IDIOM,-1.0,N0,MAN
+jovem,Adj,0.0,N0,MAN
+jovial,Adj,1.0,N0,MAN
+jovialidade,N,1.0,N0,MAN
+jubilado,Adj,1.0,N0,JALC
+jubiloso,Adj,1.0,N0,MAN
+judicativo,Adj,-1.0,N0,MAN
+judicioso,Adj,0.0,N0,MAN
+juizo,N,1.0,N0,MAN
+juntar o util ao agradavel,IDIOM,1.0,N0,MAN
+jururu,Adj,-1.0,N0,JALC
+justica,N,1.0,N0,MAN
+justiceiro,Adj,1.0,N0,MAN
+justificativo,Adj,0.0,N0,JALC
+justificavel,Adj,1.0,N0,JALC
+justo,Adj,1.0,N0,MAN
+kafkiano,Adj,-1.0,N0,MAN
+labia,N,-1.0,N0,MAN
+laborioso,Adj,0.0,N0,MAN
+labrego,Adj,-1.0,N0,MAN
+labreguice,N,-1.0,N0,MAN
+labroste,Adj,-1.0,N0,MAN
+labutador,Adj,1.0,N0,MAN
+laconico,Adj,-1.0,N0,MAN
+laconio,Adj,-1.0,N0,MAN
+lacrimoso,Adj,-1.0,N0,MAN
+ladino,Adj,-1.0,N0,MAN
+ladro,Adj,-1.0,N0,MAN
+ladroagem,N,-1.0,N0,MAN
+laical,Adj,-1.0,N0,MAN
+laico,Adj,-1.0,N0,MAN
+lambao,Adj,-1.0,N0,MAN
+lambareiro,Adj,-1.0,N0,JALC
+lambeiro,Adj,-1.0,N0,MAN
+lamber as botas a,IDIOM,-1.0,N0:N1,MAN
+lambuzado,Adj,-1.0,N0,JALC
+lamecha,Adj,-1.0,N0,MAN
+lamechar,V,-1.0,N0,MAN
+lamechice,N,-1.0,N0,MAN
+lamentacao,N,-1.0,N0,MAN
+lamentar-se,V,-1.0,N0:N1,MAN
+lamentavel,Adj,-1.0,N0,MAN
+lamentoso,Adj,-1.0,N0,MAN
+lampeiro,Adj,-1.0,N0,MAN
+lamuria,N,-1.0,N0,MAN
+lamuriante,Adj,-1.0,N0,MAN
+lamuriar-se,V,-1.0,N0:N1,MAN
+lamuriento,Adj,-1.0,N0,MAN
+lamurioso,Adj,-1.0,N0,MAN
+lancinante,Adj,-1.0,N0,JALC
+langoroso,Adj,-1.0,N0,MAN
+languescente,Adj,-1.0,N0,MAN
+languido,Adj,-1.0,N0,MAN
+laparoto,Adj,-1.0,N0,MAN
+lapidado,Adj,0.0,N0,JALC
+lapuz,Adj,-1.0,N0,MAN
+lascivo,Adj,0.0,N0,MAN
+lastima,N,-1.0,N0,MAN
+lastimar-se,V,-1.0,N0:N1,MAN
+lastimavel,Adj,-1.0,N0,JALC
+lastimoso,Adj,-1.0,N0,MAN
+lata,N,-1.0,N0,MAN
+latente,Adj,-1.0,N0,JALC
+laudativo,Adj,1.0,N0,MAN
+laudatorio,Adj,1.0,N0,MAN
+laurear a pevide,IDIOM,-1.0,N0,MAN
+lavadico,Adj,0.0,N0,MAN
+lavado,Adj,1.0,N0,JALC
+lavar roupa suja,IDIOM,-1.0,N0,MAN
+laxista,Adj,-1.0,N0,MAN
+lazarento,Adj,-1.0,N0,MAN
+lazudo,Adj,-1.0,N0,MAN
+leal,Adj,1.0,N0,MAN
+lealdade,N,1.0,N0,MAN
+ledo,Adj,1.0,N0,MAN
+legal,Adj,1.0,N0,JALC
+legitimo,Adj,1.0,N0,JALC
+leigo,Adj,-1.0,N0,MAN
+lelo,Adj,-1.0,N0,MAN
+lendario,Adj,1.0,N0,MAN
+lenitivo,Adj,1.0,N0,JALC
+lentidao,N,-1.0,N0,MAN
+lento,Adj,-1.0,N0,MAN
+lepido,Adj,0.0,N0,MAN
+leproso,Adj,-1.0,N0,JALC
+lerdice,N,-1.0,N0,MAN
+lerdo,Adj,-1.0,N0,MAN
+lesado,Adj,-1.0,N0,JALC
+lesionado,Adj,-1.0,N0,MAN
+lesivo,Adj,-1.0,N0,JALC
+leso,Adj,-1.0,N0,JALC
+lesto,Adj,1.0,N0,MAN
+letal,Adj,-1.0,N0,JALC
+letargia,N,-1.0,N0,MAN
+letargico,Adj,-1.0,N0,MAN
+letrado,Adj,1.0,N0,MAN
+levado da breca,Adj,-1.0,N0,MAN
+levado das maleitas,Adj,-1.0,N0,MAN
+levado do diabo,Adj,-1.0,N0,MAN
+levantado,Adj,-1.0,N0,MAN
+levantar a cabeca,IDIOM,1.0,N0,MAN
+levar a melhor,IDIOM,1.0,N0,MAN
+levar a sua avante,IDIOM,1.0,N0,MAN
+levar com a porta na cara,IDIOM,-1.0,N0,MAN
+levar com um balde de agua fria,IDIOM,-1.0,N0,MAN
+levar na corneta,IDIOM,-1.0,N0,MAN
+levar nas orelhas de,IDIOM,-1.0,N0:N1,MAN
+levar nas orelhas,IDIOM,-1.0,N0,MAN
+levar porrada,IDIOM,-1.0,N0,MAN
+levar um baile de,IDIOM,-1.0,N0:N1,MAN
+levar um baile,IDIOM,-1.0,N0,MAN
+levar um banho de agua fria,IDIOM,-1.0,N0,MAN
+levar um pontape no cu,IDIOM,-1.0,N0,MAN
+levar um tiro,IDIOM,-1.0,N0,MAN
+levar uma abada,IDIOM,-1.0,N0,MAN
+levar uma cabazada,IDIOM,-1.0,N0,MAN
+levar uma coca,IDIOM,-1.0,N0,MAN
+levar uma malha,IDIOM,-1.0,N0,MAN
+levar uma surra,IDIOM,-1.0,N0,MAN
+levar uma tareia,IDIOM,-1.0,N0,MAN
+leve,Adj,0.0,N0,MAN
+leviandade,N,-1.0,N0,MAN
+leviano,Adj,-1.0,N0,MAN
+lhano,Adj,1.0,N0,MAN
+liberal,Adj,0.0,N0,MAN
+liberalista,Adj,0.0,N0,MAN
+liberdade,N,1.0,N0,MAN
+libertado,Adj,0.0,N0,JALC
+libertador,Adj,1.0,N0,JALC
+libertar,V,1.0,N0:N1,MAN
+libertario,Adj,-1.0,N0,JALC
+libertinagem,N,-1.0,N0,MAN
+libertino,Adj,-1.0,N0,MAN
+liberto,Adj,0.0,N0,JALC
+libidinoso,Adj,-1.0,N0,MAN
+licencioso,Adj,-1.0,N0,MAN
+licito,Adj,-1.0,N0,MAN
+lidimo,Adj,1.0,N0,JALC
+ligar a cassete,IDIOM,-1.0,N0,MAN
+ligeiro,Adj,0.0,N0,MAN
+liliputiano,Adj,-1.0,N0,MAN
+limitado,Adj,-1.0,N0,MAN
+limpar o bom nome,IDIOM,1.0,N0,MAN
+limpar o cebo a,IDIOM,0.0,N0:N1,MAN
+limpar o po a,IDIOM,0.0,N0:N1,MAN
+limpar o sarampo a,IDIOM,-1.0,N0:N1,MAN
+limpar o sebo a,IDIOM,-1.0,N0:N1,MAN
+limpido,Adj,1.0,N0,MAN
+limpo,Adj,1.0,N0,MAN
+linchar,V,0.0,N0:N1,MAN
+lindo,Adj,1.0,N0,MAN
+linear,Adj,0.0,N0,JALC
+linfatismo,N,-1.0,N0,MAN
+lingrinhas,Adj,-1.0,N0,MAN
+linguareiro,Adj,-1.0,N0,MAN
+linguarudo,Adj,-1.0,N0,MAN
+liro,Adj,0.0,N0,MAN
+liso,Adj,0.0,N0,MAN
+lisonjeador,Adj,1.0,N0,MAN
+lisonjear,V,0.0,N0:N1,MAN
+lisonjeiro,Adj,1.0,N0,MAN
+litico,Adj,1.0,N0,JALC
+livido,Adj,-1.0,N0,MAN
+livrar-se,V,0.0,N0:N1,MAN
+livre,Adj,1.0,N0,MAN
+lixado,Adj,-1.0,N0,MAN
+lixar-se,V,-1.0,N0,MAN
+lixar,V,-1.0,N0:N1,MAN
+logico,Adj,1.0,N0,MAN
+logrativo,Adj,-1.0,N0,MAN
+longanime,Adj,1.0,N0,JALC
+longanimo,Adj,1.0,N0,JALC
+loquaz,Adj,0.0,N0,MAN
+lorpa,Adj,-1.0,N0,MAN
+louco,Adj,-1.0,N0,MAN
+loucura,N,-1.0,N0,MAN
+louvaminheiro,Adj,-1.0,N0,MAN
+louvavel,Adj,1.0,N0,MAN
+lubrico,Adj,0.0,N0,MAN
+lucidez,N,1.0,N0,MAN
+lucido,Adj,1.0,N0,MAN
+ludibriado,Adj,-1.0,N0,JALC
+ludibriante,Adj,-1.0,N0,MAN
+ludibriar,V,-1.0,N0:N1,MAN
+ludibrioso,Adj,-1.0,N0,MAN
+lugar-comum,N,-1.0,N0,MAN
+lugubre,Adj,-1.0,N0,MAN
+luminosidade,N,1.0,N0,MAN
+luminoso,Adj,1.0,N0,MAN
+lunatico,Adj,-1.0,N0,MAN
+lusco,Adj,-1.0,N0,MAN
+lusofobo,Adj,-1.0,N0,MAN
+lustrado,Adj,1.0,N0,JALC
+lustroso,Adj,0.0,N0,MAN
+lutador,Adj,1.0,N0,MAN
+lutar,V,1.0,N0:N1,MAN
+luto,N,-1.0,N0,MAN
+lutuoso,Adj,-1.0,N0,MAN
+luxuoso,Adj,1.0,N0,JALC
+luxuria,N,-1.0,N0,MAN
+luxuriante,Adj,0.0,N0,MAN
+luxurioso,Adj,0.0,N0,MAN
+luzido,Adj,0.0,N0,MAN
+ma apresentacao,N,-1.0,N0,MAN
+ma cara,N,-1.0,N0,MAN
+ma disposicao,N,-1.0,N0,MAN
+ma educacao,N,-1.0,N0,MAN
+ma fama,N,-1.0,N0,MAN
+ma formacao,N,-1.0,N0,MAN
+ma fortuna,N,-1.0,N0,MAN
+ma-fe,N,-1.0,N0,MAN
+ma-governacao,N,-1.0,N0,MAN
+ma-prestacao,N,-1.0,N0,MAN
+macabro,Adj,-1.0,N0,MAN
+macaco,Adj,-1.0,N0,MAN
+macado,Adj,-1.0,N0,MAN
+macador,Adj,-1.0,N0,MAN
+macambuzice,N,-1.0,N0,MAN
+macambuzio,Adj,-1.0,N0,MAN
+macanjo,Adj,-1.0,N0,MAN
+macareno,Adj,-1.0,N0,MAN
+macavenco,Adj,-1.0,N0,MAN
+machismo,N,-1.0,N0,MAN
+machista,Adj,-1.0,N0,MAN
+machucado,Adj,-1.0,N0,JALC
+macilento,Adj,-1.0,N0,MAN
+macio,Adj,0.0,N0,MAN
+macudo,Adj,-1.0,N0,MAN
+maculado,Adj,-1.0,N0,JALC
+madraco,Adj,-1.0,N0,MAN
+madrugador,Adj,0.0,N0,MAN
+maduro,Adj,1.0,N0,MAN
+mafeitoria,N,-1.0,N0,MAN
+mafia,N,-1.0,N0,MAN
+mafioso,Adj,-1.0,N0,MAN
+magalomania,N,-1.0,N0,MAN
+magano,Adj,-1.0,N0,MAN
+magistral,Adj,1.0,N0,JALC
+magnanimidade,N,1.0,N0,MAN
+magnanimo,Adj,1.0,N0,MAN
+magnificencia,N,1.0,N0,MAN
+magnificente,Adj,1.0,N0,MAN
+magnificidade,N,1.0,N0,MAN
+magnifico,Adj,1.0,N0,MAN
+mago,Adj,1.0,N0,JALC
+magoar,V,-1.0,N0:N1,MAN
+magrelo,Adj,-1.0,N0,JALC
+magricela,Adj,-1.0,N0,JALC
+maior e vacinado,Adj,0.0,N0,MAN
+majestatico,Adj,1.0,N0,MAN
+majestoso,Adj,1.0,N0,MAN
+mal-afamado,Adj,-1.0,N0,MAN
+mal-afeicoado,Adj,-1.0,N0,MAN
+mal-afortunado,Adj,-1.0,N0,MAN
+mal-agradecido,Adj,-1.0,N0,MAN
+mal-amado,Adj,-1.0,N0,MAN
+mal-cheiroso,Adj,-1.0,N0,MAN
+mal-comportado,Adj,-1.0,N0,MAN
+mal-educado,Adj,-1.0,N0,MAN
+mal-encarado,Adj,-1.0,N0,MAN
+mal-feito,Adj,-1.0,N0,MAN
+mal-humorado,Adj,-1.0,N0,MAN
+mal-intencionado,Adj,-1.0,N0,MAN
+mal-pago,Adj,-1.0,N0,MAN
+mal-vestido,Adj,-1.0,N0,MAN
+malabarismo,N,-1.0,N0,MAN
+malabarista,Adj,-1.0,N0,MAN
+malandreco,Adj,-1.0,N0,MAN
+malandro,Adj,-1.0,N0,MAN
+malcheiroso,Adj,-1.0,N0,MAN
+malcriado,Adj,-1.0,N0,MAN
+maldade,N,-1.0,N0,MAN
+maldicao,N,-1.0,N0,MAN
+maldisposto,Adj,-1.0,N0,MAN
+maldito,Adj,-1.0,N0,MAN
+maldizente,Adj,-1.0,N0,MAN
+maldoso,Adj,-1.0,N0,MAN
+maleavel,Adj,1.0,N0,MAN
+maledicencia,N,-1.0,N0,MAN
+maledicente,Adj,-1.0,N0,MAN
+maleducado,Adj,-1.0,N0,MAN
+malefico,Adj,-1.0,N0,MAN
+malencarado,Adj,-1.0,N0,MAN
+malevolencia,N,-1.0,N0,MAN
+malevolente,Adj,-1.0,N0,MAN
+malevolo,Adj,-1.0,N0,MAN
+malfadado,Adj,-1.0,N0,MAN
+malfazejo,Adj,-1.0,N0,MAN
+malfeito,Adj,-1.0,N0,JALC
+malfeitor,Adj,-1.0,N0,MAN
+malfeitoria,N,-1.0,N0,MAN
+malformacao,N,-1.0,N0,MAN
+malformado,Adj,-1.0,N0,MAN
+malhado,Adj,-1.0,N0,JALC
+malhar,V,1.0,N0:N1,MAN
+malicia,N,-1.0,N0,MAN
+malicioso,Adj,-1.0,N0,MAN
+maligno,Adj,-1.0,N0,JALC
+malnutricao,N,-1.0,N0,MAN
+malogrado,Adj,-1.0,N0,MAN
+malquisto,Adj,-1.0,N0,JALC
+malsao,Adj,-1.0,N0,JALC
+malsucedido,Adj,-1.0,N0,JALC
+maltrapilho,Adj,-1.0,N0,MAN
+maltratado,Adj,-1.0,N0,JALC
+maltratar,V,-1.0,N0:N1,MAN
+maluco,Adj,-1.0,N0,MAN
+maluquice,N,-1.0,N0,MAN
+malvadez,N,-1.0,N0,MAN
+malvado,Adj,-1.0,N0,MAN
+malvisto,Adj,-1.0,N0,JALC
+mamalhudo,Adj,-1.0,N0,MAN
+mamar nas tetas de,IDIOM,-1.0,N0:N1,MAN
+mamudo,Adj,-1.0,N0,MAN
+mancebo,Adj,0.0,N0,MAN
+manchado,Adj,-1.0,N0,JALC
+manchar a imagem de,IDIOM,-1.0,N0:N1,MAN
+manco,Adj,-1.0,N0,MAN
+mancomunado,Adj,-1.0,N0,JALC
+mandao,Adj,-1.0,N0,MAN
+mandar bocas a,IDIOM,0.0,N0:N1,MAN
+mandar bocas,IDIOM,-1.0,N0,MAN
+mandar calar,IDIOM,-1.0,N0,MAN
+mandriao,Adj,-1.0,N0,MAN
+maneirista,Adj,-1.0,N0,MAN
+maneiro,Adj,1.0,N0,JALC
+maneta,Adj,-1.0,N0,MAN
+manha,N,-1.0,N0,MAN
+manhoso,Adj,-1.0,N0,MAN
+mania,N,-1.0,N0,MAN
+maniaco-depressivo,Adj,-1.0,N0,MAN
+maniaco,Adj,-1.0,N0,MAN
+manietado,Adj,-1.0,N0,JALC
+manipulacao,N,-1.0,N0,MAN
+manipulado,Adj,-1.0,N0,JALC
+manipulador,Adj,-1.0,N0,MAN
+manipular,V,-1.0,N0:N1,MAN
+manipulavel,Adj,-1.0,N0,MAN
+manobrado,Adj,-1.0,N0,JALC
+manobrar,V,-1.0,N0:N1,MAN
+manso,Adj,0.0,N0,MAN
+manteigueiro,Adj,-1.0,N0,MAN
+maquiavelico,Adj,-1.0,N0,MAN
+maquiavelismo,N,-1.0,N0,MAN
+maquiavelista,Adj,-1.0,N0,MAN
+maquinado,Adj,-1.0,N0,JALC
+maquinal,Adj,0.0,N0,MAN
+marau,Adj,-1.0,N0,MAN
+maravilha,N,1.0,N0,MAN
+maravilhoso,Adj,1.0,N0,MAN
+marcar pontos,IDIOM,1.0,N0,MAN
+marginal,Adj,-1.0,N0,MAN
+marginalidade,N,-1.0,N0,MAN
+marginalizado,Adj,-1.0,N0,JALC
+marginalizar,V,-1.0,N0:N1,MAN
+marialva,Adj,-1.0,N0,MAN
+maricao,Adj,-1.0,N0,MAN
+maricas,Adj,-1.0,N0,MAN
+mariola,Adj,-1.0,N0,MAN
+marioneta,Adj,-1.0,N0,MAN
+mariquice,N,-1.0,N0,MAN
+mariquinhas,Adj,-1.0,N0,MAN
+marmanjo,Adj,-1.0,N0,MAN
+maroto,Adj,-1.0,N0,MAN
+marralheiro,Adj,-1.0,N0,MAN
+marrano,Adj,-1.0,N0,MAN
+marrao,Adj,-1.0,N0,MAN
+marreco,Adj,-1.0,N0,MAN
+martirizar,V,1.0,N0:N1,MAN
+mas intencoes,N,-1.0,N0,MAN
+mascarado,Adj,-1.0,N0,JALC
+masculo,Adj,1.0,N0,MAN
+masochista,Adj,-1.0,N0,MAN
+masoquismo,N,-1.0,N0,MAN
+masoquista,Adj,-1.0,N0,MAN
+massacrar,V,1.0,N0:N1,MAN
+massacre,N,-1.0,N0,MAN
+massudo,Adj,-1.0,N0,MAN
+mastodontico,Adj,0.0,N0,MAN
+matador,Adj,-1.0,N0,JALC
+matar dois coelhos com uma cajadada,IDIOM,1.0,N0,MAN
+matar o vicio,IDIOM,-1.0,N0,MAN
+materialismo,N,-1.0,N0,MAN
+materialista,Adj,-1.0,N0,MAN
+maternal,Adj,1.0,N0,MAN
+matias,Adj,-1.0,N0,MAN
+matraquear,V,-1.0,N0,MAN
+matreiro,Adj,-1.0,N0,MAN
+maturidade,N,1.0,N0,MAN
+matuto,Adj,-1.0,N0,MAN
+mau agouro,N,-1.0,N0,MAN
+mau agrado,N,-1.0,N0,MAN
+mau aluno,Adj,-1.0,N0,MAN
+mau cheiro,N,-1.0,N0,MAN
+mau comportamento,N,-1.0,N0,MAN
+mau desempenho,N,-1.0,N0,MAN
+mau exemplo,N,-1.0,N0,MAN
+mau feitio,N,-1.0,N0,MAN
+mau genio,N,-1.0,N0,MAN
+mau humor,N,-1.0,N0,MAN
+mau pagador,Adj,-1.0,N0,MAN
+mau,Adj,-1.0,N0,MAN
+maus habitos,N,-1.0,N0,MAN
+mavioso,Adj,1.0,N0,MAN
+mavorcio,Adj,-1.0,N0,MAN
+mazombice,N,-1.0,N0,MAN
+mazombo,Adj,-1.0,N0,MAN
+mazorro,Adj,-1.0,N0,JALC
+mecanicista,Adj,0.0,N0,MAN
+medianeiro,Adj,0.0,N0,JALC
+mediano,Adj,0.0,N0,MAN
+mediatico,Adj,0.0,N0,MAN
+medio,Adj,0.0,N0,MAN
+mediocre,Adj,-1.0,N0,MAN
+mediocridade,N,-1.0,N0,MAN
+meditabundo,Adj,-1.0,N0,MAN
+meditador,Adj,0.0,N0,MAN
+meditativo,Adj,0.0,N0,MAN
+medo,N,-1.0,N0,MAN
+medonho,Adj,-1.0,N0,MAN
+medrado,Adj,1.0,N0,MAN
+medricas,Adj,-1.0,N0,MAN
+medroso,Adj,-1.0,N0,MAN
+mefistofelico,Adj,-1.0,N0,MAN
+megalomania,N,-1.0,N0,MAN
+megalomaniaco,Adj,-1.0,N0,MAN
+megalomano,Adj,-1.0,N0,JALC
+megalomano,Adj,-1.0,N0,MAN
+meigo,Adj,1.0,N0,MAN
+meio-alterado,Adj,-1.0,N0,MAN
+meio-apalermado,Adj,-1.0,N0,MAN
+meio-doido,Adj,-1.0,N0,MAN
+meio-morto,Adj,-1.0,N0,MAN
+melado,Adj,-1.0,N0,MAN
+melancolico,Adj,-1.0,N0,MAN
+melhor,Adj,0.0,N0,JALC
+melifluo,Adj,1.0,N0,MAN
+melindrado,Adj,-1.0,N0,JALC
+melindrar-se,V,-1.0,N0,MAN
+melindrar,V,-1.0,N0:N1,MAN
+melindroso,Adj,-1.0,N0,MAN
+melodico,Adj,1.0,N0,MAN
+melodioso,Adj,1.0,N0,MAN
+melodramatico,Adj,-1.0,N0,MAN
+melomano,Adj,-1.0,N0,MAN
+meloso,Adj,0.0,N0,MAN
+memoravel,Adj,1.0,N0,JALC
+memorioso,Adj,1.0,N0,MAN
+mendacidade,N,-1.0,N0,MAN
+mendaz,Adj,-1.0,N0,MAN
+mendicante,Adj,-1.0,N0,MAN
+menineiro,Adj,0.0,N0,MAN
+menosprezante,Adj,-1.0,N0,MAN
+menosprezar,V,-1.0,N0:N1,MAN
+menosprezavel,Adj,-1.0,N0,MAN
+menosprezo,N,-1.0,N0,MAN
+mental,Adj,0.0,N0,JALC
+mentecapto,Adj,-1.0,N0,MAN
+mentir,V,-1.0,N0:N1,MAN
+mentira,N,-1.0,N0,MAN
+mentiroso compulsivo,Adj,-1.0,N0,MAN
+mentiroso inveterado,Adj,-1.0,N0,MAN
+mentiroso,Adj,-1.0,N0,MAN
+mercantil,Adj,-1.0,N0,MAN
+mercantilista,Adj,-1.0,N0,MAN
+mercenario,Adj,-1.0,N0,MAN
+merda,N,-1.0,N0,MAN
+merdoso,Adj,-1.0,N0,MAN
+merecedor,Adj,1.0,N0,JALC
+merecer o que tem,IDIOM,-1.0,N0,MAN
+merencorio,Adj,-1.0,N0,MAN
+mergulhado,Adj,-1.0,N0,JALC
+merito,N,-1.0,N0,MAN
+meritorio,Adj,1.0,N0,JALC
+mesquinhez,N,-1.0,N0,MAN
+mesquinho,Adj,-1.0,N0,MAN
+mesurado,Adj,1.0,N0,MAN
+metafisico,Adj,-1.0,N0,JALC
+metaforico,Adj,0.0,N0,JALC
+metedico,Adj,-1.0,N0,MAN
+meter a carroca a frente dos bois,IDIOM,-1.0,N0,MAN
+meter a foice em seara alheia,IDIOM,-1.0,N0,MAN
+meter a pata na poca,IDIOM,-1.0,N0,MAN
+meter a viola no saco,IDIOM,-1.0,N0,MAN
+meter agua,IDIOM,-1.0,N0,MAN
+meter dentro de um pucaro,IDIOM,1.0,N0:N1,MAN
+meter maos a obra,IDIOM,1.0,N0,MAN
+meter medo,IDIOM,-1.0,N0,MAN
+meter num bolso,IDIOM,1.0,N0:N1,MAN
+meter num chinelo,IDIOM,1.0,N0:N1,MAN
+meter o carro a frente dos bois,IDIOM,-1.0,N0,MAN
+meter o nariz onde nao e chamado,IDIOM,-1.0,N0,MAN
+meter o pe na argola,IDIOM,-1.0,N0,MAN
+meter o pe na poca,IDIOM,-1.0,N0,MAN
+meter o rabinho entre as pernas,IDIOM,-1.0,N0,MAN
+meter o rabo entre as pernas,IDIOM,-1.0,N0,MAN
+meter os cornos a,IDIOM,-1.0,N0:N1,MAN
+meter os dedos pelos olhos de,IDIOM,-1.0,N0:N1,MAN
+meter os dedos pelos olhos dentro,IDIOM,-1.0,N0,MAN
+meter os patins a,IDIOM,-1.0,N0:N1,MAN
+meter os pes pelas maos,IDIOM,-1.0,N0,MAN
+meter uma cunha,IDIOM,-1.0,N0,MAN
+meter-se as cavalitas de,IDIOM,-1.0,N0:N1,MAN
+meter-se na alheta,IDIOM,-1.0,N0,MAN
+meter-se na boca do lobo,IDIOM,-1.0,N0,MAN
+meter-se numa embrulhada,IDIOM,-1.0,N0,MAN
+meter-se onde nao e chamado,IDIOM,-1.0,N0,MAN
+meticuloso,Adj,1.0,N0,MAN
+metido,Adj,-1.0,N0,JALC
+metodico,Adj,1.0,N0,MAN
+mexeriqueiro,Adj,-1.0,N0,MAN
+mexido,Adj,1.0,N0,MAN
+migalheiro,Adj,-1.0,N0,MAN
+mijao,Adj,-1.0,N0,MAN
+milagreiro,Adj,0.0,N0,MAN
+milagroso,Adj,1.0,N0,JALC
+mimado,Adj,-1.0,N0,MAN
+mimalho,Adj,-1.0,N0,MAN
+mimoso,Adj,1.0,N0,MAN
+minado,Adj,-1.0,N0,JALC
+minguado,Adj,-1.0,N0,JALC
+minimalista,Adj,0.0,N0,MAN
+minucioso,Adj,1.0,N0,MAN
+minusculo,Adj,-1.0,N0,JALC
+miope,Adj,-1.0,N0,MAN
+mirabolante,Adj,-1.0,N0,MAN
+mirolho,Adj,-1.0,N0,JALC
+mirracao,N,-1.0,N0,MAN
+mirrado,Adj,-1.0,N0,MAN
+misantropo,Adj,-1.0,N0,MAN
+miserabilismo,N,-1.0,N0,MAN
+miserabilista,Adj,-1.0,N0,MAN
+miserando,Adj,-1.0,N0,MAN
+miseravel,Adj,-1.0,N0,MAN
+misericordioso,Adj,1.0,N0,MAN
+misero,Adj,-1.0,N0,MAN
+misterioso,Adj,0.0,N0,MAN
+mistico,Adj,0.0,N0,MAN
+misturar alhos com bugalhos,IDIOM,-1.0,N0,MAN
+mitico,Adj,1.0,N0,MAN
+mitomania,N,-1.0,N0,MAN
+mitomano,Adj,-1.0,N0,MAN
+mitrado,Adj,0.0,N0,JALC
+mocado,Adj,-1.0,N0,JALC
+mocico,Adj,1.0,N0,MAN
+moderacao,N,1.0,N0,MAN
+moderado,Adj,1.0,N0,MAN
+modernaco,Adj,1.0,N0,MAN
+modernista,Adj,0.0,N0,MAN
+moderno,Adj,1.0,N0,MAN
+modestia,N,1.0,N0,MAN
+modesto,Adj,1.0,N0,MAN
+modificado,Adj,0.0,N0,MAN
+modorrento,Adj,-1.0,N0,MAN
+modorro,Adj,-1.0,N0,MAN
+moedor,Adj,-1.0,N0,MAN
+mofino,Adj,-1.0,N0,MAN
+moido,Adj,-1.0,N0,MAN
+moinante,Adj,-1.0,N0,MAN
+moldavel,Adj,1.0,N0,JALC
+mole,Adj,-1.0,N0,MAN
+molenga,Adj,-1.0,N0,MAN
+molengao,Adj,-1.0,N0,MAN
+molenguice,N,-1.0,N0,MAN
+moleque,Adj,-1.0,N0,JALC
+molestado,Adj,-1.0,N0,JALC
+molestar,V,-1.0,N0:N1,MAN
+molieresco,Adj,-1.0,N0,MAN
+mongolismo,N,-1.0,N0,MAN
+mongoloide,Adj,-1.0,N0,MAN
+mono,Adj,-1.0,N0,MAN
+monocordico,Adj,-1.0,N0,MAN
+monomania,N,-1.0,N0,MAN
+monomaniaco,Adj,-1.0,N0,MAN
+monopolista,Adj,-1.0,N0,MAN
+monopolizado,Adj,-1.0,N0,JALC
+monopolizador,Adj,-1.0,N0,MAN
+monopolizar,V,1.0,N0:N1,MAN
+monotonia,N,-1.0,N0,MAN
+monotono,Adj,-1.0,N0,MAN
+monstruosidade,N,-1.0,N0,MAN
+monstruoso,Adj,-1.0,N0,MAN
+moquenco,Adj,-1.0,N0,MAN
+moralista,Adj,-1.0,N0,MAN
+moralizador,Adj,0.0,N0,MAN
+moralizante,Adj,0.0,N0,MAN
+morbidez,N,-1.0,N0,MAN
+morbido,Adj,-1.0,N0,MAN
+morboso,Adj,-1.0,N0,MAN
+mordacidade,N,-1.0,N0,MAN
+mordaz,Adj,-1.0,N0,MAN
+mordente,Adj,-1.0,N0,MAN
+morder a lingua,IDIOM,-1.0,N0,MAN
+morder o isco,IDIOM,-1.0,N0,MAN
+morfinomania,N,-1.0,N0,MAN
+morfinomano,Adj,-1.0,N0,MAN
+moribundo,Adj,-1.0,N0,MAN
+morigerado,Adj,1.0,N0,MAN
+morno,Adj,-1.0,N0,JALC
+moroso,Adj,-1.0,N0,JALC
+morrer de pe,IDIOM,-1.0,N0,MAN
+morrer na praia,IDIOM,-1.0,N0,MAN
+mortal,Adj,0.0,N0,MAN
+morte,N,-1.0,N0,MAN
+mortico,Adj,-1.0,N0,MAN
+mortifero,Adj,-1.0,N0,JALC
+mortificado,Adj,-1.0,N0,MAN
+morto,Adj,-1.0,N0,MAN
+mostrar a verdadeira face,IDIOM,-1.0,N0,MAN
+mostrar atitude,IDIOM,1.0,N0,MAN
+mostrar dificuldades,IDIOM,-1.0,N0,MAN
+motivacao,N,1.0,N0,MAN
+motivado,Adj,1.0,N0,MAN
+motivador,Adj,1.0,N0,MAN
+motivante,Adj,0.0,N0,JALC
+mouqueira,N,-1.0,N0,MAN
+mouquice,N,-1.0,N0,MAN
+mudado,Adj,0.0,N0,MAN
+mudar as regras a meio do jogo,IDIOM,-1.0,N0,MAN
+mudar de ideias como quem muda de camisa,IDIOM,-1.0,N0,MAN
+mudez,N,-1.0,N0,MAN
+mudo,Adj,-1.0,N0,MAN
+mula,Adj,-1.0,N0,MAN
+mulato,Adj,0.0,N0,MAN
+mulherengo,Adj,-1.0,N0,MAN
+multifacetado,Adj,0.0,N0,MAN
+mundano,Adj,-1.0,N0,MAN
+munido,Adj,0.0,N0,JALC
+munificente,Adj,1.0,N0,MAN
+murcho,Adj,-1.0,N0,MAN
+murmurante,Adj,-1.0,N0,MAN
+musculado,Adj,1.0,N0,MAN
+musculoso,Adj,1.0,N0,MAN
+mutilado,Adj,-1.0,N0,JALC
+mutilar,V,1.0,N0:N1,MAN
+nabice,N,-1.0,N0,MAN
+nabo,Adj,-1.0,N0,MAN
+namoradeiro,Adj,0.0,N0,MAN
+namoradico,Adj,0.0,N0,MAN
+namorador,Adj,0.0,N0,MAN
+nanico,Adj,-1.0,N0,MAN
+nao acertar uma,IDIOM,-1.0,N0,MAN
+nao chegar aos calcanhares de,IDIOM,-1.0,N0:N1,MAN
+nao chegar aos pes de,IDIOM,-1.0,N0:N1,MAN
+nao chegar as solas dos sapatos de,IDIOM,-1.0,N0:N1,MAN
+nao dar uma para a caixa,IDIOM,-1.0,N0,MAN
+nao dizer ai nem ui,IDIOM,-1.0,N0,MAN
+nao dizer coisa com coisa,IDIOM,-1.0,N0,MAN
+nao dizer nada de jeito,IDIOM,-1.0,N0,MAN
+nao estar a altura de,IDIOM,-1.0,N0:N1,MAN
+nao estar em si,IDIOM,-1.0,N0,MAN
+nao fazer a ponta de um corno,IDIOM,-1.0,N0,MAN
+nao gostar de ouvir as verdades,IDIOM,-1.0,N0,MAN
+nao interessar a ninguem,IDIOM,-1.0,N0,MAN
+nao mexer uma palha,IDIOM,-1.0,N0,MAN
+nao morrer de amores por,IDIOM,0.0,N0:N1,MAN
+nao olhar a meios para atingir os fins,IDIOM,-1.0,N0,MAN
+nao olhar a meios,IDIOM,-1.0,N0,MAN
+nao perceber patavina,IDIOM,-1.0,N0,MAN
+nao saber o que dizer,IDIOM,-1.0,N0,MAN
+nao saber o que quer,IDIOM,-1.0,N0,MAN
+nao saber onde se meteu,IDIOM,-1.0,N0,MAN
+nao saber patavina,IDIOM,-1.0,N0,MAN
+nao sair da cepa torta,IDIOM,-1.0,N0,MAN
+nao se aprender nada com,IDIOM,-1.0,N1,MAN
+nao se mexer,IDIOM,-1.0,N0,MAN
+nao se sair mal,IDIOM,1.0,N0,MAN
+nao ser carne nem peixe,IDIOM,-1.0,N0,MAN
+nao ser levado a serio,IDIOM,-1.0,N0,MAN
+nao ser peixe nem carne,IDIOM,-1.0,N0,MAN
+nao ter argumentos,IDIOM,-1.0,N0,MAN
+nao ter nada na cabeca,IDIOM,-1.0,N0,MAN
+nao ter nada nos miolos,IDIOM,-1.0,N0,MAN
+nao ter onde cair morto,IDIOM,-1.0,N0,MAN
+nao ter papas na lingua,IDIOM,1.0,N0,MAN
+nao ter pedalada,IDIOM,-1.0,N0,MAN
+nao ter razao,IDIOM,-1.0,N0,MAN
+nao ter um pingo de vergonha,IDIOM,-1.0,N0,MAN
+nao ter um tostao,IDIOM,-1.0,N0,MAN
+nao ter vergonha na cara,IDIOM,-1.0,N0,MAN
+nao ter vergonha nenhuma,IDIOM,-1.0,N0,MAN
+nao valer nada,IDIOM,-1.0,N0,MAN
+nao ver um boi a frente dos olhos,IDIOM,-1.0,N0,MAN
+nao ver um boi,IDIOM,-1.0,N0,MAN
+nao ver um palmo a frente do nariz,IDIOM,-1.0,N0,MAN
+nao virar a cara,IDIOM,1.0,N0,MAN
+narcisista,Adj,-1.0,N0,MAN
+narcotico,Adj,-1.0,N0,JALC
+narcotizado,Adj,-1.0,N0,MAN
+narigudo,Adj,-1.0,N0,MAN
+nascer com o cu virado para a lua,IDIOM,1.0,N0,MAN
+natural,Adj,1.0,N0,JALC
+nauseado,Adj,-1.0,N0,JALC
+nauseante,Adj,-1.0,N0,JALC
+nazi,Adj,-1.0,N0,MAN
+nazista,Adj,-1.0,N0,MAN
+nebuloso,Adj,-1.0,N0,JALC
+necessario,Adj,1.0,N0,JALC
+necessitado,Adj,-1.0,N0,MAN
+necrofago,Adj,-1.0,N0,MAN
+necrofilo,Adj,-1.0,N0,MAN
+nedio,Adj,-1.0,N0,JALC
+nefando,Adj,-1.0,N0,MAN
+nefasto,Adj,-1.0,N0,MAN
+nefelibata,Adj,-1.0,N0,MAN
+negaceiro,Adj,-1.0,N0,MAN
+negatividade,N,-1.0,N0,MAN
+negativo,Adj,-1.0,N0,MAN
+neglicencia,N,-1.0,N0,MAN
+negligenciar,V,-1.0,N0:N1,MAN
+negligente,Adj,-1.0,N0,MAN
+negregado,Adj,-1.0,N0,MAN
+negroide,Adj,-1.0,N0,MAN
+nervos,N,-1.0,N0,MAN
+nervosismo,N,-1.0,N0,MAN
+nervoso,Adj,-1.0,N0,MAN
+nescio,Adj,-1.0,N0,MAN
+neurastenico,Adj,-1.0,N0,MAN
+neurose,N,-1.0,N0,MAN
+neurotico,Adj,-1.0,N0,MAN
+neutral,Adj,0.0,N0,MAN
+neutro,Adj,0.0,N0,MAN
+ninheiro,Adj,-1.0,N0,MAN
+niquento,Adj,-1.0,N0,MAN
+nitido,Adj,1.0,N0,JALC
+nobre,Adj,1.0,N0,MAN
+nocivo,Adj,-1.0,N0,JALC
+nodoa,N,-1.0,N0,MAN
+nojento,Adj,-1.0,N0,MAN
+nojo,N,-1.0,N0,MAN
+nomeado,Adj,1.0,N0,JALC
+normal,Adj,1.0,N0,MAN
+norteado,Adj,1.0,N0,JALC
+nostalgico,Adj,0.0,N0,MAN
+notabilidade,N,1.0,N0,MAN
+notavel,Adj,1.0,N0,MAN
+novato,Adj,0.0,N0,MAN
+novel,Adj,0.0,N0,MAN
+noveleiro,Adj,-1.0,N0,MAN
+novidadeiro,Adj,-1.0,N0,MAN
+nu,Adj,0.0,N0,MAN
+nulo,Adj,-1.0,N0,JALC
+numero de circo,N,-1.0,N0,MAN
+nutrido,Adj,0.0,N0,MAN
+obcecacao,N,-1.0,N0,MAN
+obcecado,Adj,-1.0,N0,JALC
+obcecante,Adj,-1.0,N0,MAN
+obedecer,V,0.0,N0:N1,MAN
+obediente,Adj,0.0,N0,MAN
+obeso,Adj,-1.0,N0,JALC
+objectividade,N,1.0,N0,MAN
+objectivo,Adj,1.0,N0,MAN
+objetividade,N,1.0,N0,MAN
+objetivo,Adj,1.0,N0,MAN
+obliquo,Adj,-1.0,N0,MAN
+obreiro,Adj,0.0,N0,JALC
+obrigado,Adj,-1.0,N0,JALC
+obscenidade,N,-1.0,N0,MAN
+obsceno,Adj,-1.0,N0,MAN
+obscurecer,V,-1.0,N0:N1,MAN
+obscurecido,Adj,-1.0,N0,JALC
+obscuridade,N,-1.0,N0,MAN
+obscuro,Adj,-1.0,N0,MAN
+obsequiador,Adj,0.0,N0,MAN
+obsequioso,Adj,0.0,N0,MAN
+observador,Adj,1.0,N0,MAN
+observante,Adj,1.0,N0,MAN
+obsessao,N,-1.0,N0,MAN
+obsessivo,Adj,-1.0,N0,MAN
+obsoleto,Adj,-1.0,N0,JALC
+obstinado,Adj,-1.0,N0,MAN
+obstrucionista,Adj,-1.0,N0,MAN
+obstruir,V,-1.0,N0:N1,MAN
+obtusidade,N,-1.0,N0,MAN
+obtuso,Adj,-1.0,N0,MAN
+obvio,Adj,0.0,N0,JALC
+ociosidade,N,-1.0,N0,MAN
+ocioso,Adj,-1.0,N0,MAN
+oco,Adj,-1.0,N0,MAN
+ocultado,Adj,0.0,N0,JALC
+ocultar a verdade,IDIOM,-1.0,N0,MAN
+ocultar,V,-1.0,N0:N1,MAN
+ocultista,Adj,0.0,N0,MAN
+oculto,Adj,-1.0,N0,JALC
+ocupado,Adj,0.0,N0,MAN
+odiado,Adj,-1.0,N0,JALC
+odiar,V,0.0,N0:N1,MAN
+odiavel,Adj,-1.0,N0,MAN
+odiento,Adj,-1.0,N0,MAN
+odio,N,-1.0,N0,MAN
+odioso,Adj,-1.0,N0,MAN
+ofegante,Adj,-1.0,N0,MAN
+ofender,V,-1.0,N0:N1,MAN
+ofendido,Adj,-1.0,N0,JALC
+ofensa,N,-1.0,N0,MAN
+ofensivo,Adj,-1.0,N0,MAN
+oferecido,Adj,-1.0,N0,MAN
+ofuscado,Adj,-1.0,N0,JALC
+ofuscar,V,1.0,N0:N1,MAN
+oleoso,Adj,-1.0,N0,JALC
+olhar nos olhos,IDIOM,1.0,N0,MAN
+olheirento,Adj,-1.0,N0,MAN
+oligofrenia,N,-1.0,N0,MAN
+oligofrenico,Adj,-1.0,N0,MAN
+omisso,Adj,-1.0,N0,JALC
+omitido,Adj,-1.0,N0,JALC
+omitir,V,-1.0,N0:N1,MAN
+omnipotente,Adj,1.0,N0,MAN
+omnipresente,Adj,1.0,N0,MAN
+omnisciente,Adj,1.0,N0,MAN
+ondulante,Adj,-1.0,N0,JALC
+onerado,Adj,-1.0,N0,JALC
+onzeneiro,Adj,-1.0,N0,MAN
+opaco,Adj,-1.0,N0,JALC
+operante,Adj,1.0,N0,JALC
+operoso,Adj,1.0,N0,JALC
+opinante,Adj,0.0,N0,MAN
+opinativo,Adj,0.0,N0,MAN
+opiniatico,Adj,-1.0,N0,MAN
+opiomania,N,-1.0,N0,MAN
+opiomano,Adj,-1.0,N0,MAN
+opiparo,Adj,1.0,N0,JALC
+oponente,Adj,-1.0,N0,JALC
+oportunismo,N,-1.0,N0,MAN
+oportunista,Adj,-1.0,N0,MAN
+oportuno,Adj,1.0,N0,MAN
+oposicionista,Adj,0.0,N0,MAN
+opressao,N,-1.0,N0,MAN
+opressivo,Adj,-1.0,N0,MAN
+opresso,Adj,-1.0,N0,MAN
+opressor,Adj,-1.0,N0,MAN
+oprimente,Adj,-1.0,N0,MAN
+oprimido,Adj,-1.0,N0,MAN
+oprimir,V,1.0,N0:N1,MAN
+optimismo,N,1.0,N0,MAN
+optimista,Adj,1.0,N0,MAN
+optimo,Adj,1.0,N0,MAN
+opulento,Adj,-1.0,N0,MAN
+ordeiro,Adj,1.0,N0,MAN
+ordenado,Adj,1.0,N0,JALC
+ordinarice,N,-1.0,N0,MAN
+ordinario,Adj,-1.0,N0,MAN
+orelhudo,Adj,-1.0,N0,MAN
+orfao,Adj,-1.0,N0,JALC
+organizado,Adj,1.0,N0,MAN
+orgulhoso,Adj,-1.0,N0,MAN
+orientador,Adj,0.0,N0,JALC
+original,Adj,1.0,N0,MAN
+originalidade,N,1.0,N0,MAN
+ornado,Adj,0.0,N0,JALC
+ortodoxo,Adj,0.0,N0,MAN
+ossudo,Adj,-1.0,N0,MAN
+ostensao,N,-1.0,N0,MAN
+ostensivo,Adj,-1.0,N0,MAN
+ostentacao,N,-1.0,N0,MAN
+ostentativo,Adj,-1.0,N0,MAN
+ostentoso,Adj,-1.0,N0,MAN
+otimismo,N,1.0,N0,MAN
+otimista,Adj,1.0,N0,MAN
+otimo,Adj,1.0,N0,JALC
+ousado,Adj,0.0,N0,MAN
+ouvido,Adj,0.0,N0,JALC
+ouvir das boas,IDIOM,-1.0,N0,MAN
+ouvir poucas mas boas,IDIOM,-1.0,N0,MAN
+pacato,Adj,1.0,N0,MAN
+pachorrento,Adj,0.0,N0,MAN
+paciente,Adj,1.0,N0,MAN
+pacificacao,N,1.0,N0,MAN
+pacificador,Adj,1.0,N0,MAN
+pacificidade,N,1.0,N0,MAN
+pacifico,Adj,1.0,N0,MAN
+pacovice,N,-1.0,N0,MAN
+pacovio,Adj,-1.0,N0,MAN
+padecedor,Adj,-1.0,N0,MAN
+padecente,Adj,-1.0,N0,MAN
+pagao,Adj,0.0,N0,JALC
+pagar caro,IDIOM,-1.0,N0,MAN
+pagar favores a,IDIOM,-1.0,N0:N1,MAN
+pagar um favor a,IDIOM,-1.0,N0:N1,MAN
+pagodeiro,Adj,0.0,N0,MAN
+paixao,N,1.0,N0,MAN
+palaciano,Adj,0.0,N0,MAN
+paladino,Adj,0.0,N0,JALC
+palavroso,Adj,-1.0,N0,MAN
+paleio,N,-1.0,N0,MAN
+palerma,Adj,-1.0,N0,MAN
+palermice,N,-1.0,N0,MAN
+palhaco,Adj,-1.0,N0,MAN
+palidez,N,-1.0,N0,MAN
+palido,Adj,-1.0,N0,MAN
+palpitante,Adj,0.0,N0,MAN
+palrador,Adj,0.0,N0,MAN
+palreiro,Adj,0.0,N0,MAN
+panal,Adj,-1.0,N0,MAN
+panasca,Adj,-1.0,N0,MAN
+pancadaria,N,-1.0,N0,MAN
+pancudo,Adj,-1.0,N0,MAN
+pandego,Adj,0.0,N0,MAN
+panegirico,Adj,0.0,N0,JALC
+panema,Adj,-1.0,N0,JALC
+pantafacudo,Adj,-1.0,N0,MAN
+pantano,N,-1.0,N0,MAN
+pantemineiro,Adj,-1.0,N0,MAN
+papaguear,V,-1.0,N0,MAN
+papalvo,Adj,-1.0,N0,MAN
+papao,Adj,-1.0,N0,MAN
+papista,Adj,-1.0,N0,MAN
+paradigmatico,Adj,0.0,N0,MAN
+parado,Adj,-1.0,N0,MAN
+paradoxal,Adj,-1.0,N0,MAN
+paradoxo,Adj,-1.0,N0,MAN
+paralisado,Adj,-1.0,N0,JALC
+paralisar,V,1.0,N0:N1,MAN
+paralitico,Adj,-1.0,N0,JALC
+paranoia,N,-1.0,N0,MAN
+paranoico,Adj,-1.0,N0,MAN
+parasita,Adj,-1.0,N0,MAN
+parasito,Adj,-1.0,N0,MAN
+parcimonia,N,1.0,N0,MAN
+parcimonioso,Adj,1.0,N0,MAN
+parco,Adj,1.0,N0,MAN
+parido,Adj,-1.0,N0,JALC
+parolice,N,-1.0,N0,MAN
+parolo,Adj,-1.0,N0,MAN
+parracho,Adj,-1.0,N0,MAN
+parrudo,Adj,-1.0,N0,JALC
+participativo,Adj,1.0,N0,MAN
+partidarista,Adj,-1.0,N0,MAN
+partido,Adj,-1.0,N0,MAN
+partir o coracao a,IDIOM,-1.0,N0:N1,MAN
+parvalhao,Adj,-1.0,N0,MAN
+parvo,Adj,-1.0,N0,MAN
+parvoice,N,-1.0,N0,MAN
+parvonio,Adj,-1.0,N0,MAN
+pascacio,Adj,-1.0,N0,MAN
+pasmado,Adj,-1.0,N0,MAN
+paspalhao,Adj,-1.0,N0,JALC
+paspalho,Adj,-1.0,N0,MAN
+passadista,Adj,-1.0,N0,MAN
+passado,Adj,-1.0,N0,JALC
+passar a batata quente a,IDIOM,-1.0,N0:N1,MAN
+passar a frente a,IDIOM,1.0,N0:N1,MAN
+passar a historia,IDIOM,-1.0,N0,MAN
+passar a perna a,IDIOM,-1.0,N0:N1,MAN
+passar cheques em branco,IDIOM,-1.0,N0,MAN
+passar desta para melhor,IDIOM,-1.0,N0,MAN
+passar dos limites,IDIOM,-1.0,N0,MAN
+passar fome,IDIOM,-1.0,N0,MAN
+passar por dificuldades,IDIOM,-1.0,N0,MAN
+passavel,Adj,1.0,N0,JALC
+passeador,Adj,0.0,N0,MAN
+passeante,Adj,0.0,N0,MAN
+passeiro,Adj,-1.0,N0,MAN
+passivo,Adj,-1.0,N0,MAN
+pastel,Adj,1.0,N0,JALC
+pastelao,Adj,-1.0,N0,MAN
+pastrano,Adj,-1.0,N0,MAN
+pataqueiro,Adj,-1.0,N0,MAN
+patarata,Adj,-1.0,N0,MAN
+patau,Adj,-1.0,N0,MAN
+patego,Adj,-1.0,N0,MAN
+paternal,Adj,1.0,N0,MAN
+paternalista,Adj,0.0,N0,MAN
+pateta,Adj,-1.0,N0,MAN
+patetice,N,-1.0,N0,MAN
+patetico,Adj,-1.0,N0,MAN
+patibular,Adj,-1.0,N0,MAN
+patifaria,N,-1.0,N0,MAN
+patife,Adj,-1.0,N0,MAN
+patinar,V,-1.0,N0,MAN
+patola,Adj,-1.0,N0,MAN
+patriarcal,Adj,1.0,N0,JALC
+patriota,Adj,1.0,N0,MAN
+patrioteiro,Adj,-1.0,N0,MAN
+patriotico,Adj,1.0,N0,MAN
+patudo,Adj,-1.0,N0,MAN
+patusco,Adj,-1.0,N0,MAN
+pau de cabeleira,N,-1.0,N0,MAN
+pavonear-se,V,-1.0,N0,MAN
+pavor,N,-1.0,N0,MAN
+pavoroso,Adj,-1.0,N0,MAN
+pecado,N,-1.0,N0,MAN
+pecador,Adj,-1.0,N0,MAN
+pecar,V,-1.0,N0,MAN
+pechoso,Adj,-1.0,N0,MAN
+peco,Adj,-1.0,N0,MAN
+peculiar,Adj,0.0,N0,MAN
+pedante,Adj,-1.0,N0,MAN
+pedantice,N,-1.0,N0,MAN
+pedantismo,N,-1.0,N0,MAN
+pedestre,Adj,0.0,N0,JALC
+pedinte,Adj,-1.0,N0,MAN
+pedrado,Adj,-1.0,N0,MAN
+pegajoso,Adj,-1.0,N0,JALC
+peganhento,Adj,-1.0,N0,JALC
+peguilhento,Adj,-1.0,N0,MAN
+peitado,Adj,-1.0,N0,JALC
+peitudo,Adj,0.0,N0,MAN
+pelado,Adj,0.0,N0,MAN
+pelintra,Adj,-1.0,N0,MAN
+peludo,Adj,0.0,N0,MAN
+penalizado,Adj,-1.0,N0,JALC
+penalizar,V,0.0,N0:N1,MAN
+pencudo,Adj,-1.0,N0,MAN
+pendurado,Adj,-1.0,N0,JALC
+pendurar as botas,IDIOM,-1.0,N0,MAN
+peneirento,Adj,-1.0,N0,MAN
+penetra,Adj,-1.0,N0,MAN
+penetrante,Adj,1.0,N0,JALC
+penitenciar-se,V,-1.0,N0,MAN
+penitente,Adj,0.0,N0,MAN
+penoso,Adj,-1.0,N0,JALC
+pensador,Adj,0.0,N0,MAN
+pensativo,Adj,0.0,N0,MAN
+pequenez,N,-1.0,N0,MAN
+perceptivel,Adj,1.0,N0,JALC
+perceptivo,Adj,1.0,N0,JALC
+percetivel,Adj,1.0,N0,JALC
+percetivo,Adj,1.0,N0,JALC
+perdedor,Adj,-1.0,N0,MAN
+perder a cabeca,IDIOM,-1.0,N0,MAN
+perder a compostura,IDIOM,-1.0,N0,MAN
+perder a postura,IDIOM,-1.0,N0,MAN
+perder a razao,IDIOM,-1.0,N0,MAN
+perder as estribeiras,IDIOM,-1.0,N0,MAN
+perder o juizo,IDIOM,-1.0,N0,MAN
+perder o norte,IDIOM,-1.0,N0,MAN
+perder o pio,IDIOM,-1.0,N0,MAN
+perder os sentidos,IDIOM,-1.0,N0,MAN
+perder terreno,IDIOM,-1.0,N0,MAN
+perder,V,-1.0,N0:N1,MAN
+perdido,Adj,-1.0,N0,MAN
+perdoado,Adj,0.0,N0,JALC
+perdoador,Adj,0.0,N0,MAN
+perdoavel,Adj,0.0,N0,JALC
+perdulario,Adj,-1.0,N0,MAN
+perecedor,Adj,-1.0,N0,JALC
+perecivel,Adj,-1.0,N0,JALC
+peregrino,Adj,1.0,N0,JALC
+peremptorio,Adj,1.0,N0,MAN
+perentorio,Adj,1.0,N0,MAN
+perfeicao,N,1.0,N0,MAN
+perfeito,Adj,1.0,N0,MAN
+perfidia,N,-1.0,N0,MAN
+perfido,Adj,-1.0,N0,MAN
+perfumado,Adj,1.0,N0,MAN
+perguntador,Adj,0.0,N0,MAN
+perigo,N,-1.0,N0,MAN
+perigosidade,N,-1.0,N0,MAN
+perigoso,Adj,-1.0,N0,MAN
+perito,Adj,1.0,N0,JALC
+permanente,Adj,0.0,N0,JALC
+permissivo,Adj,-1.0,N0,MAN
+perneta,Adj,-1.0,N0,MAN
+pernicioso,Adj,-1.0,N0,JALC
+pernostico,Adj,-1.0,N0,MAN
+perplexo,Adj,-1.0,N0,JALC
+perro,Adj,-1.0,N0,MAN
+perscrutador,Adj,0.0,N0,JALC
+perseguir,V,-1.0,N0:N1,MAN
+perseveranca,N,1.0,N0,MAN
+perseverante,Adj,1.0,N0,MAN
+persistente,Adj,1.0,N0,MAN
+perspicacia,N,1.0,N0,MAN
+perspicaz,Adj,1.0,N0,MAN
+perspicuidade,N,1.0,N0,MAN
+perspicuo,Adj,1.0,N0,MAN
+persuadido,Adj,-1.0,N0,JALC
+persuasivo,Adj,1.0,N0,MAN
+persuasor,Adj,0.0,N0,MAN
+persuasorio,Adj,0.0,N0,MAN
+pertinacia,N,-1.0,N0,MAN
+pertinaz,Adj,-1.0,N0,MAN
+pertinencia,N,1.0,N0,MAN
+pertinente,Adj,1.0,N0,MAN
+perturbacao,N,-1.0,N0,MAN
+perturbacoes de caracter,N,-1.0,N0,MAN
+perturbacoes de carater,N,-1.0,N0,MAN
+perturbado,Adj,-1.0,N0,MAN
+perturbador,Adj,-1.0,N0,MAN
+perturbante,Adj,-1.0,N0,MAN
+perturbar,V,1.0,N0:N1,MAN
+perversidade,N,-1.0,N0,MAN
+perverso,Adj,-1.0,N0,MAN
+pervertedor,Adj,-1.0,N0,MAN
+perverter,V,-1.0,N0:N1,MAN
+pervertidade,N,-1.0,N0,MAN
+pervertido,Adj,-1.0,N0,MAN
+pesadao,Adj,-1.0,N0,JALC
+pesaroso,Adj,-1.0,N0,MAN
+pesporrencia,N,-1.0,N0,MAN
+pesporrente,Adj,-1.0,N0,MAN
+pessimismo,N,-1.0,N0,MAN
+pessimista,Adj,-1.0,N0,MAN
+pessimo,Adj,-1.0,N0,MAN
+pestanejante,Adj,0.0,N0,MAN
+petreo,Adj,-1.0,N0,JALC
+petrificado,Adj,-1.0,N0,JALC
+petrificante,Adj,-1.0,N0,MAN
+petulancia,N,-1.0,N0,MAN
+petulante,Adj,-1.0,N0,MAN
+piada,N,-1.0,N0,MAN
+picado,Adj,-1.0,N0,JALC
+picante,Adj,-1.0,N0,JALC
+picareta falante,N,-1.0,N0,MAN
+picaro,Adj,-1.0,N0,MAN
+picuinhas,Adj,-1.0,N0,MAN
+piedoso,Adj,1.0,N0,MAN
+piegas,Adj,-1.0,N0,MAN
+pieguice,N,-1.0,N0,MAN
+pifio,Adj,-1.0,N0,MAN
+pigmeu,Adj,-1.0,N0,JALC
+pimpao,Adj,-1.0,N0,MAN
+pinderico,Adj,-1.0,N0,MAN
+pinguco,Adj,-1.0,N0,JALC
+pinoca,Adj,-1.0,N0,MAN
+pintalegrete,Adj,-1.0,N0,MAN
+piolhoso,Adj,-1.0,N0,MAN
+pior,Adj,-1.0,N0,MAN
+piorar,V,-1.0,N0,MAN
+pipi,Adj,-1.0,N0,MAN
+piracao,N,-1.0,N0,MAN
+pirado,Adj,-1.0,N0,MAN
+piranga,Adj,-1.0,N0,MAN
+pirangueiro,Adj,-1.0,N0,MAN
+pirar,V,-1.0,N0,MAN
+pirata,N,-1.0,N0,MAN
+piromania,N,-1.0,N0,MAN
+piromaniaco,Adj,-1.0,N0,MAN
+piromano,Adj,-1.0,N0,MAN
+pirosice,N,-1.0,N0,MAN
+piroso,Adj,-1.0,N0,MAN
+pisado,Adj,-1.0,N0,JALC
+pisar na bola,IDIOM,-1.0,N0,MAN
+pisar o risco,IDIOM,-1.0,N0,MAN
+pisco,Adj,-1.0,N0,MAN
+pitonico,Adj,-1.0,N0,MAN
+pitoresco,Adj,1.0,N0,JALC
+pitosga,Adj,-1.0,N0,MAN
+placido,Adj,1.0,N0,JALC
+plangencia,N,-1.0,N0,MAN
+plangente,Adj,-1.0,N0,MAN
+platonico,Adj,0.0,N0,JALC
+plausivel,Adj,1.0,N0,JALC
+plebeu,Adj,-1.0,N0,JALC
+pobre coitado,Adj,-1.0,N0,MAN
+pobre de espirito,Adj,-1.0,N0,MAN
+pobre e mal agradecido,Adj,-1.0,N0,MAN
+pobre,Adj,-1.0,N0,MAN
+pobretana,Adj,-1.0,N0,MAN
+pobretao,Adj,-1.0,N0,MAN
+pobrete,Adj,-1.0,N0,MAN
+pobreza de espirito,N,-1.0,N0,MAN
+pobreza,N,-1.0,N0,MAN
+poderoso,Adj,0.0,N0,MAN
+podre,Adj,-1.0,N0,MAN
+poetico,Adj,0.0,N0,MAN
+poleiro,N,-1.0,N0,MAN
+polemica,N,-1.0,N0,MAN
+polemico,Adj,-1.0,N0,MAN
+polemista,Adj,-1.0,N0,MAN
+poliandra,Adj,0.0,N0,MAN
+polido,Adj,0.0,N0,MAN
+politicante,Adj,-1.0,N0,MAN
+politiqueiro,Adj,-1.0,N0,MAN
+politiquice,N,-1.0,N0,MAN
+polivalente,Adj,1.0,N0,MAN
+poltrao,Adj,-1.0,N0,MAN
+poluir,V,-1.0,N0,MAN
+pomposo,Adj,0.0,N0,JALC
+ponderacao,N,1.0,N0,MAN
+ponderado,Adj,1.0,N0,MAN
+ponderoso,Adj,1.0,N0,MAN
+pontapear,V,1.0,N0:N1,MAN
+ponto fraco,N,-2.0,N1,MAN
+ponto fraco,N,-3.0,N2,MAN
+pontual,Adj,1.0,N0,MAN
+pontualidade,N,1.0,N0,MAN
+pontudo,Adj,-1.0,N0,JALC
+popular,Adj,1.0,N0,MAN
+popularidade,N,1.0,N0,MAN
+populismo,N,-1.0,N0,MAN
+populista,Adj,-1.0,N0,MAN
+porcalhao,Adj,-1.0,N0,MAN
+porcaria,N,-1.0,N0,MAN
+porcino,Adj,-1.0,N0,JALC
+porco,Adj,-1.0,N0,MAN
+porfiado,Adj,-1.0,N0,MAN
+pornografia,N,-1.0,N0,MAN
+pornografico,Adj,-1.0,N0,MAN
+porreiro,Adj,1.0,N0,MAN
+portentoso,Adj,1.0,N0,JALC
+positividade,N,1.0,N0,MAN
+positivo,Adj,1.0,N0,MAN
+possante,Adj,1.0,N0,MAN
+possessao,N,-1.0,N0,MAN
+possessividade,N,-1.0,N0,MAN
+possessivo,Adj,-1.0,N0,MAN
+possesso,Adj,-1.0,N0,MAN
+possibilista,Adj,0.0,N0,MAN
+possidonio,Adj,-1.0,N0,MAN
+possuido,Adj,-1.0,N0,JALC
+postico,Adj,-1.0,N0,JALC
+potente,Adj,1.0,N0,MAN
+poupado,Adj,1.0,N0,MAN
+pragmatico,Adj,1.0,N0,MAN
+pragmatismo,N,1.0,N0,MAN
+pragmatista,Adj,0.0,N0,MAN
+pratico,Adj,1.0,N0,MAN
+prazenteiro,Adj,1.0,N0,MAN
+precariedade,N,-1.0,N0,MAN
+precatado,Adj,1.0,N0,MAN
+precavido,Adj,1.0,N0,MAN
+precioso,Adj,1.0,N0,MAN
+precipitado,Adj,-1.0,N0,MAN
+precipitar-se,V,-1.0,N0,MAN
+precisado,Adj,-1.0,N0,MAN
+precisao,N,1.0,N0,MAN
+precisar de comer farinha maizena,IDIOM,-1.0,N0,MAN
+preclaro,Adj,1.0,N0,MAN
+precoce,Adj,-1.0,N0,JALC
+preconceito,N,-1.0,N0,MAN
+preconceituoso,Adj,-1.0,N0,MAN
+predilecto,Adj,1.0,N0,JALC
+predileto,Adj,1.0,N0,JALC
+preeminente,Adj,1.0,N0,MAN
+preferido,Adj,1.0,N0,JALC
+preferir,V,0.0,N0:N1,MAN
+pregar aos peixes,IDIOM,-1.0,N0,MAN
+preguica,N,-1.0,N0,MAN
+preguicoso,Adj,-1.0,N0,MAN
+prejudicado,Adj,-1.0,N0,JALC
+prejudicar,V,-1.0,N0:N1,MAN
+prejudicial,Adj,-1.0,N0,JALC
+premeditado,Adj,-1.0,N0,JALC
+premiado,Adj,1.0,N0,JALC
+premido,Adj,0.0,N0,JALC
+prendado,Adj,1.0,N0,MAN
+preocupado,Adj,-1.0,N0,JALC
+preparado,Adj,1.0,N0,JALC
+prepotencia,N,-1.0,N0,MAN
+prepotente,Adj,-1.0,N0,MAN
+presbiope,Adj,-1.0,N0,MAN
+presbiopia,N,-1.0,N0,MAN
+presbitismo,N,-1.0,N0,MAN
+presciente,Adj,1.0,N0,MAN
+presente,Adj,1.0,N0,JALC
+preservado,Adj,1.0,N0,JALC
+presidiario,Adj,-1.0,N0,JALC
+preso,Adj,-1.0,N0,JALC
+pressuroso,Adj,0.0,N0,MAN
+prestabilidade,N,1.0,N0,MAN
+prestante,Adj,1.0,N0,MAN
+prestativo,Adj,1.0,N0,MAN
+prestavel,Adj,1.0,N0,MAN
+prestigiado,Adj,1.0,N0,MAN
+prestigiante,Adj,1.0,N0,MAN
+prestigio,N,1.0,N0,MAN
+prestigioso,Adj,1.0,N0,MAN
+prestimoso,Adj,1.0,N0,MAN
+presto,Adj,1.0,N0,JALC
+presumido,Adj,-1.0,N0,MAN
+presumivel,Adj,-1.0,N0,JALC
+presuncao,N,-1.0,N0,MAN
+presuncoso,Adj,-1.0,N0,MAN
+pretensiosismo,N,-1.0,N0,MAN
+pretensioso,Adj,-1.0,N0,MAN
+pretenso,Adj,-1.0,N0,JALC
+prevenido,Adj,1.0,N0,MAN
+previdente,Adj,1.0,N0,MAN
+prezado,Adj,1.0,N0,JALC
+prezavel,Adj,1.0,N0,MAN
+primitivo,Adj,-1.0,N0,MAN
+primoroso,Adj,1.0,N0,JALC
+prisao,N,-1.0,N0,MAN
+prisioneiro,Adj,-1.0,N0,JALC
+privilegiado,Adj,0.0,N0,MAN
+problema,N,-1.0,N0,MAN
+problematico,Adj,-1.0,N0,MAN
+probo,Adj,1.0,N0,MAN
+processado,Adj,-1.0,N0,JALC
+prodigioso,Adj,1.0,N0,MAN
+produtividade,N,1.0,N0,MAN
+produtivo,Adj,1.0,N0,MAN
+proeminente,Adj,1.0,N0,MAN
+profanador,Adj,-1.0,N0,MAN
+profano,Adj,-1.0,N0,MAN
+professo,Adj,0.0,N0,MAN
+proficiente,Adj,1.0,N0,JALC
+proficuo,Adj,1.0,N0,JALC
+profissional,Adj,1.0,N0,MAN
+profissionalismo,N,1.0,N0,MAN
+profundo,Adj,0.0,N0,JALC
+profuso,Adj,-1.0,N0,MAN
+progressista,Adj,1.0,N0,MAN
+proibitivo,Adj,-1.0,N0,JALC
+prolifero,Adj,1.0,N0,JALC
+prolifico,Adj,1.0,N0,MAN
+prolixo,Adj,-1.0,N0,MAN
+prometedor,Adj,1.0,N0,JALC
+prometer mundos e fundos,IDIOM,-1.0,N0,MAN
+promiscuidade,N,-1.0,N0,MAN
+promiscuo,Adj,-1.0,N0,MAN
+promissor,Adj,1.0,N0,JALC
+promitente,Adj,1.0,N0,JALC
+pronostico,Adj,-1.0,N0,MAN
+propenso,Adj,0.0,N0,JALC
+propicio,Adj,1.0,N0,JALC
+proporcional,Adj,1.0,N0,JALC
+prosaico,Adj,-1.0,N0,MAN
+proscrito,Adj,-1.0,N0,JALC
+prosista,Adj,-1.0,N0,JALC
+prosperar,V,1.0,N0,MAN
+prosperidade,N,1.0,N0,MAN
+prospero,Adj,1.0,N0,MAN
+prostituido,Adj,-1.0,N0,JALC
+prostituir-se,V,-1.0,N0,MAN
+prostituto,Adj,-1.0,N0,JALC
+prostrado,Adj,-1.0,N0,JALC
+protector,Adj,1.0,N0,MAN
+protervo,Adj,-1.0,N0,MAN
+protestacao,N,-1.0,N0,MAN
+protestante,Adj,0.0,N0,MAN
+protestativo,Adj,0.0,N0,MAN
+protesto,N,-1.0,N0,MAN
+protetor,Adj,1.0,N0,JALC
+provecto,Adj,0.0,N0,JALC
+proveitoso,Adj,1.0,N0,JALC
+providencia,N,1.0,N0,MAN
+providencial,Adj,1.0,N0,MAN
+providente,Adj,1.0,N0,MAN
+provincianismo,N,-1.0,N0,MAN
+provinciano,Adj,-1.0,N0,MAN
+provocacao,N,-1.0,N0,MAN
+provocador,Adj,-1.0,N0,MAN
+provocante,Adj,-1.0,N0,MAN
+provocar,V,1.0,N0:N1,MAN
+provocativo,Adj,-1.0,N0,MAN
+provocatorio,Adj,-1.0,N0,MAN
+provocavel,Adj,-1.0,N0,MAN
+prudencia,N,1.0,N0,MAN
+prudente,Adj,1.0,N0,MAN
+pseudo-intelectual,Adj,-1.0,N0,MAN
+psicopata,Adj,-1.0,N0,MAN
+psicopatia,N,-1.0,N0,MAN
+psicose,N,-1.0,N0,MAN
+psicotico,Adj,-1.0,N0,MAN
+pudendo,Adj,0.0,N0,MAN
+pudibundo,Adj,0.0,N0,MAN
+pudico,Adj,0.0,N0,MAN
+pueril,Adj,-1.0,N0,MAN
+pugnaz,Adj,0.0,N0,MAN
+pujante,Adj,1.0,N0,MAN
+pulcro,Adj,1.0,N0,MAN
+pulha,Adj,-1.0,N0,MAN
+pulhice,N,-1.0,N0,MAN
+pulverizado,Adj,-1.0,N0,JALC
+pundonoroso,Adj,1.0,N0,MAN
+pungente,Adj,0.0,N0,MAN
+punido,Adj,-1.0,N0,MAN
+punir,V,1.0,N0:N1,MAN
+pureza,N,1.0,N0,MAN
+purificado,Adj,1.0,N0,JALC
+purista,Adj,0.0,N0,MAN
+puritano,Adj,-1.0,N0,MAN
+puro,Adj,1.0,N0,MAN
+purrio,Adj,-1.0,N0,MAN
+pusilanime,Adj,-1.0,N0,MAN
+puto,Adj,-1.0,N0,MAN
+putrefato,Adj,-1.0,N0,JALC
+putrido,Adj,-1.0,N0,JALC
+puxadinho,Adj,-1.0,N0,MAN
+quadrado,Adj,-1.0,N0,MAN
+quadrupede,Adj,-1.0,N0,MAN
+qualificado,Adj,1.0,N0,MAN
+quebrado,Adj,-1.0,N0,JALC
+quebrantado,Adj,-1.0,N0,MAN
+quebrantar,V,-1.0,N0,MAN
+quebrar a promessa eleitoral,IDIOM,-1.0,N0,MAN
+quebrar a promessa,IDIOM,-1.0,N0,MAN
+quebrar as regras do jogo,IDIOM,-1.0,N0,MAN
+quebrar as regras,IDIOM,-1.0,N0,MAN
+quebrar,V,-1.0,N0,MAN
+queimado,Adj,-1.0,N0,JALC
+queimar tempo,IDIOM,-1.0,N0,MAN
+queimar-se,V,-1.0,N0,MAN
+queimar,V,1.0,N0:N1,MAN
+queixinhas,Adj,-1.0,N0,MAN
+queixoso,Adj,-1.0,N0,MAN
+queixudo,Adj,-1.0,N0,MAN
+quente,Adj,0.0,N0,MAN
+queque,Adj,-1.0,N0,MAN
+querer poleiro,IDIOM,-1.0,N0,MAN
+querer tacho,IDIOM,-1.0,N0,MAN
+querido,Adj,1.0,N0,MAN
+querubinico,Adj,1.0,N0,MAN
+questionavel,Adj,-1.0,N0,JALC
+quezilento,Adj,-1.0,N0,MAN
+quezilia,N,-1.0,N0,MAN
+quieto,Adj,0.0,N0,MAN
+quisto,Adj,1.0,N0,JALC
+quixotesco,Adj,-1.0,N0,MAN
+rabelaisiano,Adj,-1.0,N0,MAN
+rabeta,Adj,-1.0,N0,MAN
+rabicho,Adj,-1.0,N0,JALC
+rabigo,Adj,0.0,N0,MAN
+rabino,Adj,-1.0,N0,MAN
+rabudo,Adj,-1.0,N0,JALC
+rabugento,Adj,-1.0,N0,MAN
+rabugice,N,-1.0,N0,MAN
+rabulista,Adj,-1.0,N0,MAN
+racional,Adj,1.0,N0,MAN
+racionalista,Adj,0.0,N0,MAN
+racista,Adj,-1.0,N0,MAN
+radiante,Adj,1.0,N0,MAN
+radical,Adj,0.0,N0,MAN
+radicalista,Adj,-1.0,N0,MAN
+radioso,Adj,1.0,N0,MAN
+raiva,N,-1.0,N0,MAN
+raivento,Adj,-1.0,N0,MAN
+raivoso,Adj,-1.0,N0,MAN
+ralado,Adj,-1.0,N0,JALC
+ralador,Adj,-1.0,N0,MAN
+ralhao,Adj,-1.0,N0,MAN
+ralhar,V,0.0,N0:N1,MAN
+ralheta,Adj,-1.0,N0,MAN
+rameloso,Adj,-1.0,N0,MAN
+rancor,N,-1.0,N0,MAN
+rancores,N,-1.0,N0,MAN
+rancoroso,Adj,-1.0,N0,MAN
+rancoso,Adj,-1.0,N0,JALC
+ranheta,Adj,-1.0,N0,JALC
+ranhosice,N,-1.0,N0,MAN
+ranhoso,Adj,-1.0,N0,MAN
+ranzinza,Adj,-1.0,N0,JALC
+rapido,Adj,1.0,N0,MAN
+rapioqueiro,Adj,-1.0,N0,MAN
+raposeiro,Adj,-1.0,N0,MAN
+raposino,Adj,-1.0,N0,MAN
+raquitico,Adj,-1.0,N0,MAN
+raquitismo,N,-1.0,N0,MAN
+raro,Adj,1.0,N0,JALC
+rasca,Adj,-1.0,N0,MAN
+rasgado,Adj,-1.0,N0,JALC
+rasteiro,Adj,-1.0,N0,MAN
+rastejante,Adj,-1.0,N0,MAN
+rato,Adj,0.0,N0,MAN
+razoavel,Adj,1.0,N0,MAN
+reaccionario,Adj,-1.0,N0,MAN
+reacionario,Adj,-1.0,N0,JALC
+reactivo,Adj,-1.0,N0,MAN
+real,Adj,1.0,N0,JALC
+realismo,N,1.0,N0,MAN
+realista,Adj,1.0,N0,MAN
+realizado,Adj,1.0,N0,JALC
+reativo,Adj,-1.0,N0,MAN
+rebaixado,Adj,-1.0,N0,JALC
+rebaixar-se,V,-1.0,N0,MAN
+rebaixar,V,1.0,N0:N1,MAN
+rebarbativo,Adj,-1.0,N0,MAN
+rebater,V,1.0,N0:N1,MAN
+rebatido,Adj,-1.0,N0,JALC
+rebelado,Adj,-1.0,N0,MAN
+rebelde,Adj,-1.0,N0,MAN
+rebuscado,Adj,-1.0,N0,MAN
+recalcado,Adj,-1.0,N0,JALC
+recalcamento,N,-1.0,N0,MAN
+recalcitrante,Adj,-1.0,N0,MAN
+recatado,Adj,1.0,N0,MAN
+receoso,Adj,-1.0,N0,JALC
+receptivel,Adj,1.0,N0,JALC
+receptividade,N,1.0,N0,MAN
+receptivo,Adj,1.0,N0,MAN
+recetivel,Adj,1.0,N0,JALC
+recetividade,N,1.0,N0,MAN
+recetivo,Adj,1.0,N0,MAN
+rechacado,Adj,-1.0,N0,JALC
+rechonchudo,Adj,-1.0,N0,MAN
+recluso,Adj,-1.0,N0,JALC
+recomendado,Adj,1.0,N0,JALC
+recomendavel,Adj,1.0,N0,JALC
+recomposto,Adj,1.0,N0,MAN
+reconciliador,Adj,1.0,N0,MAN
+reconfortado,Adj,1.0,N0,MAN
+reconstituido,Adj,1.0,N0,JALC
+recreativo,Adj,1.0,N0,MAN
+recriminador,Adj,-1.0,N0,MAN
+recriminar,V,0.0,N0:N1,MAN
+rectidao,N,1.0,N0,MAN
+rectilineo,Adj,1.0,N0,JALC
+recto,Adj,1.0,N0,MAN
+recuperado,Adj,1.0,N0,MAN
+recuperavel,Adj,1.0,N0,JALC
+recusado,Adj,-1.0,N0,JALC
+redentor,Adj,0.0,N0,MAN
+redimivel,Adj,0.0,N0,MAN
+redivivo,Adj,1.0,N0,JALC
+redondo,Adj,-1.0,N0,MAN
+reducionista,Adj,-1.0,N0,JALC
+redundancia,N,-1.0,N0,MAN
+redundante,Adj,-1.0,N0,MAN
+redutor,Adj,-1.0,N0,JALC
+reduzido,Adj,-1.0,N0,JALC
+reelegivel,Adj,1.0,N0,MAN
+reeleito,Adj,1.0,N0,MAN
+refalsado,Adj,-1.0,N0,MAN
+refeito,Adj,1.0,N0,MAN
+refilao,Adj,-1.0,N0,MAN
+refinado,Adj,0.0,N0,MAN
+reflectido,Adj,1.0,N0,JALC
+reflectivo,Adj,1.0,N0,MAN
+refletido,Adj,1.0,N0,JALC
+refletivo,Adj,1.0,N0,JALC
+reflexivo,Adj,1.0,N0,JALC
+reforcado,Adj,1.0,N0,JALC
+refractario,Adj,-1.0,N0,MAN
+refratario,Adj,-1.0,N0,MAN
+refrescado,Adj,0.0,N0,JALC
+refrescante,Adj,1.0,N0,JALC
+refugiado,Adj,-1.0,N0,JALC
+refugiar-se,V,-1.0,N0,MAN
+refulgente,Adj,1.0,N0,JALC
+refutado,Adj,-1.0,N0,JALC
+refutar,V,1.0,N0:N1,MAN
+regalado,Adj,1.0,N0,MAN
+regatao,Adj,-1.0,N0,MAN
+regateador,Adj,-1.0,N0,MAN
+regateiro,Adj,-1.0,N0,MAN
+regelado,Adj,-1.0,N0,MAN
+regenerado,Adj,1.0,N0,MAN
+regeneravel,Adj,1.0,N0,MAN
+regio,Adj,1.0,N0,JALC
+regrado,Adj,1.0,N0,MAN
+regular,Adj,1.0,N0,MAN
+reinadio,Adj,1.0,N0,MAN
+reinante,Adj,1.0,N0,MAN
+reincidente,Adj,-1.0,N0,JALC
+reivindicador,Adj,0.0,N0,MAN
+reivindicativo,Adj,0.0,N0,MAN
+rejeitado,Adj,-1.0,N0,JALC
+rejuvenescido,Adj,1.0,N0,MAN
+relamborio,Adj,-1.0,N0,MAN
+relapso,Adj,-1.0,N0,MAN
+relaxado,Adj,-1.0,N0,MAN
+reles,Adj,-1.0,N0,MAN
+relevante,Adj,1.0,N0,JALC
+religioso,Adj,0.0,N0,MAN
+remansado,Adj,0.0,N0,MAN
+remansoso,Adj,0.0,N0,MAN
+remediado,Adj,0.0,N0,MAN
+remelado,Adj,-1.0,N0,MAN
+remeloso,Adj,-1.0,N0,MAN
+remendado,Adj,-1.0,N0,JALC
+remendao,Adj,-1.0,N0,MAN
+remendeiro,Adj,-1.0,N0,MAN
+remisso,Adj,-1.0,N0,MAN
+remocado,Adj,1.0,N0,MAN
+renascer das cinzas,IDIOM,1.0,N0,MAN
+render-se,V,-1.0,N0,MAN
+renegado,Adj,-1.0,N0,MAN
+renitente,Adj,0.0,N0,JALC
+renovado,Adj,1.0,N0,MAN
+repelente,Adj,-1.0,N0,MAN
+repelido,Adj,-1.0,N0,JALC
+repelir,V,1.0,N0:N1,MAN
+repentinoso,Adj,-1.0,N0,MAN
+repetente,Adj,-1.0,N0,MAN
+repetitivo,Adj,-1.0,N0,MAN
+repimpado,Adj,0.0,N0,MAN
+replicador,Adj,-1.0,N0,MAN
+reposto,Adj,1.0,N0,MAN
+repreender,V,0.0,N0:N1,MAN
+repreensivel,Adj,-1.0,N0,MAN
+represo,Adj,-1.0,N0,JALC
+repressao,N,-1.0,N0,MAN
+repressivo,Adj,-1.0,N0,JALC
+repressor,Adj,-1.0,N0,MAN
+reprimido,Adj,-1.0,N0,MAN
+reprimir,V,1.0,N0:N1,MAN
+reprovacao,N,-1.0,N0,MAN
+reprovado,Adj,-1.0,N0,MAN
+reprovador,Adj,-1.0,N0,MAN
+reprovar,V,0.0,N0:N1,MAN
+reprovavel,Adj,-1.0,N0,JALC
+reptante,Adj,-1.0,N0,MAN
+reptil,Adj,-1.0,N0,JALC
+repudiar,V,0.0,N0:N1,MAN
+repugnancia,N,-1.0,N0,MAN
+repugnante,Adj,-1.0,N0,MAN
+repulsao,N,-1.0,N0,MAN
+repulsivo,Adj,-1.0,N0,MAN
+repulso,Adj,-1.0,N0,JALC
+reputado,Adj,1.0,N0,MAN
+requebrado,Adj,-1.0,N0,MAN
+requebro,N,-1.0,N0,MAN
+requintado,Adj,1.0,N0,MAN
+reservado,Adj,0.0,N0,MAN
+resignado,Adj,-1.0,N0,JALC
+resmungao,Adj,-1.0,N0,MAN
+resmunguice,N,-1.0,N0,MAN
+resoluto,Adj,1.0,N0,MAN
+resolvido,Adj,1.0,N0,MAN
+respeitabilidade,N,1.0,N0,MAN
+respeitado,Adj,1.0,N0,MAN
+respeitador,Adj,1.0,N0,MAN
+respeitar,V,0.0,N0:N1,MAN
+respeitavel,Adj,1.0,N0,MAN
+respeito,N,1.0,N0,MAN
+respeitoso,Adj,1.0,N0,MAN
+respingao,Adj,-1.0,N0,MAN
+respondao,Adj,-1.0,N0,MAN
+respondedor,Adj,-1.0,N0,MAN
+responsabilidade,N,1.0,N0,MAN
+responsabilizar,V,0.0,N0:N1,MAN
+responsabilizavel,Adj,0.0,N0,JALC
+responsavel,Adj,1.0,N0,MAN
+ressabiado,Adj,-1.0,N0,MAN
+ressabido,Adj,1.0,N0,MAN
+ressarcido,Adj,1.0,N0,MAN
+ressentido,Adj,-1.0,N0,JALC
+ressequido,Adj,-1.0,N0,JALC
+ressuscitado,Adj,1.0,N0,JALC
+restabelecido,Adj,1.0,N0,MAN
+restaurado,Adj,1.0,N0,JALC
+restringido,Adj,-1.0,N0,JALC
+restritivo,Adj,0.0,N0,MAN
+retardado,Adj,-1.0,N0,MAN
+reticente,Adj,-1.0,N0,JALC
+retidao,N,1.0,N0,MAN
+retido,Adj,-1.0,N0,JALC
+retilineo,Adj,1.0,N0,JALC
+reto,Adj,1.0,N0,JALC
+retorcido,Adj,-1.0,N0,MAN
+retorico,Adj,-1.0,N0,MAN
+retorto,Adj,-1.0,N0,MAN
+retracto,Adj,-1.0,N0,MAN
+retraido,Adj,-1.0,N0,MAN
+retrair-se,V,-1.0,N0,MAN
+retrete,N,-1.0,N0,MAN
+retrocesso,N,-1.0,N0,MAN
+retrogradacao,N,-1.0,N0,MAN
+retrogrado,Adj,-1.0,N0,MAN
+retrospectivo,Adj,0.0,N0,MAN
+retrospetivo,Adj,0.0,N0,MAN
+retumbante,Adj,-1.0,N0,JALC
+reu,Adj,-1.0,N0,JALC
+revel,Adj,-1.0,N0,MAN
+revelho,Adj,-1.0,N0,MAN
+reverenciado,Adj,1.0,N0,JALC
+reverenciador,Adj,0.0,N0,MAN
+reverencioso,Adj,0.0,N0,MAN
+reverente,Adj,0.0,N0,MAN
+revigorado,Adj,1.0,N0,JALC
+revoltado,Adj,-1.0,N0,MAN
+revoltante,Adj,-1.0,N0,JALC
+revoltar-se,V,0.0,N0:N1,MAN
+revoltoso,Adj,-1.0,N0,MAN
+revolucionado,Adj,-1.0,N0,JALC
+revolucionario,Adj,0.0,N0,MAN
+rezina,Adj,-1.0,N0,MAN
+rezingao,Adj,-1.0,N0,MAN
+ribaldeiro,Adj,-1.0,N0,MAN
+ribaldo,Adj,-1.0,N0,MAN
+ricaco,Adj,0.0,N0,MAN
+ricalhaco,Adj,0.0,N0,MAN
+rico,Adj,1.0,N0,MAN
+ridente,Adj,1.0,N0,MAN
+ridicularizacao,N,-1.0,N0,MAN
+ridicularizador,Adj,-1.0,N0,MAN
+ridicularizante,Adj,-1.0,N0,MAN
+ridicularizar-se,V,-1.0,N0,MAN
+ridicularizar,V,1.0,N0:N1,MAN
+ridiculez,N,-1.0,N0,MAN
+ridiculo,Adj,-1.0,N0,MAN
+ridiculo,N,-1.0,N0,MAN
+rigido,Adj,0.0,N0,MAN
+rigor,N,1.0,N0,MAN
+rigorista,Adj,-1.0,N0,MAN
+rigoroso,Adj,1.0,N0,MAN
+rijo,Adj,1.0,N0,MAN
+risivel,Adj,-1.0,N0,JALC
+risonho,Adj,1.0,N0,MAN
+rispidez,N,-1.0,N0,MAN
+rispido,Adj,-1.0,N0,MAN
+robustecido,Adj,1.0,N0,MAN
+robustez,N,1.0,N0,MAN
+robusto,Adj,1.0,N0,MAN
+rodado,Adj,-1.0,N0,JALC
+roedor,Adj,-1.0,N0,JALC
+roer-se,V,-1.0,N0,MAN
+rogativo,Adj,0.0,N0,MAN
+role,Adj,-1.0,N0,JALC
+rolico,Adj,-1.0,N0,MAN
+romanesco,Adj,0.0,N0,JALC
+romantico,Adj,0.0,N0,MAN
+rompido,Adj,-1.0,N0,JALC
+roncador,Adj,-1.0,N0,MAN
+roncante,Adj,-1.0,N0,MAN
+roncao,Adj,-1.0,N0,MAN
+ronceiro,Adj,-1.0,N0,MAN
+rosnar,V,-1.0,N0,MAN
+rotineiro,Adj,0.0,N0,MAN
+roto,Adj,-1.0,N0,MAN
+roubado,Adj,-1.0,N0,JALC
+roubar,V,-1.0,N0:N1,MAN
+rouco,Adj,-1.0,N0,JALC
+roufenho,Adj,-1.0,N0,MAN
+rouquidao,N,-1.0,N0,MAN
+rubeo,Adj,0.0,N0,JALC
+rubicundo,Adj,0.0,N0,MAN
+ruborescido,Adj,0.0,N0,MAN
+ruborizado,Adj,0.0,N0,MAN
+rubro,Adj,0.0,N0,MAN
+rude,Adj,-1.0,N0,MAN
+rudeza ,N,-1.0,N0,MAN
+rudimentar,Adj,-1.0,N0,JALC
+ruido,N,-1.0,N0,MAN
+ruidoso,Adj,-1.0,N0,MAN
+ruim,Adj,-1.0,N0,MAN
+ruindade,N,-1.0,N0,MAN
+ruinoso,Adj,-1.0,N0,MAN
+russofobo,Adj,-1.0,N0,MAN
+rustico,Adj,-1.0,N0,MAN
+sabedor,Adj,0.0,N0,MAN
+sabedoria,N,1.0,N0,MAN
+saber separar as aguas,IDIOM,1.0,N0,MAN
+sabichao,Adj,-1.0,N0,MAN
+sabido,Adj,0.0,N0,MAN
+sabio,Adj,1.0,N0,MAN
+sabotar,V,-1.0,N0:N1,MAN
+sacado,Adj,-1.0,N0,JALC
+sacana,Adj,-1.0,N0,MAN
+saciado,Adj,0.0,N0,MAN
+sacrificador,Adj,0.0,N0,MAN
+sacrificar-se,V,1.0,N0,MAN
+sacrificio,N,-1.0,N0,MAN
+sacrilegio,N,-1.0,N0,MAN
+sacrilego,Adj,-1.0,N0,MAN
+sacrista,Adj,-1.0,N0,MAN
+sacudir a agua do capote,IDIOM,-1.0,N0,MAN
+sacudir,V,1.0,N0:N1,MAN
+sadico,Adj,-1.0,N0,MAN
+sadio,Adj,1.0,N0,MAN
+sadismo,N,-1.0,N0,MAN
+sadista,Adj,-1.0,N0,MAN
+safado,Adj,-1.0,N0,MAN
+safar-se,V,1.0,N0,MAN
+safaro,Adj,-1.0,N0,MAN
+safio,Adj,-1.0,N0,MAN
+safo,Adj,0.0,N0,MAN
+sagaz,Adj,1.0,N0,MAN
+sage,Adj,1.0,N0,MAN
+sagrado,Adj,1.0,N0,JALC
+sair de cabeca erguida,IDIOM,1.0,N0,MAN
+sair de maos a abanar,IDIOM,-1.0,N0,MAN
+sair do armario,IDIOM,1.0,N0,MAN
+sair melhor do que a encomenda,IDIOM,-1.0,N0,MAN
+sair o tiro pela culatra,IDIOM,-1.0,N1,MAN
+sair-se bem,IDIOM,1.0,N0,MAN
+sair-se mal,IDIOM,-1.0,N0,MAN
+saloiice,N,-1.0,N0,MAN
+saloio,Adj,-1.0,N0,MAN
+saltao,Adj,-1.0,N0,MAN
+saltar para o poleiro,IDIOM,-1.0,N0,MAN
+saltitante,Adj,-1.0,N0,MAN
+salutar,Adj,1.0,N0,JALC
+salvar a honra do convento,IDIOM,1.0,N0,MAN
+salvar,V,1.0,N0:N1,MAN
+salvavel,Adj,0.0,N0,MAN
+salvo,Adj,1.0,N0,JALC
+sanado,Adj,1.0,N0,MAN
+sandeu,Adj,-1.0,N0,MAN
+sangrento,Adj,-1.0,N0,MAN
+sanguessuga,Adj,-1.0,N0,MAN
+sanguinario,Adj,-1.0,N0,JALC
+sanguinario,Adj,-1.0,N0,JALC
+sanguinolencia,N,-1.0,N0,MAN
+sanguinolento,Adj,-1.0,N0,MAN
+sanha,N,-1.0,N0,MAN
+sanhudo,Adj,-1.0,N0,MAN
+santificado,Adj,1.0,N0,JALC
+santo,Adj,1.0,N0,MAN
+sao,Adj,1.0,N0,MAN
+sapeca,Adj,-1.0,N0,JALC
+sapiencia,N,1.0,N0,MAN
+sapiente,Adj,1.0,N0,MAN
+sapudo,Adj,-1.0,N0,MAN
+saquear,V,-1.0,N0:N1,MAN
+sarado,Adj,1.0,N0,MAN
+sarcastico,Adj,-1.0,N0,MAN
+sardanapalesco,Adj,-1.0,N0,MAN
+sardonico,Adj,-1.0,N0,MAN
+sarna,N,-1.0,N0,MAN
+sarnento,Adj,-1.0,N0,MAN
+sarnoso,Adj,-1.0,N0,MAN
+satanico,Adj,-1.0,N0,MAN
+satanismo,N,-1.0,N0,MAN
+satirico,Adj,-1.0,N0,MAN
+satirizar,V,0.0,N0:N1,MAN
+satisfacao,N,1.0,N0,MAN
+satisfeito,Adj,1.0,N0,MAN
+saturado,Adj,-1.0,N0,JALC
+saturante,Adj,-1.0,N0,MAN
+saudavel,Adj,1.0,N0,MAN
+sebentice,N,-1.0,N0,MAN
+sebento,Adj,-1.0,N0,MAN
+seboso,Adj,-1.0,N0,MAN
+secante,Adj,-1.0,N0,MAN
+seco,Adj,-1.0,N0,MAN
+sectario,Adj,-1.0,N0,JALC
+sedentario,Adj,-1.0,N0,MAN
+sedente,Adj,-1.0,N0,MAN
+sedento,Adj,-1.0,N0,MAN
+sedicioso,Adj,-1.0,N0,MAN
+sedoso,Adj,1.0,N0,JALC
+sedutor,Adj,1.0,N0,MAN
+seduzir,V,1.0,N0:N1,MAN
+segregado,Adj,-1.0,N0,JALC
+seguir o caminho errado,IDIOM,-1.0,N0,MAN
+seguranca,N,1.0,N0,MAN
+seguro,Adj,1.0,N0,MAN
+selectivo,Adj,0.0,N0,MAN
+selecto,Adj,1.0,N0,MAN
+seletivo,Adj,0.0,N0,MAN
+seleto,Adj,1.0,N0,MAN
+selvagem,Adj,-1.0,N0,MAN
+selvajaria,N,-1.0,N0,MAN
+selvatico,Adj,-1.0,N0,MAN
+sem-caracter,Adj,-1.0,N0,MAN
+sem-carater,Adj,-1.0,N0,MAN
+sem-sabor,Adj,-1.0,N0,MAN
+sem-sal,Adj,-1.0,N0,MAN
+semibarbaro,Adj,-1.0,N0,MAN
+semicivilizado,Adj,-1.0,N0,MAN
+semiconsciente,Adj,-1.0,N0,MAN
+semidivino,Adj,1.0,N0,MAN
+semierudito,Adj,0.0,N0,MAN
+semilouco,Adj,-1.0,N0,MAN
+semimorto,Adj,-1.0,N0,MAN
+seminal,Adj,1.0,N0,JALC
+seminu,Adj,-1.0,N0,JALC
+semivivo,Adj,-1.0,N0,MAN
+senhor do seu nariz,Adj,0.0,N0,MAN
+senil,Adj,-1.0,N0,MAN
+senilidade,N,-1.0,N0,MAN
+sensaborao,Adj,-1.0,N0,MAN
+sensacional,Adj,1.0,N0,MAN
+sensacionalista,Adj,-1.0,N0,MAN
+sensatez,N,1.0,N0,MAN
+sensato,Adj,1.0,N0,MAN
+sensibilizar,V,1.0,N0:N1,MAN
+sensitivo,Adj,0.0,N0,MAN
+sensivel,Adj,1.0,N0,MAN
+sensual,Adj,1.0,N0,MAN
+sensualidade,N,1.0,N0,MAN
+sentenciado,Adj,-1.0,N0,JALC
+sentencioso,Adj,-1.0,N0,MAN
+sentimental,Adj,0.0,N0,JALC
+sentimentalista,Adj,0.0,N0,MAN
+sentir dor de corno,IDIOM,-1.0,N0,MAN
+sentir dor de cotovelo,IDIOM,-1.0,N0,MAN
+sentir-se nas nuvens,IDIOM,1.0,N0,MAN
+sequestracao,N,-1.0,N0,MAN
+sequestrar,V,-1.0,N0:N1,MAN
+sequestravel,Adj,-1.0,N0,MAN
+sequestro,N,-1.0,N0,MAN
+sequioso,Adj,-1.0,N0,MAN
+ser culpa de,IDIOM,-1.0,N1,MAN
+ser do contra,IDIOM,-1.0,N0,MAN
+ser do mesmo saco,IDIOM,-1.0,N0,MAN
+ser farinha do mesmo saco,IDIOM,-1.0,N0,MAN
+ser mau como as cobras,IDIOM,-1.0,N0,MAN
+ser melhor do que a encomenda,IDIOM,-1.0,N0,MAN
+ser um homem as direitas,IDIOM,1.0,N0,MAN
+ser um zero a esquerda,IDIOM,-1.0,N0,MAN
+ser uma bela prenda,IDIOM,-1.0,N0,MAN
+ser uma copia mal feita,IDIOM,-1.0,N1,MAN
+ser uma copia mal produzida,IDIOM,-1.0,N1,MAN
+ser vitima de si proprio,IDIOM,-1.0,N0,MAN
+serafico,Adj,0.0,N0,JALC
+serelepe,Adj,-1.0,N0,JALC
+serenidade,N,1.0,N0,MAN
+sereno,Adj,1.0,N0,MAN
+seriedade,N,1.0,N0,MAN
+serio,Adj,0.0,N0,MAN
+sertanejo,Adj,-1.0,N0,JALC
+servical,Adj,0.0,N0,MAN
+servil,Adj,-1.0,N0,MAN
+servilismo,N,-1.0,N0,MAN
+servo,Adj,-1.0,N0,JALC
+severo,Adj,-1.0,N0,MAN
+sevo,Adj,-1.0,N0,MAN
+sexy,Adj,1.0,N0,MAN
+showoff,N,-1.0,N0,MAN
+sibilino,Adj,-1.0,N0,MAN
+sifilitico,Adj,-1.0,N0,JALC
+silenciar,V,1.0,N0:N1,MAN
+silencioso,Adj,0.0,N0,MAN
+silente,Adj,0.0,N0,MAN
+simpatia,N,1.0,N0,MAN
+simpatico,Adj,1.0,N0,MAN
+simpatizante,Adj,1.0,N0,MAN
+simpatizar,V,0.0,N0:N1,MAN
+simples,Adj,0.0,N0,MAN
+simplificador,Adj,0.0,N0,MAN
+simplista,Adj,-1.0,N0,MAN
+simplorio,Adj,-1.0,N0,MAN
+simulado,Adj,-1.0,N0,MAN
+sinceridade,N,1.0,N0,MAN
+sincero,Adj,1.0,N0,MAN
+singelo,Adj,0.0,N0,MAN
+singular,Adj,0.0,N0,MAN
+sinistro,Adj,-1.0,N0,MAN
+sintetico,Adj,0.0,N0,MAN
+sinuoso,Adj,-1.0,N0,JALC
+siso,N,1.0,N0,MAN
+sistematicidade,N,1.0,N0,MAN
+sistematico,Adj,1.0,N0,MAN
+sisudo,Adj,-1.0,N0,MAN
+snob,Adj,-1.0,N0,MAN
+snobe,Adj,-1.0,N0,MAN
+snobismo,N,-1.0,N0,MAN
+soberano,Adj,0.0,N0,MAN
+soberbo,Adj,1.0,N0,MAN
+sobranceiro,Adj,0.0,N0,MAN
+sobrealimentado,Adj,-1.0,N0,MAN
+sobrecarregado,Adj,-1.0,N0,JALC
+sobredotado,Adj,1.0,N0,MAN
+sobressair,V,1.0,N0,MAN
+sobressaltado,Adj,-1.0,N0,MAN
+sobressalto,N,-1.0,N0,MAN
+sobriedade,N,1.0,N0,MAN
+sobrio,Adj,1.0,N0,MAN
+sociavel,Adj,1.0,N0,JALC
+socorrido,Adj,0.0,N0,JALC
+soez,Adj,-1.0,N0,MAN
+sofista,Adj,-1.0,N0,MAN
+sofisticacao,N,1.0,N0,MAN
+sofisticado,Adj,1.0,N0,MAN
+sofredor,Adj,-1.0,N0,MAN
+sofrego,Adj,-1.0,N0,MAN
+sofrer,V,-1.0,N0,MAN
+sofrido,Adj,-1.0,N0,MAN
+sofrimento,N,-1.0,N0,MAN
+solene,Adj,0.0,N0,MAN
+solerte,Adj,-1.0,N0,MAN
+solicito,Adj,1.0,N0,MAN
+solicitude,N,1.0,N0,MAN
+solidao,N,-1.0,N0,MAN
+solidario,Adj,1.0,N0,JALC
+solido,Adj,1.0,N0,JALC
+solitario,Adj,-1.0,N0,MAN
+soltar-se,V,1.0,N0,MAN
+solucante,Adj,-1.0,N0,MAN
+sombrio,Adj,-1.0,N0,MAN
+sonambulo,Adj,-1.0,N0,MAN
+sonante,Adj,1.0,N0,JALC
+songa-monga,Adj,-1.0,N0,MAN
+songamonga,Adj,-1.0,N0,MAN
+sonhador,Adj,0.0,N0,MAN
+sonolencia,N,-1.0,N0,MAN
+sonolento,Adj,-1.0,N0,MAN
+sonsice,N,-1.0,N0,MAN
+sonso,Adj,-1.0,N0,MAN
+sopeiro,Adj,-1.0,N0,MAN
+sordidez,N,-1.0,N0,MAN
+sordido,Adj,-1.0,N0,MAN
+sorna,Adj,-1.0,N0,JALC
+sorrateiro,Adj,-1.0,N0,MAN
+sorrelfo,Adj,-1.0,N0,MAN
+sorridente,Adj,1.0,N0,MAN
+sorriso amarelo,N,-1.0,N0,MAN
+sorumbatico,Adj,-1.0,N0,MAN
+sossegado,Adj,1.0,N0,MAN
+soturno,Adj,-1.0,N0,JALC
+sovado,Adj,-1.0,N0,JALC
+sovar,V,1.0,N0:N1,MAN
+sovina,Adj,-1.0,N0,MAN
+sovinice,N,-1.0,N0,MAN
+stress,N,-1.0,N0,MAN
+stressado,Adj,-1.0,N0,MAN
+suave,Adj,1.0,N0,MAN
+subir nas sondagens,IDIOM,1.0,N0,MAN
+subjectivo,Adj,-1.0,N0,MAN
+subjetivo,Adj,-1.0,N0,JALC
+subjugacao,N,-1.0,N0,MAN
+subjugado,Adj,-1.0,N0,JALC
+subjugador,Adj,-1.0,N0,MAN
+subjugante,Adj,-1.0,N0,MAN
+subjugar,V,0.0,N0:N1,MAN
+sublimado,Adj,1.0,N0,JALC
+sublime,Adj,1.0,N0,MAN
+sublimidade,N,1.0,N0,MAN
+submergido,Adj,-1.0,N0,JALC
+submerso,Adj,-1.0,N0,JALC
+submetido,Adj,-1.0,N0,JALC
+submissao,N,-1.0,N0,MAN
+submisso,Adj,-1.0,N0,MAN
+subordinado,Adj,-1.0,N0,JALC
+subordinador,Adj,0.0,N0,MAN
+subordinante,Adj,-1.0,N0,MAN
+subornado,Adj,-1.0,N0,JALC
+subornador,Adj,-1.0,N0,MAN
+subornar,V,-1.0,N0:N1,MAN
+subornavel,Adj,-1.0,N0,MAN
+suborno,N,-1.0,N0,MAN
+subserviencia,N,-1.0,N0,MAN
+subserviente,Adj,-1.0,N0,MAN
+subtil,Adj,0.0,N0,MAN
+subversao,N,-1.0,N0,MAN
+subversivo,Adj,-1.0,N0,MAN
+subversor,Adj,-1.0,N0,MAN
+sucesso,N,1.0,N0,MAN
+sucinto,Adj,0.0,N0,MAN
+sucumbir,V,-1.0,N0,MAN
+sudito,Adj,-1.0,N0,JALC
+sufocado,Adj,-1.0,N0,JALC
+sufocador,Adj,-1.0,N0,JALC
+sufocamento,N,-1.0,N0,MAN
+sufocante,Adj,-1.0,N0,MAN
+sufocar,V,0.0,N0:N1,MAN
+sugar,V,-1.0,N0:N1,MAN
+sugestionavel,Adj,-1.0,N0,MAN
+sugestivo,Adj,0.0,N0,JALC
+suicida,Adj,-1.0,N0,MAN
+suicidar-se,V,-1.0,N0,MAN
+suicidio,N,-1.0,N0,MAN
+suino,Adj,-1.0,N0,JALC
+sujidade,N,-1.0,N0,MAN
+sujo,Adj,-1.0,N0,MAN
+sumario,Adj,0.0,N0,MAN
+sumicao,N,-1.0,N0,MAN
+sumido,Adj,-1.0,N0,MAN
+sumptuoso,Adj,1.0,N0,MAN
+suntuoso,Adj,1.0,N0,MAN
+superar,V,1.0,N0:N1,MAN
+superconfiante,Adj,1.0,N0,MAN
+superdefensivo,Adj,-1.0,N0,MAN
+superdotado,Adj,1.0,N0,MAN
+superelegancia,N,1.0,N0,MAN
+superelegante,Adj,1.0,N0,MAN
+superexigente,Adj,0.0,N0,MAN
+superficial,Adj,-1.0,N0,MAN
+superficialidade,N,-1.0,N0,MAN
+superfluo,Adj,-1.0,N0,MAN
+superior,Adj,1.0,N0,JALC
+superlotado,Adj,-1.0,N0,JALC
+superprotector,Adj,0.0,N0,MAN
+superprotetor,Adj,0.0,N0,MAN
+supersensivel,Adj,-1.0,N0,MAN
+supersticioso,Adj,-1.0,N0,MAN
+supimpa,Adj,1.0,N0,JALC
+supino,Adj,0.0,N0,JALC
+suplantado,Adj,-1.0,N0,JALC
+suplantar,V,1.0,N0:N1,MAN
+suplicar,V,-1.0,N0:N1,MAN
+suposto,Adj,-1.0,N0,JALC
+supremo,Adj,1.0,N0,JALC
+suprimido,Adj,-1.0,N0,JALC
+surdez,N,-1.0,N0,MAN
+surdo,Adj,-1.0,N0,MAN
+surpreendente,Adj,1.0,N0,MAN
+surrado,Adj,-1.0,N0,MAN
+surreal,Adj,-1.0,N0,MAN
+surrealista,Adj,-1.0,N0,MAN
+surro,N,-1.0,N0,MAN
+susceptibilidade,N,-1.0,N0,MAN
+susceptivel,Adj,-1.0,N0,MAN
+suscetibilidade,N,-1.0,N0,MAN
+suscetivel,Adj,-1.0,N0,JALC
+suspeito,Adj,-1.0,N0,MAN
+suspicaz,Adj,-1.0,N0,MAN
+suspirante,Adj,0.0,N0,MAN
+suspiroso,Adj,0.0,N0,MAN
+sussurrante,Adj,0.0,N0,MAN
+susto,N,-1.0,N0,MAN
+sutil,Adj,0.0,N0,JALC
+tabagista,Adj,-1.0,N0,MAN
+tabloide,Adj,-1.0,N0,JALC
+tabu,N,-1.0,N0,MAN
+tacanhez,N,-1.0,N0,MAN
+tacanho,Adj,-1.0,N0,MAN
+tachado,Adj,-1.0,N0,JALC
+tacito,Adj,-1.0,N0,JALC
+taciturnidade,N,-1.0,N0,MAN
+taciturno,Adj,-1.0,N0,MAN
+taful,Adj,-1.0,N0,MAN
+tagarela,Adj,-1.0,N0,MAN
+talento,N,1.0,N0,MAN
+talentoso,Adj,1.0,N0,MAN
+tamanco,Adj,-1.0,N0,MAN
+tamaninho,Adj,-1.0,N0,MAN
+tangivel,Adj,1.0,N0,JALC
+tanso,Adj,-1.0,N0,MAN
+tapado,Adj,-1.0,N0,MAN
+tara,N,-1.0,N0,MAN
+tarado sexual,Adj,-1.0,N0,MAN
+tarado,Adj,-1.0,N0,MAN
+tarasco,Adj,-1.0,N0,MAN
+tardiloquo,Adj,-1.0,N0,MAN
+tardio,Adj,-1.0,N0,JALC
+tardo,Adj,-1.0,N0,JALC
+tareco,Adj,-1.0,N0,MAN
+tareia,N,-1.0,N0,MAN
+tarimbeiro,Adj,-1.0,N0,MAN
+tarouco,Adj,-1.0,N0,MAN
+tarouquice,N,-1.0,N0,MAN
+tartamudo,Adj,-1.0,N0,MAN
+tartufo,Adj,-1.0,N0,JALC
+tato,Adj,-1.0,N0,MAN
+teatral,Adj,-1.0,N0,MAN
+teatralidade,N,-1.0,N0,MAN
+teatralizar,V,-1.0,N0,MAN
+tedio,N,-1.0,N0,MAN
+tedioso,Adj,-1.0,N0,MAN
+teimoso,Adj,-1.0,N0,MAN
+telhudo,Adj,-1.0,N0,MAN
+temer,V,-1.0,N0:N1,MAN
+temerario,Adj,-1.0,N0,MAN
+temeroso,Adj,-1.0,N0,JALC
+temido,Adj,-1.0,N0,JALC
+temivel,Adj,-1.0,N0,MAN
+temoroso,Adj,-1.0,N0,MAN
+temperado,Adj,1.0,N0,MAN
+temperamental,Adj,-1.0,N0,MAN
+temperante,Adj,0.0,N0,MAN
+tempestivo,Adj,-1.0,N0,MAN
+tempestuoso,Adj,-1.0,N0,MAN
+temporizador,Adj,1.0,N0,MAN
+temudo,Adj,-1.0,N0,MAN
+tenaz,Adj,0.0,N0,MAN
+tendenciosidade,N,-1.0,N0,MAN
+tendencioso,Adj,-1.0,N0,MAN
+tenebrosidade,N,-1.0,N0,MAN
+tenebroso,Adj,-1.0,N0,MAN
+tenro,Adj,-1.0,N0,MAN
+tensao,N,-1.0,N0,MAN
+tenso,Adj,-1.0,N0,MAN
+tenue,Adj,0.0,N0,JALC
+teorico,Adj,0.0,N0,MAN
+ter a cabeca em agua,IDIOM,-1.0,N0,MAN
+ter a cabeca no lugar,IDIOM,1.0,N0,MAN
+ter a consciencia pesada,IDIOM,-1.0,N0,MAN
+ter a corda ao pescoco,IDIOM,-1.0,N0,MAN
+ter a faca e o queijo na mao,IDIOM,1.0,N0,MAN
+ter a lagrima ao canto do olho,IDIOM,-1.0,N0,MAN
+ter a razao do seu lado,IDIOM,1.0,N0,MAN
+ter a vida facilitada,IDIOM,1.0,N0,MAN
+ter as costas largas,IDIOM,1.0,N0,MAN
+ter as costas quentes,IDIOM,-1.0,N0,MAN
+ter as horas contadas,IDIOM,-1.0,N0,MAN
+ter boa consciencia,IDIOM,1.0,N0,MAN
+ter culpas no cartorio,IDIOM,-1.0,N0,MAN
+ter de comer farinha maizena,IDIOM,-1.0,N0,MAN
+ter dois palmos de testa,IDIOM,1.0,N0,MAN
+ter dor de corno,IDIOM,-1.0,N0,MAN
+ter dor de cotovelo,IDIOM,-1.0,N0,MAN
+ter falta de cha,IDIOM,-1.0,N0,MAN
+ter ideias,IDIOM,1.0,N0,MAN
+ter ma consciencia,IDIOM,-1.0,N0,MAN
+ter macacos na cabeca,IDIOM,-1.0,N0,MAN
+ter macacos no sotao,IDIOM,-1.0,N0,MAN
+ter macaquinhos na cabeca,IDIOM,-1.0,N0,MAN
+ter macaquinhos no sotao,IDIOM,-1.0,N0,MAN
+ter mais olhos que barriga,IDIOM,-1.0,N1,MAN
+ter mau perder,IDIOM,-1.0,N0,MAN
+ter memoria curta,IDIOM,-1.0,N0,MAN
+ter na mao,IDIOM,1.0,N0:N1,MAN
+ter o nariz empinado,IDIOM,-1.0,N0,MAN
+ter o pavio curto,IDIOM,-1.0,N0,MAN
+ter o rei na barriga,IDIOM,-1.0,N0,MAN
+ter os dias contados,IDIOM,-1.0,N0,MAN
+ter os pes assentes no chao,IDIOM,1.0,N0,MAN
+ter os pes bem assentes na terra,IDIOM,1.0,N0,MAN
+ter sentido de justica,IDIOM,-1.0,N0,MAN
+ter sentido de oportunidade,IDIOM,-1.0,N0,MAN
+ter sentido de responsabilidade,IDIOM,-1.0,N0,MAN
+ter um aperto no coracao,IDIOM,-1.0,N0,MAN
+ter uma grande cara de pau,IDIOM,-1.0,N0,MAN
+ter uma grande lata,IDIOM,-1.0,N0,MAN
+terminante,Adj,0.0,N0,MAN
+terno,Adj,1.0,N0,MAN
+ternura,N,1.0,N0,MAN
+ternurento,Adj,1.0,N0,MAN
+terraqueo,Adj,0.0,N0,JALC
+terrenho,Adj,-1.0,N0,JALC
+terreno,Adj,0.0,N0,MAN
+terrestre,Adj,0.0,N0,MAN
+terrificante,Adj,-1.0,N0,JALC
+terrifico,Adj,-1.0,N0,MAN
+terrivel,Adj,-1.0,N0,MAN
+terror,N,-1.0,N0,MAN
+terrorifico,Adj,-1.0,N0,MAN
+terrorismo,N,-1.0,N0,MAN
+terrorista,Adj,-1.0,N0,MAN
+terso,Adj,0.0,N0,MAN
+teso,Adj,-1.0,N0,MAN
+testo,Adj,1.0,N0,JALC
+testudo,Adj,-1.0,N0,MAN
+tetrico,Adj,-1.0,N0,JALC
+tetro,Adj,-1.0,N0,JALC
+tigre,Adj,-1.0,N0,MAN
+tigrino,Adj,-1.0,N0,MAN
+timido,Adj,-1.0,N0,MAN
+timorato,Adj,-1.0,N0,MAN
+tinhosice,N,-1.0,N0,MAN
+tinhoso,Adj,-1.0,N0,MAN
+tino,N,1.0,N0,MAN
+tirania,N,-1.0,N0,MAN
+tiranico,Adj,-1.0,N0,MAN
+tiranizar,V,-1.0,N0:N1,MAN
+tirano,Adj,-1.0,N0,JALC
+tirar a agua do capote,IDIOM,-1.0,N0,MAN
+tirar nabos da pucara,IDIOM,-1.0,N0,MAN
+tirar o cavalinho da chuva,IDIOM,-1.0,N0,MAN
+tirar o cavalo da chuva,IDIOM,-1.0,N0,MAN
+tirar partido da situacao,IDIOM,-1.0,N0,MAN
+tirar proveito eleitoral,IDIOM,-1.0,N0,MAN
+tiririca,Adj,-1.0,N0,JALC
+tiritante,Adj,-1.0,N0,MAN
+tisico,Adj,-1.0,N0,MAN
+tisnado,Adj,0.0,N0,JALC
+titilante,Adj,0.0,N0,MAN
+titubeante,Adj,-1.0,N0,MAN
+tocado,Adj,-1.0,N0,MAN
+tocador,Adj,-1.0,N0,JALC
+tocante,Adj,0.0,N0,JALC
+todo-poderoso,Adj,0.0,N0,MAN
+toldado,Adj,-1.0,N0,MAN
+toleirao,Adj,-1.0,N0,MAN
+tolerancia,N,1.0,N0,MAN
+tolerante,Adj,1.0,N0,MAN
+tolhido,Adj,-1.0,N0,JALC
+tolhimento,N,-1.0,N0,MAN
+tolo,Adj,-1.0,N0,MAN
+tomar conta do jogo,IDIOM,1.0,N0,MAN
+tomar partido de,IDIOM,0.0,N0:N1,MAN
+tomar um banho de agua fria,IDIOM,-1.0,N0,MAN
+tombado,Adj,-1.0,N0,JALC
+tonante,Adj,0.0,N0,JALC
+tonificado,Adj,1.0,N0,MAN
+tontice,N,-1.0,N0,MAN
+tontinho,Adj,-1.0,N0,MAN
+tonto,Adj,-1.0,N0,MAN
+tontura,N,-1.0,N0,MAN
+torcer o nariz,IDIOM,-1.0,N0,MAN
+torcer por,IDIOM,0.0,N0:N1,MAN
+torcido,Adj,-1.0,N0,MAN
+tormento,N,-1.0,N0,MAN
+tormentoso,Adj,-1.0,N0,MAN
+torpe,Adj,-1.0,N0,MAN
+torto,Adj,-1.0,N0,MAN
+tortuosidade,N,-1.0,N0,MAN
+tortuoso,Adj,-1.0,N0,MAN
+tortura,N,-1.0,N0,MAN
+torturado,Adj,-1.0,N0,JALC
+torturador,Adj,-1.0,N0,JALC
+torturante,Adj,-1.0,N0,MAN
+torturar,V,1.0,N0:N1,MAN
+torvo,Adj,-1.0,N0,MAN
+tosco,Adj,-1.0,N0,MAN
+toto,Adj,-1.0,N0,MAN
+toxico,Adj,-1.0,N0,JALC
+toxicodependencia,N,-1.0,N0,MAN
+toxicodependente,Adj,-1.0,N0,MAN
+toxicomania,N,-1.0,N0,MAN
+toxicomano,Adj,-1.0,N0,MAN
+trabalhadeira,Adj,1.0,N0,JALC
+trabalhador,Adj,1.0,N0,MAN
+traficante,Adj,-1.0,N0,MAN
+trafulha,Adj,-1.0,N0,MAN
+trafulhice,N,-1.0,N0,MAN
+tragedia,N,-1.0,N0,MAN
+tragico,Adj,-1.0,N0,MAN
+traicao,N,-1.0,N0,MAN
+traicoeiro,Adj,-1.0,N0,MAN
+traido,Adj,-1.0,N0,JALC
+traidor,Adj,-1.0,N0,MAN
+trair,V,-1.0,N0:N1,MAN
+trama,N,-1.0,N0,MAN
+tramado,Adj,-1.0,N0,MAN
+tramar,V,1.0,N0:N1,MAN
+trampa,N,-1.0,N0,MAN
+trampolineiro,Adj,-1.0,N0,MAN
+tramposo,Adj,-1.0,N0,MAN
+trangalhadancas,Adj,-1.0,N0,MAN
+tranquilidade,N,1.0,N0,MAN
+tranquilizador,Adj,1.0,N0,MAN
+tranquilizante,Adj,1.0,N0,MAN
+tranquilo,Adj,1.0,N0,JALC
+tranquilo,Adj,1.0,N0,MAN
+transfigurado,Adj,0.0,N0,MAN
+transformado,Adj,0.0,N0,MAN
+transgredir,V,-1.0,N0:N1,MAN
+transido,Adj,-1.0,N0,JALC
+transigente,Adj,-1.0,N0,MAN
+translucido,Adj,1.0,N0,JALC
+transparencia,N,1.0,N0,MAN
+transparente,Adj,1.0,N0,MAN
+transtornado,Adj,-1.0,N0,MAN
+transtornar,V,1.0,N0:N1,MAN
+transtorno,N,-1.0,N0,MAN
+transviado,Adj,-1.0,N0,MAN
+trapaceiro,Adj,-1.0,N0,MAN
+trapacento,Adj,-1.0,N0,MAN
+trapalhada,N,-1.0,N0,MAN
+trapalhao,Adj,-1.0,N0,MAN
+trapalhice,N,-1.0,N0,MAN
+traquejado,Adj,1.0,N0,JALC
+traquina,Adj,-1.0,N0,JALC
+tratado,Adj,1.0,N0,JALC
+tratante,Adj,-1.0,N0,MAN
+tratavel,Adj,1.0,N0,MAN
+trauliteiro,Adj,-1.0,N0,MAN
+trauma,N,-1.0,N0,MAN
+travesso,Adj,-1.0,N0,MAN
+travessura,N,-1.0,N0,MAN
+travestido,Adj,-1.0,N0,MAN
+trazer agua no bico,IDIOM,-1.0,N0,MAN
+trazer nas palminhas das maos,IDIOM,-1.0,N0:N1,MAN
+trazer o diabo no corpo,IDIOM,-1.0,N0,MAN
+trazer o diabo no ventre,IDIOM,-1.0,N0,MAN
+trazer o rei na barriga,IDIOM,-1.0,N0,MAN
+tremebundo,Adj,-1.0,N0,MAN
+tremelicas,Adj,-1.0,N0,MAN
+tremente,Adj,-1.0,N0,MAN
+tremer,V,-1.0,N0,MAN
+tremido,Adj,-1.0,N0,JALC
+tremulo,Adj,-1.0,N0,JALC
+tremulo,Adj,-1.0,N0,MAN
+trepador,Adj,0.0,N0,JALC
+tresloucado,Adj,-1.0,N0,MAN
+tresmalhado,Adj,-1.0,N0,MAN
+treta,N,-1.0,N0,MAN
+trevoso,Adj,-1.0,N0,JALC
+trincado,Adj,-1.0,N0,MAN
+triste,Adj,-1.0,N0,MAN
+tristeza,N,-1.0,N0,MAN
+tristonho,Adj,-1.0,N0,MAN
+triturado,Adj,-1.0,N0,JALC
+triunfador,Adj,1.0,N0,JALC
+triunfante,Adj,1.0,N0,MAN
+triunfo,N,1.0,N0,MAN
+trivial,Adj,-1.0,N0,JALC
+troca-tintas,Adj,-1.0,N0,MAN
+trocar alhos por bogalhos,IDIOM,-1.0,N0,MAN
+trocar os pes pelas maos,IDIOM,-1.0,N0,MAN
+trocar-se todo,IDIOM,-1.0,N0,MAN
+trocista,Adj,-1.0,N0,MAN
+troglodita,Adj,-1.0,N0,MAN
+troliteiro,Adj,-1.0,N0,MAN
+trombudo,Adj,-1.0,N0,MAN
+tropego,Adj,-1.0,N0,MAN
+truanesco,Adj,-1.0,N0,MAN
+trucidacao,N,-1.0,N0,MAN
+trucidado,Adj,-1.0,N0,MAN
+trucidante,Adj,-1.0,N0,MAN
+trucidar,V,1.0,N0:N1,MAN
+truculencia,N,-1.0,N0,MAN
+truculento,Adj,-1.0,N0,MAN
+truque de magia,N,-1.0,N0,MAN
+truque,N,-1.0,N0,MAN
+tumulto,N,-1.0,N0,MAN
+tumultuado,Adj,-1.0,N0,JALC
+tumultuario,Adj,-1.0,N0,MAN
+tumultuoso,Adj,-1.0,N0,MAN
+turbador,Adj,-1.0,N0,MAN
+turbulencia,N,-1.0,N0,MAN
+turbulento,Adj,-1.0,N0,MAN
+turrao,Adj,-1.0,N0,JALC
+ubiquo,Adj,1.0,N0,MAN
+ufano,Adj,0.0,N0,MAN
+ultrajado,Adj,-1.0,N0,JALC
+ultrajante,Adj,-1.0,N0,MAN
+ultrajar,V,-1.0,N0:N1,MAN
+ultraje,N,-1.0,N0,MAN
+ultrapassado,Adj,-1.0,N0,JALC
+ultrapassar,V,1.0,N0:N1,MAN
+unificador,Adj,1.0,N0,MAN
+uniforme,Adj,0.0,N0,JALC
+uniformizador,Adj,1.0,N0,MAN
+univoco,Adj,1.0,N0,JALC
+untuosidade,N,-1.0,N0,MAN
+untuoso,Adj,-1.0,N0,MAN
+urbano,Adj,0.0,N0,MAN
+urinado,Adj,-1.0,N0,MAN
+usar,V,-1.0,N0:N1,MAN
+usurario,Adj,-1.0,N0,JALC
+usurpador,Adj,-1.0,N0,MAN
+usurpar,V,-1.0,N0:N1,MAN
+util,Adj,1.0,N0,MAN
+utopia,N,-1.0,N0,MAN
+utopico,Adj,-1.0,N0,MAN
+utopista,Adj,-1.0,N0,MAN
+uxoricida,Adj,-1.0,N0,MAN
+vacilacao,N,-1.0,N0,MAN
+vacilante,Adj,0.0,N0,MAN
+vacilar,V,-1.0,N0,MAN
+vadiacao,N,-1.0,N0,MAN
+vadiagem,N,-1.0,N0,MAN
+vadio,Adj,-1.0,N0,MAN
+vagabundagem,N,-1.0,N0,MAN
+vagabundo,Adj,-1.0,N0,MAN
+vagamundo,Adj,-1.0,N0,MAN
+vagaroso,Adj,-1.0,N0,MAN
+vago,Adj,-1.0,N0,MAN
+vaguear,V,-1.0,N0,MAN
+vagueza,N,-1.0,N0,MAN
+vaiado,Adj,-1.0,N0,JALC
+vaidoso,Adj,-1.0,N0,MAN
+valentao,Adj,1.0,N0,MAN
+valente,Adj,1.0,N0,MAN
+valentia,N,1.0,N0,MAN
+valetudinario,Adj,-1.0,N0,MAN
+validade,N,1.0,N0,MAN
+valido,Adj,1.0,N0,MAN
+valioso,Adj,1.0,N0,MAN
+valorizar,V,0.0,N0:N1,MAN
+valoroso,Adj,1.0,N0,MAN
+vandalico,Adj,-1.0,N0,MAN
+vandalismo,N,-1.0,N0,MAN
+vandalo,Adj,-1.0,N0,MAN
+vangloriar-se,V,-1.0,N0,MAN
+vanguardeiro,Adj,1.0,N0,MAN
+vanguardista,Adj,1.0,N0,MAN
+vantagem,N,1.0,N0,MAN
+vantajoso,Adj,1.0,N0,JALC
+vao,Adj,-1.0,N0,MAN
+vaporoso,Adj,0.0,N0,MAN
+varado,Adj,-1.0,N0,JALC
+varonil,Adj,1.0,N0,MAN
+varrido,Adj,-1.0,N0,JALC
+vassalo,Adj,-1.0,N0,JALC
+vazio,Adj,-1.0,N0,JALC
+vedado,Adj,-1.0,N0,JALC
+veemente,Adj,0.0,N0,MAN
+velado,Adj,-1.0,N0,JALC
+velhacaria,N,-1.0,N0,MAN
+velhaco,Adj,-1.0,N0,MAN
+velho e relho,Adj,-1.0,N0,MAN
+velho,Adj,-1.0,N0,MAN
+velhote,Adj,-1.0,N0,MAN
+veloso,Adj,0.0,N0,MAN
+veloz,Adj,1.0,N0,MAN
+venal,Adj,-1.0,N0,JALC
+vencedor,Adj,1.0,N0,MAN
+vencer,V,1.0,N0:N1,MAN
+vencido,Adj,-1.0,N0,MAN
+vencivel,Adj,-1.0,N0,MAN
+vendedor,Adj,-1.0,N0,MAN
+vender banha da cobra,IDIOM,-1.0,N0,MAN
+vender gato por lebre,IDIOM,-1.0,N0,MAN
+vender-se,V,-1.0,N0,MAN
+vendido,Adj,-1.0,N0,MAN
+veneno,N,-1.0,N0,MAN
+venenoso,Adj,-1.0,N0,MAN
+venerado,Adj,1.0,N0,JALC
+venerando,Adj,1.0,N0,JALC
+venerar,V,0.0,N0:N1,MAN
+veneravel,Adj,1.0,N0,JALC
+ventrudo,Adj,-1.0,N0,MAN
+venturoso,Adj,1.0,N0,MAN
+ver a luz ao fundo do tunel,IDIOM,1.0,N0,MAN
+ver a vida a andar para tras,IDIOM,-1.0,N0,MAN
+ver a vidinha a andar para tras,IDIOM,-1.0,N0,MAN
+ver com olhos de ver,IDIOM,1.0,N0,MAN
+veracidade,N,1.0,N0,MAN
+veraz,Adj,1.0,N0,MAN
+verdade,N,1.0,N0,MAN
+verdadeiro,Adj,1.0,N0,MAN
+vergado,Adj,-1.0,N0,JALC
+vergonha,N,-1.0,N0,MAN
+vergonhoso,Adj,-1.0,N0,MAN
+veridicidade,N,1.0,N0,MAN
+veridico,Adj,1.0,N0,MAN
+vermelhusco,Adj,-1.0,N0,JALC
+verosimil,Adj,1.0,N0,MAN
+verosimilhante,Adj,1.0,N0,MAN
+verrinoso,Adj,-1.0,N0,MAN
+versado,Adj,1.0,N0,JALC
+versatil,Adj,1.0,N0,MAN
+versatilidade,N,1.0,N0,MAN
+vertical,Adj,1.0,N0,MAN
+vesgo,Adj,-1.0,N0,MAN
+vetusto,Adj,0.0,N0,MAN
+vexacao,N,-1.0,N0,MAN
+vexado,Adj,-1.0,N0,MAN
+vexar,V,1.0,N0:N1,MAN
+viajado,Adj,1.0,N0,MAN
+vibrante,Adj,0.0,N0,MAN
+viciado,Adj,-1.0,N0,JALC
+vicioso,Adj,-1.0,N0,JALC
+vicosidade,N,1.0,N0,MAN
+vicoso,Adj,1.0,N0,MAN
+videirinho,Adj,-1.0,N0,MAN
+vigarice,N,-1.0,N0,MAN
+vigarista,Adj,-1.0,N0,MAN
+vigaro,Adj,-1.0,N0,MAN
+vigiado,Adj,0.0,N0,JALC
+vigil,Adj,1.0,N0,JALC
+vigor,N,1.0,N0,MAN
+vigoroso,Adj,1.0,N0,MAN
+vil,Adj,-1.0,N0,MAN
+vilao,Adj,-1.0,N0,MAN
+vinagrento,Adj,-1.0,N0,MAN
+vindicativo,Adj,0.0,N0,MAN
+vinganca,N,-1.0,N0,MAN
+vingativo,Adj,-1.0,N0,MAN
+vinolencia,N,-1.0,N0,MAN
+vinolento,Adj,-1.0,N0,MAN
+violado,Adj,-1.0,N0,JALC
+violencia domestica,N,-1.0,N0,MAN
+violentado,Adj,-1.0,N0,JALC
+violento,Adj,-1.0,N0,JALC
+viperino,Adj,-1.0,N0,MAN
+vira-casacas,Adj,-1.0,N0,MAN
+virar a cabeca a,IDIOM,-1.0,N0:N1,MAN
+virar a casaca,IDIOM,-1.0,N0,MAN
+virar as costas a,IDIOM,-1.0,N0:N1,MAN
+virar o bico ao prego,IDIOM,-1.0,N0,MAN
+virginal,Adj,0.0,N0,JALC
+viril,Adj,1.0,N0,MAN
+virtuoso,Adj,1.0,N0,MAN
+virulento,Adj,-1.0,N0,JALC
+visceral,Adj,-1.0,N0,JALC
+viscoso,Adj,-1.0,N0,JALC
+visionario,Adj,1.0,N0,MAN
+vistoso,Adj,1.0,N0,MAN
+vitalista,Adj,0.0,N0,MAN
+vitalizador,Adj,1.0,N0,MAN
+vitima,Adj,-1.0,N0,MAN
+vitimar,V,1.0,N0:N1,MAN
+vitimizacao,N,-1.0,N0,MAN
+vitoria,N,1.0,N0,MAN
+vitorioso,Adj,1.0,N0,MAN
+vivaco,Adj,1.0,N0,MAN
+vivaz,Adj,1.0,N0,MAN
+vivedor,Adj,1.0,N0,MAN
+vivido,Adj,0.0,N0,JALC
+vivido,Adj,1.0,N0,MAN
+vivificador,Adj,1.0,N0,MAN
+vivificante,Adj,0.0,N0,MAN
+vivo,Adj,1.0,N0,JALC
+vociferacao,N,-1.0,N0,MAN
+vociferador,Adj,-1.0,N0,MAN
+vociferante,Adj,-1.0,N0,MAN
+voltar a cepa torta,IDIOM,-1.0,N0,MAN
+voltar as costas a,IDIOM,-1.0,N0:N1,MAN
+voltar com a palavra atras,IDIOM,-1.0,N0,MAN
+voluntariosidade,N,1.0,N0,MAN
+voluntarioso,Adj,-1.0,N0,MAN
+voluntarista,Adj,0.0,N0,MAN
+voluptuoso,Adj,0.0,N0,MAN
+voluvel,Adj,-1.0,N0,MAN
+vomitado,Adj,-1.0,N0,MAN
+vomitar-se,V,-1.0,N0,MAN
+vomito,N,-1.0,N0,MAN
+vorace,Adj,-1.0,N0,MAN
+voraz,Adj,-1.0,N0,MAN
+votar contra,IDIOM,0.0,N0:N1,MAN
+votar,V,0.0,N0:N1,MAN
+vulgar,Adj,-1.0,N0,MAN
+vulgaridade,N,-1.0,N0,MAN
+vulgarizado,Adj,-1.0,N0,JALC
+vulgarizador,Adj,-1.0,N0,MAN
+vulnerabilidade,N,-1.0,N0,MAN
+vulneravel,Adj,-1.0,N0,MAN
+xenofilo,Adj,1.0,N0,MAN
+xenofobia,N,-1.0,N0,MAN
+xenofobo,Adj,-1.0,N0,MAN
+xexe,Adj,-1.0,N0,JALC
+xingar,V,-1.0,N0:N1,MAN
+zaino,Adj,-1.0,N0,MAN
+zanga,N,-1.0,N0,MAN
+zangado,Adj,-1.0,N0,MAN
+zargo,Adj,0.0,N0,MAN
+zarolho,Adj,-1.0,N0,JALC
+zelo,N,1.0,N0,MAN
+zeloso,Adj,1.0,N0,MAN
+zelote,Adj,-1.0,N0,MAN
+zombar,V,1.0,N0:N1,MAN
+zombeteiro,Adj,-1.0,N0,MAN
+zonzeira,N,-1.0,N0,MAN
+zonzo,Adj,-1.0,N0,JALC
+zote,Adj,-1.0,N0,MAN
+zumbidor,Adj,-1.0,N0,MAN
