@@ -74,141 +74,28 @@ c. **Baixe os Datasets:**
 - Link para o dataset **LexiconPT**: https://github.com/sillasgonzaga/lexiconPT
 - Link para o dataset **OLID-BR**: https://huggingface.co/datasets/dougtrajano/olid-br
 
----
-
-### 2. Treinando Modelos
-
-#### HateBR
-
-🧠 **Fine-Tuning BERTimbau para Detecção de Toxicidade com HateBR**
-
-Este repositório contém um script em Python para realizar fine-tuning de modelos BERTimbau no dataset **HateBR**, que possui comentários em português rotulados com diferentes níveis de toxicidade:
-
-- 0: Não tóxico
-- 1: Tóxico
-- 2: Discurso de ódio
-
-✨ **Funcionalidades:**
-
-- Pré-processamento automático do dataset HateBR
-- Tokenização com **BertTokenizer**
-- Treinamento com **BertForSequenceClassification** da biblioteca 🤗 **Transformers**
-- Cálculo de métricas por classe (F1, precisão, recall, acurácia)
-- Suporte a **early stopping** e **TensorBoard**
-- Totalmente compatível com **CPU**
-
-#### OLYD-BR
-# Fine-Tuning com BERTimbau para Detecção de Toxicidade (OLID-BR)
-
-Este projeto realiza o **fine-tuning** de modelos BERT em português (como o BERTimbau) para **classificação multilabel de toxicidade** utilizando o dataset **OLID-BR**, uma versão brasileira do OLID (Offensive Language Identification Dataset).
-
----
-
-## 📦 Funcionalidades
-
-- Treinamento de modelos BERT para detecção de múltiplas categorias de toxicidade
-- Cálculo de métricas detalhadas (`macro`, `micro`, por classe, etc.)
-- Aplicação de thresholds específicos por classe
-- Salvamento de logs e métricas de avaliação
-- Suporte a pesos customizados (`pos_weight`) para lidar com desbalanceamento
-
----
-
-## 🧠 Classes de Toxicidade
-
-O modelo é treinado para identificar as seguintes classes:
-
-- `health`
-- `ideology`
-- `insult`
-- `lgbtqphobia`
-- `other_lifestyle`
-- `physical_aspects`
-- `profanity_obscene`
-- `racism`
-- `sexism`
-- `xenophobia`
-## 🛠️ Técnicas de Treinamento Utilizadas
-
-O modelo foi treinado com as seguintes abordagens e práticas:
-
-- ✅ **Modelo pré-treinado BERTimbau**: `neuralmind/bert-base-portuguese-cased`
-- ✅ **Classificação multilabel**: usando função de perda `BCEWithLogitsLoss`
-- ✅ **Pesos por classe (`pos_weight`)**: aplicados para lidar com o desbalanceamento entre classes
-- ✅ **Tokenização com `AutoTokenizer`**: preservando a estrutura linguística do português
-- ✅ **Thresholds personalizados**: valores ajustados por classe para melhorar a performance multilabel
-- ✅ **Estratégia de divisão do dataset**: treino, validação e teste já balanceados via `datasets` HuggingFace
-- ✅ **Aprimoramento com `EarlyStoppingCallback`**: para evitar overfitting com `patience=3`
-- ✅ **Avaliação com métricas multilabel**: incluindo micro/macro F1, Jaccard Score, Hamming Loss
-- ✅ **Uso do HuggingFace `Trainer`**: para facilitar e padronizar o loop de treinamento e avaliação
-
-Essas técnicas foram escolhidas para maximizar a performance em tarefas de **classificação multilabel com dados desbalanceados** — um cenário comum em detecção de discurso tóxico.
-
-Apesar do foco do modelo ser em toxidade, ele se demostru bastante efdicaz em indetifdcaçção de liguamge improria em textos, pricipal,emte se asscoiado como Regex par o auxlio da tarefa.
-
-#### LEXICON-PT
-
-# Análise de Sentimento com BERTimbau e LexiconPT 🇧🇷
-
-Este projeto treina um modelo BERT em português para **classificação de sentimentos** (positivo, negativo, neutro) com base no dataset **LexiconPT**.
-
----
-
-## 📌 Objetivo
-
-Realizar fine-tuning de um modelo BERTimbau (`neuralmind/bert-base-portuguese-cased`) para identificar **polaridade semântica** em palavras/tweets do português brasileiro, utilizando um conjunto de dados lexical.
-
----
-
-## 🛠️ Técnicas de Treinamento Utilizadas
-
-O modelo foi treinado com diversas boas práticas de NLP e deep learning:
-
-- ✅ **Modelo pré-treinado BERTimbau** (`neuralmind/bert-base-portuguese-cased`)
-- ✅ **Classificação de sentimento com 3 classes**: Positivo, Negativo, Neutro
-- ✅ **Uso de `CrossEntropyLoss` com pesos de classe** (`class_weights`) para lidar com desbalanceamento de classes
-- ✅ **Tokenização com `BertTokenizer`**, preservando a estrutura do idioma
-- ✅ **Uso de `Trainer` personalizado (`WeightedTrainer`)** com override de `compute_loss`
-- ✅ **Early Stopping** com `EarlyStoppingCallback(patience=3)` para evitar overfitting
-- ✅ **Divisão estratificada do dataset** (80% treino, 20% teste)
-- ✅ **Avaliação com métricas robustas**: F1, precisão, recall, acurácia
-- ✅ **Pré-processamento automático com padding, truncamento e `max_length` configurável**
-- ✅ **Treinamento com suporte a `fp16` (mixed precision) para maior eficiência**
-
----
-
-## 📁 Dataset
-
-O projeto utiliza o dataset [LexiconPT (Oplexicon v3.0)](https://github.com/rafjaa/lexiconPT), um dicionário de polaridade semântica de palavras em português.
-
-- **Fonte**: CSV localizado em `app/nlp/Data-set/lexiconPT-master/data/csv/oplexicon_v3.0.csv`
-- **Colunas utilizadas**: `term`, `polarity`
-- **Rótulos mapeados**:
-  - `1 → 0` (Positivo)
-  - `-1 → 1` (Negativo)
-  - `0 → 2` (Neutro)
+--
 
 
-
-## 3. Avaliando Modelos
+##  Avaliando Modelos
 ### 1. Modelo de Análise de Sentimento (BERTimbau + LexiconPT)
 
 O modelo de análise de sentimento foi treinado para classificar textos em três categorias: **Positivo**, **Negativo** e **Neutro**, utilizando o dataset **LexiconPT**.
 
-### Métricas Gerais:
+#### Métricas Gerais:
 - **Acurácia**: 76.84%
 - **Precisão**: 76.75%
 - **Revocação**: 76.84%
 - **F1-Score**: 76.63%
 
-### Matriz de Confusão:
+#### Matriz de Confusão:
 | Predito:     | Positivo | Negativo | Neutro |
 |--------------|----------|----------|--------|
 | **Real: Positivo**  | 1052     | 292      | 360    |
 | **Real: Negativo**  | 118      | 2586     | 254    |
 | **Real: Neutro**    | 272      | 195      | 1309   |
 
-### Desempenho por Classe:
+#### Desempenho por Classe:
 - **Positivo**:
   - **Precisão**: 72.95%
   - **Revocação**: 61.74%
@@ -224,23 +111,23 @@ O modelo de análise de sentimento foi treinado para classificar textos em três
 
 ---
 
-## 2. Modelo de Classificação de Toxicidade (BERTimbau + HateBR)
+### 2. Modelo de Classificação de Toxicidade (BERTimbau + HateBR)
 
 Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Não Tóxicos**, utilizando o dataset **HateBR**.
 
-### Métricas Gerais:
+#### Métricas Gerais:
 - **Acurácia**: 96.71%
 - **Precisão**: 96.72%
 - **Revocação**: 96.71%
 - **F1-Score**: 96.71%
 
-### Matriz de Confusão:
+#### Matriz de Confusão:
 | Predito:      | Não Tóxico | Tóxico |
 |---------------|------------|--------|
 | **Real: Não Tóxico** | 3369       | 131    |
 | **Real: Tóxico**    | 99        | 3401   |
 
-### Desempenho por Classe:
+#### Desempenho por Classe:
 - **Não Tóxico**:
   - **Precisão**: 97.15%
   - **Revocação**: 96.26%
@@ -255,7 +142,7 @@ Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Nã
 ## 3. Detecção de linguagem impropria (BERTimbau + OLYD-BR)
 
 
-### Métricas Gerais
+#### Métricas Gerais
 
 - **Loss de Avaliação**: 0.1867
 - **Acurácia**: 51.44%
@@ -269,7 +156,7 @@ Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Nã
 
 ---
 
-### Métricas por Classe
+#### Métricas por Classe
 
 A seguir, as métricas detalhadas de F1-Score, Precisão e Revocação para cada classe.
 
@@ -315,8 +202,9 @@ Com essa abordagem, foi possível aumentar a acurácia do modelo em 6%, alcança
 O recall, especificamente, foi beneficiado por essa estratégia. O recall é uma métrica que mede a capacidade do modelo de identificar corretamente todos os exemplos positivos de uma classe (neste caso, a classe "Profanidade/Obscenidade"). Uma maior ênfase nessa classe, por meio dos ajustes de threshold e Class Weights, permitiu uma maior recuperação de exemplos reais de profanidade, garantindo que o modelo identificasse de forma mais eficaz as instâncias relevantes dessa categoria. Isso foi crucial para melhorar o desempenho do modelo, especialmente em tarefas de moderação automática, onde a precisão na detecção de linguagem inadequada é fundamental.
 
 
-####
+#####
 Apos a conclusão suba o modelo para o huggie face e use ele nos testes
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. (Assumindo licença MIT com base no README anterior)
