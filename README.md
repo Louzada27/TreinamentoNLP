@@ -190,8 +190,8 @@ O projeto utiliza o dataset [LexiconPT (Oplexicon v3.0)](https://github.com/rafj
 
 
 
-### 3. Avaliando Modelos
-## 1. Modelo de Análise de Sentimento (BERTimbau + LexiconPT)
+## 3. Avaliando Modelos
+### 1. Modelo de Análise de Sentimento (BERTimbau + LexiconPT)
 
 O modelo de análise de sentimento foi treinado para classificar textos em três categorias: **Positivo**, **Negativo** e **Neutro**, utilizando o dataset **LexiconPT**.
 
@@ -254,9 +254,6 @@ Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Nã
 
 ## 3. Detecção de linguagem impropria (BERTimbau + OLYD-BR)
 
-# Resultados da Avaliação do Modelo
-
-Este documento contém as métricas gerais e detalhadas para o modelo de detecção de toxicidade, que avalia as categorias de conteúdo com base em diferentes tipos de toxicidade.
 
 ## Métricas Gerais
 
@@ -291,8 +288,6 @@ A seguir, as métricas detalhadas de F1-Score, Precisão e Revocação para cada
 
 ---
 
-## Interpretação dos Resultados
-
 - **Classe "Saúde"** e **"Racismo"** não apresentaram nenhum desempenho, com F1-Score, Precisão e Revocação iguais a 0. Isso pode indicar que o modelo não foi capaz de identificar exemplos dessas classes no conjunto de teste.
   
 - **Classe "Insulto"** apresentou resultados muito bons, com F1-Score de 0.8996, indicando um bom equilíbrio entre Precisão (85.78%) e Revocação (94.56%).
@@ -322,6 +317,6 @@ O recall, especificamente, foi beneficiado por essa estratégia. O recall é uma
 
 ####
 Apos a conclusão suba o modelo para o huggie face e use ele nos testes
-## 📄 Licença=
+## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes. (Assumindo licença MIT com base no README anterior)
