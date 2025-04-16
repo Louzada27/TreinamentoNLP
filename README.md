@@ -255,7 +255,7 @@ Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Nã
 ## 3. Detecção de linguagem impropria (BERTimbau + OLYD-BR)
 
 
-## Métricas Gerais
+### Métricas Gerais
 
 - **Loss de Avaliação**: 0.1867
 - **Acurácia**: 51.44%
@@ -269,7 +269,7 @@ Este modelo foi projetado para classificar conteúdos como **Tóxicos** ou **Nã
 
 ---
 
-## Métricas por Classe
+### Métricas por Classe
 
 A seguir, as métricas detalhadas de F1-Score, Precisão e Revocação para cada classe.
 
