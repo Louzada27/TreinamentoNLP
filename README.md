@@ -36,20 +36,8 @@ Foram utilizados os seguintes datasets:
 
 ## 📁 Estrutura do Projeto
 
-.
-├── Data-set/                     # Diretório contendo os datasets
-│   ├── HateBR-main/              # Arquivos do dataset HateBR
-│   ├── lexiconPT-master/         # Arquivos do dataset LexiconPT
-│   └── ...                       # Outros datasets que podem ser adicionados
-├── train_sentiment.py            # Script para treinar modelo de análise de sentimento (LexiconPT)
-├── train_hatbr.py                # Script para treinar modelo no dataset HateBR
-├── train_olid.py                 # Script para treinar modelo no dataset OLID-BR
-├── train_model.py                # Script genérico para fine-tuning do BERTimbau (potencialmente menos usado agora)
-├── test_sentimento.py            # Script para testar o modelo de sentimento
-├── test_hatbr.py                 # Script para testar o modelo HateBR
-├── test_olidBr.py                # Script para testar o modelo OLID-BR
-├── README.md                     # Este arquivo
-└── ...                           # Outros arquivos de configuração/utilitários
+
+<pre> ```text . ├── Data-set/ # Diretório contendo os datasets │ ├── HateBR-main/ # Arquivos do dataset HateBR │ ├── lexiconPT-master/ # Arquivos do dataset LexiconPT │ └── ... # Outros datasets que podem ser adicionados ├── train_sentiment.py # Script para treinar modelo de análise de sentimento (LexiconPT) ├── train_hatbr.py # Script para treinar modelo no dataset HateBR ├── train_olid.py # Script para treinar modelo no dataset OLID-BR ├── train_model.py # Script genérico para fine-tuning do BERTimbau (potencialmente menos usado agora) ├── test_sentimento.py # Script para testar o modelo de sentimento ├── test_hatbr.py # Script para testar o modelo HateBR ├── test_olidBr.py # Script para testar o modelo OLID-BR ├── README.md # Este arquivo └── ... # Outros arquivos de configuração/utilitários ``` </pre>
 
 ---
 
